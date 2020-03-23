@@ -1,5 +1,5 @@
 # Getting yourself set-up
-## Create Account
+## Step 1: Create Account
 First thing’s first, you’re going to need a GitHub account.
 
 Go to: https://github.com/
@@ -16,7 +16,7 @@ Unless you want to learn a bit more about GitHub and do anything fancier for you
 
 This will open a page up that shows a whole load of stuff you won’t need to worry about. If you wanted to learn a bit more about Git and GitHub, there should be a prompt to “Read the guide”, but we’ll cover everything you should need to know here – you don’t need to overwhelm yourself with all the coding stuff in order to help with our Cambridge Digital Library transcription project. 
 
-## Join our project
+## Step 2: Join our project
 Now you have a basic account set up, you can find and join the project.
 Got to:
 https://github.com/Cambridge-Digital-Library/Crowdsourcing
@@ -32,4 +32,4 @@ This will let us know that you want to join in and we can then add you to the pr
 
 Go ahead and click the green button “View Invitation” in the email, which should open a browser tab with a green button to accept the invitation. 
 
-Welcome along! :-)  
+# Welcome along! :-)  
