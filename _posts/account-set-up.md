@@ -1,3 +1,4 @@
+# Getting yourself set-up
 ## Create Account
 First thing’s first, you’re going to need a GitHub account.
 
