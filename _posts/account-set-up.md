@@ -1,3 +1,7 @@
+---
+title: "Getting started"
+date: 2020-03-24
+---
 # Getting yourself set-up
 ## Step 1: Create Account
 First thing’s first, you’re going to need a GitHub account.
