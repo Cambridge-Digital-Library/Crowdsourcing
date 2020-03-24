@@ -2,6 +2,6 @@
 A crowdsourcing caimpaign by  https://cudl.lib.cam.ac.uk/ Cambridge Digital Library
   
 # Getting Started
-Get started by docs/_posts/getting-started.md setting up an account and joining the project
+Get started by [setting up an account and joining the project] (https://cambridge-digital-library.github.io/Crowdsourcing/docs/posts/getting-started.md)
 
 # More...
