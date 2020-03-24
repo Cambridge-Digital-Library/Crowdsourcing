@@ -1,4 +1,3 @@
-# Alone in a crowd … transcribing together
 A crowdsourcing caimpaign by [Cambridge Digital Library](https://cudl.lib.cam.ac.uk/)
   
 # Getting Started
