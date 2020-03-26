@@ -2,7 +2,7 @@ body{font-family: Myriad Pro, Arial, Helvetica, sans-serif;text-align: left;}
 h1 {font-size: 48px; color: #696969;}
 h2 {font-size: 30px; color: #303030; border-style: none, none, solid, none; border-width: 2px; border-color: #BEBEBE}  
 p {font-size: 18px; color: #303030;}
-img {max-width: 100%; height: auto; border:1px solid #F5F5F5;}
+img {max-width: 100%; height: auto; border:2px solid #F5F5F5;}
 
 a:link {color: inherit; text-decoration: underline;}
 a:visited {color: inherit; text-decoration: underline;}
