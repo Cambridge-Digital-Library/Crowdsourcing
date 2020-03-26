@@ -8,7 +8,7 @@ a:visited {color: inherit; text-decoration: underline;}
 a:hover {filter: inverted;} 
 a:active {filter: inverted;}
   
-.centre {margin: auto; padding: 30, 15, 30, 15;}  
+.centre {padding: 30, 15, 30, 15;}  
 .header {background-color: #106470; color: #F5F5F5; padding: 15px 20%; text-align: center;}
 .content {background-color: #ffffff; padding: 30px 10%;}
 .footer {background-color: #303030; color: #F5F5F5; padding: 15px 20%; text-align: center;}
