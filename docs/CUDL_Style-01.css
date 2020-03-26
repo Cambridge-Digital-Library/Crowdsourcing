@@ -5,7 +5,7 @@ h2 {font-size: 30px; color: #303030; text-align: left; border-style: none, none,
 p {font-size: 18px; line-height:20px; color: #303030;text-align: left;}
 img {max-width: 100%; height: auto; border:1px solid #F5F5F5;}
 div {padding: 10px;}
-ul {list-style-type: circle;}
+ul {list-style-type: circle; color: #303030}
 
 a:link {color: inherit; text-decoration: underline;}
 a:visited {color: inherit; text-decoration: underline;}
