@@ -1,7 +1,7 @@
 * {box-sizing: border-box;}
 body{font-family: Myriad Pro, Arial, Helvetica, sans-serif;text-align: left;}
 h1 {font-size: 48px; color: #696969;}
-h2 {font-size: 30px; color: #303030;}  
+h2 {font-size: 30px; color: #303030; border-style: none, none, solid, none; border-width: 2px; border-color: #BEBEBE}  
 p {font-size: 18px; color: #303030;}
 .header {background-color: #106470; color: #F5F5F5; padding: 15px 20%; text-align: center;}
 .content {background-color: #ffffff; padding: 30px 10%;}
