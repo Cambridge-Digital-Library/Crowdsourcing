@@ -12,7 +12,7 @@ a:hover {filter: inverted;}
 a:active {filter: inverted;}
   
 .header {background-color: #106470; color: #F5F5F5; text-align: center; height: 450px;}
-.content {background-color: #ffffff; padding: 30px 10%;}
+.content {background-color: #ffffff; text-align: center;}
 .footer {background-color: #303030; color: #F5F5F5; text-align: center;}
 .button {border-radius: 10px; background-color:#F5F5F5; color:#101010; padding: 14px 25px; text-align:center; text-decoration:none; display:inline-block;} a:hover, a:active {background-color:#91B9A4;}
 .normal {filter: invert(0%);}
