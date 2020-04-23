@@ -1,9 +1,12 @@
 Transcribe:
 Notebook 42, covering May 1960 to June 1960 (CCCC14/6/2/1/42)
 
-Link to item to transcribe (the images of the original):
-https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00042/1
+Link to text file to edit:
+https://github.com/Cambridge-Digital-Library/Crowdsourcing/blob/master/transcription/oliver-rackham/MS-CCCC-00014-00006-00002-00001-00042.txt
 
+Link to images of original:
+https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00042/1
+---
 
 [cover]
 
