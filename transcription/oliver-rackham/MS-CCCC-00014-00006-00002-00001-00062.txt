@@ -157,6 +157,10 @@ Sisymbrium mur.
 Senecio sq.
 Poa ann
 Plantago maj.
+Senecio ssq.
+Hordeum vulg.
+Sonchus asper
+Matricaria mat.
 [5044-5045]
 
 [5046-5047]
