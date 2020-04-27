@@ -169,15 +169,90 @@ Hordeum vulg.
 Sonchus asper
 Matricaria mat.
 
+[5044-5045]
 5044
 Atriplex
+Rubus
+Saponaria
+Polygon avicul.
+Lolium
+Mercurialis
 
-[5044-5045]
+Some of the Saponaria is 
+double, some single.
+
+Site 8 St Benedicts Gates
+[DIAG]
+Rumex obt.
+Atriplex
+Aster
+
+5045
+Chamaenerion
+Trifol. rep.
+Sececio. Squ.
+Urtica
+Solidago
+Sambucus
+Dactylis
+Daucus
+Agrostis
+Hordeum
+Arctium
+Erigeron
+Matric. mat.
+Cirsium lanc.
+Ballota
+Artemisia
+Mercurialis
+Lolium
+Plant. lanc.
+Sonchus asper
 
 [5046-5047]
+5046
+Malva
+Taraxacum
+Bromus sterilis
+Lapsana
+Capsella
+Achillaea
+Convolvulus
+Agrost. stol.
+Chamaenenon
+Rubus
+Apple
+[????]Torilus[????]
+Cirsium [????]anv.[????]
+Matric. inod.
+Lamium album
+Cheiranthus
+Agropyron can.
+Acer Aster [????]laerin L.[????]
+Tragopogon
+[????]Arthenathernum[????]
+
+5047
+Site 7 St Swithun's Alley
+[DIAG]
+Atriplex
+Poa ann.
+Lolium
+Plant. maj.
+Polyg. avic.
+Mercurialis
+Senecio squal.
+Agrostis
 
 [5048-5049]
-
+5048
+Matric. mar.
+Veronica filif.
+Stellania med.
+Linum sp.
+Lolium multifi.
+Plantago lanc.
+Chamaenerion
 [5050-5051]
 
 [5052-5053]
