@@ -20,6 +20,7 @@ Ditch, Lakenheath,
 fungi) 5090-2,
 5112-5124
 [5037]
+5037
 64 Harvey Lane
 Norwich
 April 15 1961
@@ -40,6 +41,7 @@ apparently sound
 Lichenometry.
 Grandfather's tombstone,
 [5038-5039]
+5038
 erected 1951 under an
 oak tree Roman lime-
 stone, smooth polished.
@@ -62,6 +64,7 @@ N S E W
 A large flock of partridges
 was started at Redenhall.
 About 18lb of a medium
+5039
 coloured rather thick honey
 have been extracted.
 September 17.
@@ -85,6 +88,7 @@ Coreopsis F Wh Shamr. Doronicum
 Aconitum Nasturtiums Aubrietia
 [TABLE]
 [5040-5041]
+5040
 [TABLE]
 "Lonicera" Roses Hydrangea
 Ceratostigma [SYMBOL] Phlox
@@ -104,6 +108,7 @@ S Dty Maid
 N Dty Maid
 CG
 [????]ear gar[????] Fe Rambler
+5041
 Urid. 2
 BR
 Pears 12
@@ -126,6 +131,7 @@ ham is completely dead
 and [????]lfless.[????]
 2 E. of F.
 [5042-5043]
+5042
 September 25.
 Site 11 No significant
 part left. still clear, but
@@ -145,6 +151,7 @@ Sisymbrium mur.
 Lolium
 Atriplex
 
+5043
 Polygonum avic.
 Agrostis
 Sonchus asper
@@ -161,6 +168,10 @@ Senecio ssq.
 Hordeum vulg.
 Sonchus asper
 Matricaria mat.
+
+5044
+Atriplex
+
 [5044-5045]
 
 [5046-5047]
