@@ -98,7 +98,25 @@ Hesperis [SYMBOL]
 P Anemone
 Wh Anemone
 Viburnum
-P [????]Unid. l[????] N Red Cl.
+P Urid. 1 N Red Cl.
+B A
+S Dty Maid
+N Dty Maid
+CG
+[????]ear gar[????] Fe Rambler
+Urid. 2
+BR
+Pears 12
+[TABLE]
+September 22.
+8 Pears 1 3/4
+September 23.
+The Fuschsia is un-
+usually well flowering this
+year.
+September 24.
+Malva moschata was
+senn in a field at 
 [5042-5043]
 
 [5044-5045]
