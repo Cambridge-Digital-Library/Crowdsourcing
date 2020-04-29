@@ -25,8 +25,6 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00070/1
 [TABLE][SYMBOL]NOVEMBER 4
 [TABLE][SYMBOL]1962
 
-[5690-5691]
-
 1.A few on the back grass.
 1 1/2-1 1/2-1/8
 [TABLE] P.conical-campanulate,
@@ -42,7 +40,12 @@ No appreciable pellicle.
 brown, slightly paler when
 dry, smooth, matt, humid,
 cartilaginous, +- solid, slightly
-pruinose
+pruinose, white mycelium on
+base.
+[TABLE] L.thin, distant, arcu-
+ate-sinuate, medium pink.
+
+[5690-5691]
 
 [5692-5693]
 
