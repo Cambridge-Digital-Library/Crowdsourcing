@@ -56,7 +56,7 @@ gonal , with a pronounced
 apiculus, nearly isodiametric,
 very uniform in size, 7x6
 μ, with 3-4 guttules.
-["DIAG"]
+[DIAG]
 Nolanea Lucida
 Orton (1960) p.331
 (segregate of Rho-
@@ -132,7 +132,7 @@ transient layer.
 November 17.
 [TABLE] A hard frost.
 November 18.
-Elm ["DIAG"] Plane ["DIAG"] Lime
+Elm [DIAG] Plane [DIAG] Lime
 [TABLE] Horsechestnuts
 Plane 
 Acacia
@@ -159,11 +159,52 @@ November 21.
 the snow melted.
 November 22.
 [TABLE] A hard frost at night.
-Elm ["DIAG"] Beech ["DIAG"] Plane
-Larch ["DIAG"] Willows ["DIAG"] Horsechestnut
+Elm [DIAG] Beech [DIAG] Plane
+Larch [DIAG] Willows [DIAG] Horsechestnut
 [TABLE] Lime
 
 [5696-5697]
+[DIAG][DIAG] Pear
+[TABLE]Cherry
+[TABLE]Mulberry
+November 23.
+[TABLE] The frost appears to
+have promoted its fall on
+horsechestnuts, but
+delayed it on elms.
+November 24.
+[TABLE] Ivy is still flowering.
+November 25.
+[TABLE] Picris echioides gr[????]
+abundantly in a field
+by the northern C[????]
+footpath. It is flowering
+still.
+Elm [DIAG] Beech [DIAG] Beech
+Larch[DIAG][DIAG]Horsechestn.
+[TABLE][DIAG] Pear
+[TABLE][DIAG]Cherry
+
+[DIAG][DIAG] Lime
+[DIAG][DIAG]Plane
+November 26.
+[TABLE] Acanthus has been
+unaffected by frost.
+November 27.
+[TABLE] The owls have not been
+heard recently.
+November 28.
+[TABLE] The weather is much 
+milder now.
+November 29.
+[TABLE] Ivy is still flowering.
+November 30.
+[TABLE] The owls were heard
+again.
+[TABLE]
+[!!!!] November 31 [!!!!] Decmber 1.
+Oak [DIAG] Elm [DIAG] Elm [DIAG] (most)
+Elder [DIAG] Hawthorn [DIAG] Ash
 
 [5698-5699]
 
