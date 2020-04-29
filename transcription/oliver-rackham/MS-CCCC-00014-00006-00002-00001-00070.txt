@@ -12,13 +12,31 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00070/1
 [cover]
 5689-5760
 4 Nov.1962 - 22.Jan.1963
-Norwich 5689-91, 5714-31
-5747-50
-Surlingham 5720-9
-Cambridge 5691-5714
+[TABLE]Norwich 5689-91, 5714-31
+[TABLE] 5747-50
+[TABLE]Surlingham 5720-9
+[TABLE]Cambridge 5691-5714, 5732-47,
+[TABLE] 5751-60
+[TABLE](Ispwich 5710)
+
 [5689]
 
+[TABLE] [SYMBOL]64 H.L
+[TABLE][SYMBOL]NOVEMBER 4
+[TABLE][SYMBOL]1962
+
 [5690-5691]
+
+1.A few on the back grass.
+1 1/2-1 1/2-1/8
+[TABLE] P.conical-campanulate,
+flattening only when old,
+slightly umbonate, margin
+inrolled very hygrophanous.
+Wet : dark sepia-horn
+smooth, matt, humid, uni-
+form. Dry : pale whitish buff,
+pronounced short-silk sheen.
 
 [5692-5693]
 
