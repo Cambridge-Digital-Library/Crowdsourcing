@@ -34,16 +34,16 @@ Institute 5947-52
 Pit
 [!!!!]Hipocp[!!!!]
 [!!!!]Lantana[!!!!]
-[!!!!]A[????]s[????]t. camp.[!!!!]
+[!!!!]A[????]t. camp.[!!!!]
 [!!!!]Prim. elatior[!!!!]
 [!!!!]Reh[!!!!]
-[!!!!]Tal[????]ys[????][!!!!]
+[!!!!]Talys[!!!!]
 [!!!!]Alnus[!!!!]
-[!!!!]Cherr[????]y [????][!!!!]
+[!!!!]Cherr[????][????] [????][!!!!]
 Asarum
 Dicentra
 Hop
-Cheli[????]t[????]on
+Cheliton
 
 
 [5881]
@@ -291,7 +291,7 @@ now derelict, below Hill
 Plantation. Frequently
 buried in the clay.
 Black mycelial cushions,
-c. 1/8 in. diam.
+c. [SYMBOL] in. diam.
 Hyphae black, much
 
 5895
@@ -313,7 +313,7 @@ Chaetomium sp.
 3. (May 5). About five under
 various trees in different
 parts of the wood. Up
-to 4 - 7 - 1 1/2 (top) 2 1/2 (bottom).
+to 4 - 7 - 1 [SYMBOL] (top) 2 [SYMBOL] (bottom).
 P. globular, divided by
 anastomosing ridges into
 
@@ -527,8 +527,73 @@ cartilaginous-corky.
 [5906-5907]
 5906
 
+[TABLE]
+Pear Quin. Doronicum Daffodills
+Convall.   Aubretia  Almond
+Bluebell   Honesty   Forsythia
+Spiraea VH Scilla
+DrH        Japan Ch.
+Pippin     Mahonia     (May 12
+Tulip S    Ke[????]ia   64 H.L.)
+Coton.di V.Narcissi
+L S        Hyacinth
+A next-Hut Deadnettle
+           Berb. Thunb.
+           Wh. Win Ch
+           Pear
+[TABLE]
+
+T. about [SYMBOL] in. long.
+PO. small (150 [SYMBOL]), an-
+gular, crowded.  P.S. buff,
+with black spots where
+damaged, decurrent.
+C. thin, corky.
+
+5907
+[DIAG}
+
+13. Chlorocibora aeniginosa.
+Wood stained mid
+blue with beautiful
+yellow, green, and pink
+sheen in places. 27
+
+28. Mnium hornum frequen-
+tly has fine antheridial
+shoots: see over.
+29. Metzgeria furcata grows
 
 [5908-5909]
+5908
+
+[TABLE]
+++              +              -
+Hawthorn        Apple           Oak 9most
+Pear            Sycamore        Ash
+Sycamore (most) Elm             Sycamore (few)
+Lilac           Beech           Beech
+Hazel           Oak             Elm
+Horsech.        Salix alba      Norwich-Wy-
+Lime            Prunus cerasif. mondham
+Salix frag.                     district; May 13.
+[TABLE]
+in bark crevices of several
+large elms E. of the Nowel-
+lia region.
+Bryum capillare: occa-
+sional on rotten wood.
+29[!!!!][SYMBOL]. Dicranowei[SYMBOL]zia cirrata oc-
+casional on fallen branches,
+[!!!!]29[SYMBOL]. Plagiothecium denti-
+culatum: rare, shady ground.
+
+
+
+5909
+[DIAG]
+Mnium hornum: Antheridium 
+& Paraphyses
 
 [5910-5911]
 
