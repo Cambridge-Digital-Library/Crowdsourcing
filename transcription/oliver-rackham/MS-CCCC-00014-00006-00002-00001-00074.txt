@@ -52,7 +52,7 @@ Bryophytes kc (25/5/63
 shady rocks of the Pir
 purger Bergsturz, Habichden.
 72:Philonobis fluo[????] S
-facibg, Otzer Au
+facing, Otzer Au
 73:Bartramia,rocks ibid.
 74:Thurd [SYMBOL] rocky bank
 75:Eurhyn [SYMBOL] W.facing ibid
@@ -66,11 +66,12 @@ wood ibid
 76: Grimmia, glaciated rocks (p.5966)
 81: Grimmia, glaciated rocks (p.5966)
  82: Leucodon? ibid.
- 83: cf Porella,old junipdr (as 80)
+ 83: cf Porella,old juniper (as 80)
  Steep S facing meadows,
  betwen Olz and Au, c. 1000m
  Artemisia camp.
- Afrtemisia*(cf borealis) the cxommon
+ 
+ Artemisia*(cf borealis) the common
  est sp. absinthium
  Euph. cypar
  Salvia prat
@@ -88,7 +89,7 @@ Silene gall
 clematis alpina, scarce,
 mainly on rock outcrops
 Potentilla canescens
-Thymus sp.*pulefiridisxalpestris
+Thymus sp.*[????pulefiridis]xalpestris
 Valerianella sp*locusta
 Lilium M[????]agon grows
 in light shade in a bushy
@@ -113,7 +114,7 @@ Tilia cord
 Cynanchum abund.
 Sedum teleph.
 Artemisia camp.
-Arenaria serphullifolia
+Arenaria sapyllifolia
 Erodium cicutarium
 
 Glaciated rocks facing S.W.
@@ -123,7 +124,7 @@ Amelanchier
 Sempervivum arachn
 S. nemorum
 Stellaria*(cerastium arvense
-Artemisia camp  commune
+Artemisia camp  commune)
 Galium verum
 
 
@@ -131,21 +132,21 @@ Galium verum
 [5966-5967]
 Cynanchum ab
 Allium sp. (senescens?)
-Polygonalum (offic.) ab even
+Polygonatum (offic.) ab even
 in entire absence of shade
 Saponaria Ocymoides ab
-Euphorb . Chyp;afr. sc
+Euphorb. Chypar. sc
 Asplen. sepiente in clefts
 and occ in more exposed
 pockets
-A.trichomaries
+A.trichomares
 Semperv. tectonum sc
 Prunus padus small sample
 Geranium molle
 Carex* ab in clefts
 (myricata agg) divulsa
 Bryumarg
-Rhaclom. lanug
+Rhacom. lanug
 Grimmaria*81
 Leucodon*82
 Most of the rock is bare
@@ -162,7 +163,7 @@ geographicum agg. (at
 least 2 spp)up to 2cm
 diam Haematomania ven-
 tosum is present but
-scarcs.see p. 5962
+scarce.see p. 5962
 Bracken is scarce
 around the Auer Klamm
 The fronds are not
@@ -180,7 +181,7 @@ Larch scarce
 Erica carnea ground dom
 luxuriant, nearly continuous cover
 Juniper ab
-Polygala chamaebucus ab
+Polygala chamaebuxus ab
 Cladonia* v ab. locally
 dom 84
 Cetraria islandica ab
@@ -193,7 +194,10 @@ Yellow Cladonia [????]85
 Tortula* v loc 86
 Hepatic* v loc 87
 Petrosel. Orosel VR
-S. Euvulgata scHieracia Orcadea R
+Spruce VR seedlings
+Hieracia Oreadea R
+H. Euvulgata sc
+
 
 [5970-5971]
 Anthyllis sc
@@ -201,25 +205,28 @@ This is probably the
 least thermophillous of
 the woods at the mouth
 of Otztal
-The Durrewnberg in the 
+The Durrenberg in the 
 middle of the Bergfall
 is apparewntly a solid
 outcrop of Urgeftein, with
 cliffs to the E.
 The most thermophilous
 vegetation seen was im-
-mediately S. side of small
-hills of large gravel
-cover of higherplants
+mediately S.of this hill
+on the S side of small
+hills of large gravel,
+cover of higher plants
 very incomplete.  No ap-
 preciable shade.
+
 Carex humilis V ab c 30%
 Erica ab reduced to
-isolated hummucles 10%
+isolated hummocks 10%
+
 Polygala chammae [[????]
 very short creeping under
 ground
-Cursium sp. sc.
+Cirsium sp. sc.
 Juniperus large bushes ab
 Pine scattered small trees
 no appreciable shade
@@ -227,9 +234,60 @@ Polygala vulg. Rab*
 oxypteraBiscutella VR
 
 [5972-5973]
+Cladonia alcic. v ab
+between stones 25%
+Tortula sp.* Rab 5%
+Cladonia gray [SYMBOL]
+Clad. yellow [SYMBOL]
 
+Dorenium R sc in
+dense low patches
+
+Thymus sp.R ab
+(pumilum)
+Galium* cf hercyn Rab
+
+Euphorbia Cypr. sc only
+seedlings to c. 2 m high
+
+Lathyrus*sc
+(Coronilla vaginalis)
+Cotoneaster sc
+
+Polygonatum sc
+
+Hieracium R Pitosella?
+ssp velutinum
+The Dunenberg itself
+has a rather dense forest
+of small pines, with a 
+little larch;  few herbs, 
+abundant mosses, mainly
+Hypnum cupressiforme and
+Rhyticlium. [!!!!Astragalus Onobrychus]Vicia iniana
+V steep E facing slopes*
+Pine mitletoe also Hippopcryois
+Carex montana
+C. rupestris stet
+A mistletoe resembling 
+Viscum albium in twigs
+and leaves but always 
+having a curious golden
+green colour (like Rhytichium)
 [5974-5975]
+[DIAG]
+Part of pine tree
+about 30 ft from
+ground, Dunberg
 
+Part of pine tree about
+40 ft from ground, E of [SYMB]
+Dunberg
+G: gall
+M: obvious living mistletoe
+MW: witches' broom of mistle
+toe
+[DIAG]
 [5976-5977]
 
 [5978-5979]
