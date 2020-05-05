@@ -455,7 +455,7 @@ Cambridge :
 [DIAG][DIAG] Mulberry
 [DIAG][DIAG] Beech
 [DIAG][DIAG] Cherry (various)
-[5710-5711] Lime
+[DIAG][DIAG] Lime
 [TABLE] Tilia cordata on
 Queen's Piece still
 retain dead frs.
@@ -467,12 +467,15 @@ area at one corner where
 the ducks and geese 
 are.
 
+[5710-5711]
+
 [TABLE] At the foot of the
 hill , about 10 yards from
 the lake, is a small 
 moribund horsechestnut
 with signs of Armillaria
 about 3ft from the ground.
+
 [5712-5713]
 
 [5714-5715]
