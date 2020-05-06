@@ -1489,23 +1489,23 @@ dant in rocky
 ground around Tirol.
 [5292]
 CORRECTIONS
-10.7.59 iris sp. [SYMBOL] Colchicum autum --I
+10.7.59 iris sp. [SYMBOL] Colchicum autum --1
 [!!!!]7.9.55[!!!!] nale
 7.9.55 Galium boreale [SYMBOL] rotundifolium
 W22 Schoenoplectus lacustris
 [SYMBOL] tabernaemontani
-22.7.59 Orchus strictifolia f.2.[SYMBOL]
+22.7.59 Orchis strictifolia f.2 [SYMBOL]
 Gymnadenia odoratissima
 W258 Centaurea cyanno [SYMBOL] trium-
 fettii
-3.9.55 C. cyanus ex triumfettii 
+3.9.55 C. cyanus ex triumfettii +1
 13.7.58 Carex pulicario [SYMBOL] davalliana 
 20.7.58 Carex ovalis [SYMBOL][SYMBOL][SYMBOL] contigua
 8.8.55 C. contigua [SYMBOL] [SYMBOL] [SYMBOL] otrubae
 2.9.55 C. sp. [SYMBOL] ovalis
 8.8.55.C. contigua [SYMBOL][SYMBOL][SYMBOL] otrubo
 20.7.58 Carex ovalis [SYMBOL][SYMBOL][SYMBOL] contigua
-8.8.55.C. contigua [SYMBOL][SYMBOL][SYMBOL] otrubo
-
+8.8.55.C. contigua [SYMBOL][SYMBOL][SYMBOL] otrubae
+2.9.55 C. sp. [SYMBOL] ovalis -1
 [back cover]
 
