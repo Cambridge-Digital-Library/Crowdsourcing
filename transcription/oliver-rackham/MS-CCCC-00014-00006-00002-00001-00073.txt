@@ -19,7 +19,7 @@ Norwich 5911-5, 5917-8
 Folkestone 5918-24
 RINN 5925-60
 Institute 5947-52
-{SYMBOL]TZ 5960
+[SYMBOL]TZ 5960
 [!!!!]Squirell{!!!!]
 [!!!!]Phlium[!!!!]
 [!!!!]Homigyne[!!!!]
