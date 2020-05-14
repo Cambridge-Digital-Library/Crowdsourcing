@@ -358,8 +358,8 @@ Trollius is abundant.
 Hepatica and Maian-
 themum, also Gentiana
 Kchiana, occur at the
-edges of thickets. Hepa=
-tica is nearly over, Gen=
+edges of thickets. Hepa-
+tica is nearly over, Gen-
 tiana well open, and
 Maianthemum not quite
 open.
@@ -686,7 +686,7 @@ the much larger area
 to the E.  Both are similar,
 the latter more densely
 foprested.  The blocks are
-up tothe size of a house,
+up to the size of a house,
 mostly smaller, without
 exception thickly over-
 grown with mosses and 
@@ -738,7 +738,7 @@ Equus. telm.
 May 29
 Cortusa matthioli grows
 in the shade of rocks in sev-
-eral places in thwe lower
+eral places in the lower
 Roisengartl Schlucht, Imst.
 May 30
 Bog, Lagenfelder Winkel
@@ -826,7 +826,7 @@ Erica carnea is fairly
 abundant on the Maurach,
 less so than Vaccinium spp.
 Cladonia alpicola oc-
-csionally forms almost 
+casionally forms almost 
 pure stands, with a little
 [6004-6005]
 Vaccinium and other Cladonine,
@@ -873,7 +873,7 @@ shady N.E. facing bank
 below Kofels, c. 1200m.
 The two Vaccinium spp. oc-
 cur sparingly, while the 
-bryophytes associated arew:
+bryophytes associated are:
 Rhytidiadelphus trig.
 Ptilium crista-c
 Hylocomium spl.
@@ -921,7 +921,7 @@ S.E. facing rocky ground
 at the top of the Rofengarten=
 schlucht.
 Saponia ocymoides
-occurs rather frewquently on
+occurs rather frequently on
 dry rocky limestone ground
 Hippophae occurs on
 hot loose small scree at
@@ -1072,7 +1072,7 @@ the past two years. It
 consists of fine chalk mud
 at least 1 ft deep.  Most
 of the roots are in the
-top 2 in.but some pene-
+top 2 in. but some pene-
 trate much further along
 cracks in the mud.  The
 vegetation is a short
@@ -1083,13 +1083,13 @@ of the pit, near its E. end.
 The plant was so diminished
 by drying out as to be
 hardly distinguished.  It
-dsid not flower last ywar.
-As gthesite is to be buried,
+did not flower last ywar.
+As the site is to be buried,
 about 10 sq ft of turf
-werew cut out and replaced
+were cut out and replaced
 [6018-6019]
 in a much wetter situation
-in two places by an artip
+in two places by an arti-
 ficial stream leading into
 the W. end of the old
 pit (i.e. near the middle of
@@ -1136,7 +1136,7 @@ colonizing birch was cut
 down.   There is still a
 small pond.
 Calluna survives at
-the edge of thefen.
+the edge of the fen.
 The Quercus cerris in
 the wood frequently has
 a narrow and deeply
@@ -1144,7 +1144,7 @@ dissected leaf.
 Oak seedlings are
 many in the small fen.
 The first 4-5 lvs are reduced
-to their bases and stripules.
+to their bases and stipules.
 Thereafter, they increase
 irregularly in size and
 [DIAG]
@@ -1354,10 +1354,35 @@ Mills:  20 ft wheel
 [6032]
 Corrections
 16.4.56 Eurhynchium praelongum
-[SYMBOL] Hypnum cupreosiforme var.
+[SYMBOL] Hypnum cupressiforme var.
 filiforme
-
-
+12.55 [SYMBOL] Eurhynchium swartzii p.p.
+17.4.56[SYMBOL][SYMBOL] Thuidium tamariscimum
+19.4.56 Eurhynchium riparioides +1
+[SYMBOL]Neckera complanata
+7.8.57 Hypnum cupressiforme p.p. +1
+resupinatum
+12.55[SYMBOL]Ctenidium molluscum p.p.
+21.4. 56[SYMBOL] [SYMBOL]Hypnum cupressiforme
+16.4.56 Sphagnunm palustre p.p. ['SYMBOL]S. +1
+subsecundum var. inundation
+29.8.56S.palustre p.p.[SYMBOL]S. platy - +1
+phyllum
+19.4.56 S.compactum[SYMBOL] S.magalleni-
+cum
 [back cover]
+Acherkogl
+&
+Archplatten
+v.
+Achenbach
+[!!!!]Arril[!!!!] [!!!!]Kaltbach[!!!!][!!!!]Hippo[!!!!]
+[!!!!] [!!!!] [!!!!]Cortusa[!!!!][!!!!]Uonymus[!!!!]
+[!!!!] Sillagin[!!!!] [!!!!]Yellowlillen[!!!!]
+[!!!!]Phlivin[!!!!] [!!!!]Carex h [!!!!]
+[!!!!]Loreus[!!!!][!!!!]Saponaria[!!!!]
+
+
+
 
 .
