@@ -39,7 +39,7 @@ occurred.
 28. Occasional among leaves
 in the belt N. of the scout huts [!!!!]below Lethbridge's
 buried gods[!!!!] 1 1/2-1 3/4-3/16
-P. ovoid, then epanded
+P. ovoid, then expanded
 and convex, brownish, black
 when bruised, radially fibril-
 lose, matt, dry, margin inrolled
@@ -225,7 +225,7 @@ P. brownish buff, becoming
 chestnut in the middle,
 depressed behind, margin frilly,
 very rough and granular with
-blackish graules, humid.
+blackish granules, humid.
 P.S. whitish buff, decur-
 rent. P. smallish (-3 mm),
 angular, rather thick-walled.
@@ -336,7 +336,6 @@ Quam magnificata sunt
 opera tua, Domine; omnia in
 sapientia fecisti; impleta est
 terra possessione tua!
-
 October 24 Hayley Wood
 1. Lactarius subdulcis. One
 under an oak near the
@@ -367,14 +366,14 @@ umbonate, margin strongly in-
 curved, date-brown, very hygro
 phanous, pallid-buff whendry,
 slightly durchscheinengerift,
-matt, slightly wolly under a lens,
+matt, slightly wooly under a lens,
 humid.
 S. markedly conical,
 chestnut above, pallid below,
 cartilaginous, stuffed, smooth,
 rather shiny, naked.
 L. bright rust-golden,
-margin paler adnate-sinuate, ohin,
+margin paler adnate-sinuate, thin,
 distant, very broad.
 C. thin, concolorous, fungus
 smell.
@@ -514,7 +513,7 @@ pear tree in the Bursar's
 garden. It is difficult to
 see how this could be a 
 branch infection, as the
-trynk is clear of branches
+trunk is clear of branches
 for the first 15ft or so.
 October 30
 Rhytidindelphus squamosus
@@ -528,7 +527,7 @@ Again a wild day. The
 only damage seems to have
 been a branch spilt off a
 elm in the Backs, which was
-due to an inclded pocket
+due to an included pocket
 of bark in the fork.
 November 2
 A fine calm day
@@ -538,7 +537,7 @@ Heavy frost in the preceding
 night, with air temperatures
 many degrees below freezing.
 Frost persistted in sheltered
-places on teh Breck all
+places on the Breck all
 day. It seems to have
 been universal, even under
 trees, and the air temper-
@@ -760,8 +759,9 @@ Cor. distinguish it from G.
 
 [7580-7581]
 
-picreaus ad G. liquiritiae
 [DIAG]
+picreaus and G. 
+liquiritiae
 14. Lepiota amianthins. Wide-
 spread and abundant. W. 
 Stow Field (under Corsican).
@@ -913,7 +913,7 @@ thin-walled, very angulari
 T. long, brownish tawny.
 C. thick, white, pale
 pink in the upper half, no colour change.
-Not very worm-eater.
+Not very worm-eaten.
 [DIAG]
 Boletus (xerocomus) Chrysenthe-
 ron. Certain, despite the viscous
@@ -1034,7 +1034,7 @@ ish. P. small (2/10-1/4 mm), thin-
 walled, angular, erose at
 mouth. T. shortish.
 C. thin, whitish, corky, o-
-douless.
+dourless.
 [DIAG]
 Polyporus Wynnei.
 Almost certain
@@ -1154,7 +1154,6 @@ young.
 [7604-7605]
 
 [TABLE]
-
                             W. Stow Ickling- Wordwell Wordwell Redneck W. Haling Lynford Brandon P.
                                     ham      Covert   N.F.              
 30. Xerocomus chrysenteron                                                                +
@@ -1176,7 +1175,6 @@ young.
 2. Mycena galopus                                           +                     +
 3. M. galopus var. nigra                                    +
 4. M. tenella                                               +
-
 [TABLE]
 
 [7606-7607]
@@ -1203,11 +1201,11 @@ young.
 31. Russula ochroleuca                                                                         +        [SYMBOL]+
 8. Lactarius rufus                   +                                    +                    +        [SYMBOL]+
 9. L. theiogalus                                                          +
-
 [TABLE]
 
 [7608-7609]
 
+[TABLE]
                           W.Stow  Ickling-  Wordwell  Wordwell  Redneck W.Harl. Lynford Brandon P.
                                   ham       Cov.      N.F.
 10. Lactarius deliciosus                                        +
@@ -1229,7 +1227,6 @@ young.
 58. Thelephora terrestris                                                               [SYMBOL]+
 59. Clavaria argillacea                                                                 [SYMBOL]+
 51. Coryne sarcoides                                                    +
-
 [TABLE]
 
 [7610-7611]
@@ -1240,11 +1237,9 @@ young.
 40. Hypoxylon sp.                               ?
 53. Xylaria hypoxylon                                                    +
 SPECIES                 6     5         7       6       15       14     13      15
-
 [TABLE]
 
 [TABLE]
-
 ++        +               -
 Larch     Populus ital.   Horsech.
 Oak       Beech
@@ -1253,8 +1248,7 @@ Birch     Elm
 Elder     Sycamore
           Acer platan.  
           Acer [SYMBOL]
-          Horsech. (few)
-          
+          Horsech. (few)       
 [TABLE]
 
 Rhytidiadelphus squarrosus
@@ -1278,17 +1272,17 @@ had little effect in Cambridge,
 
 [7612-7613]
 
-apart from teh death of
+apart from thE death of
 dahlias
 November 5
 Impatiens in Madingley
 Wood and the large clearing
-is quie unaffected by the
+is quite unaffected by the
 frost
 Nocember 6
 Clitocybe nebularis in
 Madingley is unaffected by the
-forst. The latest part of
+frost. The latest part of
 the ring of sporophores has
 now reached slightly past
 maturity
