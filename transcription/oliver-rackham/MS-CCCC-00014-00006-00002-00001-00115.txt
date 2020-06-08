@@ -10,19 +10,18 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00115
 
 [cover]
 115
-8793-8864
+8793 - 8864
 13 - 25 Mar. 1967
-Cambridge 8793-9
-Hayley Wood 8793-8
-Buff Wood 8798-9
-Monks' Wood 8799-8816
-Wells (Somerset) 8817-64
-Velvet Bottom 8817-28
-Asham Wood 8829-40,
-8842-5, 8855-7
-Ebbor Rocks 8846-54
-8857-64
-
+Cambridge 8793 - 9
+  Hayley Wood 8793 - 5
+  Buff Wood 8798 - 8816
+Monks' Wood 8799 -8816
+Wells (Somerset) 8817 - 64
+  Velvet Bottom 8817 - 28
+  Asham Wood 8829 - 40
+    8842 - 5, 8885 - 7
+    Ebbor Rocks 8846 - 54,
+       8857 - 64
 [8793]
 8793
 Hayley Wood (S.M. Walters)
