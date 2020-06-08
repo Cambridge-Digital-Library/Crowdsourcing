@@ -9,7 +9,22 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00118
 -----
 
 [cover]
-
+118
+9005 - 9076
+28 Apr. - 27 May 1967
+Cambridge
+Boxworth Woods 9005-12,
+9013
+Hayley Wood 9012-3
+Papworth Wood 9014-31
+Longstowe Woods 9032-9
+Ditton Park & Charcoals
+Woods 9039-51
+Buff Wood 9052-7
+Cockayne Hatley Wood
+9058-61
+Fulbourne Mill Fen
+9068-76
 [9005]
 
 [9006-9007]
