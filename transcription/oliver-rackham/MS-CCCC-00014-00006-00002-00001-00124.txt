@@ -11,7 +11,38 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00124
 
 [cover]
 
+9393-9472
+3-28 August 1967
+Cambridge 9393-9446,
+9447-72
+Cadge's Wood 9393
+Lawn Wood 9393-9402,
+9407-8
+Over Wood 9400-1,
+9403-5, 9407-8
+Borley Wood 9406-17
+Balsham Wood 9417-24
+Haylet Wood 9432-41,
+9449-51
+Littlehound Fragment
+9445, 9447-8
+Hardwick Wood 9451-72
+Cuddesdon 9446-7
+Coombe Wood 9447
+
 [9393]
+
+[DIAG]
+Cadge's Wood
+Oak: hazel coppice
+This wood is described on p. 9390-1
+Lawn Wood (cont. from p. 9392).
+It is remarkable that
+there is only one elm area,
+which is associated with
+s[????] presumptive boundary
+ditches (or possibly an old
+trackway).
 
 [9394-9395]
 
