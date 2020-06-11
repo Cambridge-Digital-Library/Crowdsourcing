@@ -2,14 +2,14 @@ Transcribe:
 Notebook 115, covering 13 to 25 March 1967 (CCCC14/6/2/1/115
 
 Link to text file to edit:
-https://github.com/Cambridge-Digital-Library/Crowdsourcing/blob/master/transcription/oliver-rackham/MS-CCCC-00014-00006-00002-00001-00115.txt
+https://github.com/Cambridge-Digital-Library/Crowdsour
+115cing/blob/master/transcription/oliver-rackham/MS-CCCC-00014-00006-00002-00001-00115.txt
 
 Link to images of original:
 https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00115
 -----
 
 [cover]
-115
 8793 - 8864
 13 - 25 Mar. 1967
 Cambridge 8793 - 9
@@ -58,7 +58,7 @@ Rubus v. ab.
 Juncus infl. often dom.
 Ash seedlings show no
 sign of getting away, tho'
-not alll nipt off
+not all nipt off
 Few hazels still with
 Catkins
 
