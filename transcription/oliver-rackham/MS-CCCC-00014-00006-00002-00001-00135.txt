@@ -39,10 +39,41 @@ B [!!!!]1813[!!!!] 1552 1652 1813 1852
 H 1600 1700 1821 1900
 Barnes Eng[????]g - thermopile
 
-
 [10261]
+[DIAG]
+Merton Wood
+Oaks mostly felled about as long a[????] fly.
+Regrowth from c. 1/3 of stumps.
+Maidens few or none
+Maple : ash : 40 : 60
+[DIAG]
+Ash: 51 x 12 x 10
+Poles seldom > 23"
+S. part of Merton Bank:
+[DIAG]
 
 [10262-10263]
+[TABLE]
+O H P B M I u V C F
+Mertonage Bank southwards. S C 142 [SYMBOL}
+50W 
+- + - + (+) + - - - O   Desch [SYMBOL]
+5[????] 
+- + [!!!!]+[!!!!] [SYMBOL] + - - - -    30, 145 [SYMBOL]
+100 E
+- - + + + - - - - - Desch [SYMBOL]
+100 W
+- (+) + [SYMBOL] + - - c -  86 beg. of long[????]e
+150 W
+[SYMBOL] + - - + - - - o  
+150 E
++ (+) - + - - - - - - Desch [SYMBOL] 10, 180 [SYMBOL]
+200 E
+[SYMBOL] - -  + + - - - M  Galeob
+200 W
+[SYMBOL] - - -  + - - - H  V h
+250 E
+- - - - [SYMBOL] - - - M [????]l ap
 
 [10264-10265]
 
