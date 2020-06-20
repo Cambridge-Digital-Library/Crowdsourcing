@@ -153,12 +153,112 @@ Elm Stool 60 x 34 58 to edge (V)
 VV 150 [!!!!]+[!!!!] - 3 + 58 = 205
 
 [10266-10267]
+[TABLE]
+O H P B M I u V C F
+vwo
+- - - + [SYMBOL] - [!!!!]C? C?[!!!!] - -
++ - - [SYMBOL] [SYMBOL] - [!!!!]e[!!!!] end O 
++ - - [SYMBOL] [SYMBOL] - - - O  VX
+- - - + [SYMBOL] - - - - 
+- - - [SYMBOL] [SYMBOL] - - - M
+- + (+) + [SYMBOL] - - - O
+- - - [SYMBOL] [SYMBOL] - - - -
+- - - + - - [SYMBOL] - O
+WX 50
+- - + + [SYMBOL] - - - - 
+- - - [SYMBOL] [SYMBOL] - - - M  Frag.
++ - + [SYMBOL] [SYMBOL] - - - -
+- - + [SYMBOL] + - - - -
+- + + [SYMBOL] [SYMBOL] - - - M
+XV 50
++ - - (+) (+) - - - O  Desch [SYMBOL]
+[SYMBOL] - - - - - - begins M
+[SYMBOL] - - - + - - - H
++ - - - - - - - O [SYMBOL]
++ - - - (+) - - - M [SYMBOL]
++ - - - - - - - O +
+[SYMBOL] - - - - - - - -
+[TABLE]
+  
+56/368 = 153
+ 
+No bank on SW side (or slight)
+Pole at 36
+Nettles 3 1/2 ft   18 to W
+Bank to N
+20 miles leave wood
+Bank to N  10 to X
+To E. planted with larch & spruce; s[????]ll[????]
+14 ride
 
 [10268-10269]
+Elms at SW:
+[DIAG]]
+Branches very divaricate.
+Rows of epicormics on stem
+Masses of epicormics at base.
+Habit suggests glabra but fallen leaves and epicormics are
+all carpinit
+Stool near SW corner 98 X 30, 
+10 poles, largest 40" round [SYMBOL].
+Twigs [DIAG]
+Non-suckering
+UP (fast)
+OU [!!!!]26T[!!!!] UR 900 [!!!!]1270[!!!!] / 420 = 21.4
+125 T 341 [SYMBOL]
+298 S
+420 R
+450 prim on either side
+pines to N. oak to S. bracken
+558Q racks 150[SYMBOL] & 330[SYMBOL] no Prim
+[!!!!]6[!!!!] 16 P narrow ride 158[SYMBOL], wide ditched
+ride 334[SYMBOL]
+PC! no bracken
+50 M either side
+78 PH
+221 county b[!!!!]k
 
 [10270-10271]
+Hazelcroft Bank evenly
+ditched on both sides
+grafs snake
+Hazelcroft: planted with 
+pine, appears to have been 
+entirely Hazel.
+Ash only on bank.
+Few birch. One ash stool
+Anem [SYMBOL] in S. part of 
+Some p. Hazelcroft.
+M to W of ride. No oak stumps.
+O to S of PO.
+OD' extinct
+NE extinct
+MJ FP(H) S. E. through
+100 FP intact section.
+150FO This is good
+
+200 FO (H)  3-storeyed wood
+250 F   through most
+300 O   standards have
+350 M on bank   gone.
+-
+47 J  Outside wood on
+384 G    S. side. 
+465 F   FB 1090/527 = 2.02
+500 E
+(m[!!!!]n)
+668 bdy oak
+677D
+742 C
+(M)
+992 topographical point B
+The original status of 
+the loam area is not clear.
+Adamoon (p. 370) says shrubs
+were sparse and (Pl. 12) shows
 
 [10272-10273]
+no ash.
 
 [10274-10275]
 
