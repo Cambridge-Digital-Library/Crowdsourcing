@@ -384,6 +384,27 @@ cont. p.
 
 [10280-10281]
 
+AF.
+AO  MB/H
+50 BM/(P)/H Ash stool 55&33X23
+Crab Great ash on corner [DIAG]
+100 BP/O
+150 P/O
+167 path 191[SYMBOL]
+169 gripe 175[SYMBOL]
+200 M
+234 ditch symmetric 165[SYMBOL]
+245 ||  ||  136[SYMBOL]
+250 M/O
+260 Ecconymus
+286 [SYMBOL] <- 22 ->| 85[SYMBOL]
+300 P (Minland)
+N.B ash stools smaller
+taller in this block: 30 X 28
+307 [DIAG] 15[????][SYMBOL]
+oak | trunk from stool
+350 M
+
 [10282-10283]
 
 [10284-10285]
