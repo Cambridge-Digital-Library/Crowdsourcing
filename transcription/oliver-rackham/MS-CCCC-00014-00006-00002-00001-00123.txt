@@ -821,10 +821,15 @@ Bay Leading Following
 19,20 37 1/4  54  mercury zone c. 30 yds wide
 20,21 40 3/4  52 3/8
 
-
-1/2 bay to crossroads 
-
 [9354-9355]
+
+Leading Following
+21,22 40 6/8  51 1/2
+22,23 37 1/8  54 3/8
+23,24 42 1/8  51
+24,25 38 3/8  50 5/8
+25,26 39 3/8  49 5/8
+
 
 [9356-9357]
 
