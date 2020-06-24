@@ -51,7 +51,26 @@ and recording coppice plot.
 164 Poplar [!!!!] [!!!!]no Stool [!!!!] 10
 165 Hawthorn M 4 Trunks
 [9818-9819]
-
+165 Poplar 6
+166 " 19
+167 " 18
+168 " 18
+169 Hawthorn O 92
+170 Hawthorn 1t c90
+[!!!!]171 Hazel 120[!!!!]
+171 Hawthorn 1t 133
+172 Maple 18 x 6 23
+173 Ash 34 and 18x18
+  11, 13, 11
+174 Ash 28 and 12 x 11
+  13, 14
+175 Hawthorn O 1 trunk 13
+176 Ash 14 x 19 . 17
+177 Hawthorn 1t 77
+178 Small Hawthorn O
+179 Hawthorn O 67
+180 Hazel 46
+181 Hawthorn 1t 6
 [9820-9821]
 
 [9822-9823]
