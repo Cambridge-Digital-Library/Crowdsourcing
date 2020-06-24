@@ -132,9 +132,90 @@ and recording coppice plot.
 234 Prunus 1 trunk 23
 235 Hawthorn O 62
 [9822-9823]
-
+N.B. Standard sallow has been wrongly recorded as
+  something else
+236 Prunus 1 trunk 5
+237 Prunus 1 trunk 7
+238 Prunus 1 trunk 6 [!!!!]
+239 Prunus 66
+240 Prunus 1 trunk 15
+241 Hawthorn O 77
+242 Hawthorn O 73
+243 Ash 12 x 10 prob.
+  incomplete
+244 Hazel 146
+245 Fragment Ash 13 x 17
+  13, 15
+246 Hazel 111
+247 Hazel 24
+248 Hawthorn M 77
+249 Ash, no stool, 6
+250 Small prunus 1 trunk
+251 Hawthorn O 67
+252 Hawthorn O 1 trunk 4
+253 Ash once cut 11
+254 Hawthorn O 90
+255 Hawthorn O 1 trunk 6
+256 Ash, no stool, 13
+257 Ash, no stool, 12
+258 Hawthorn O, 1 trunk, 9
+259 Ash, no stool, 9
+260 Ash, no stool, 11
+261 Hazel 83
+262 Ash, no stool, 12
+263 Hawthorn M 1 trunk 10
+264 Hawthorn M 2 trunks, 14, 13
+265 Poplar 13
+266 Ash c. 22 x 14, 16, 47 [????]
+267 Oak recently dead 43 [????]
+268 [SYMBOL] Cr mono N tr 8
+  9 [SYMBOL] Cr mono 1 tr 7
+270 [SYMBOL] Cr [!!!!] [!!!!] 1 tr 5
+  1 [SYMBOL] Cr mono 1 tr .23
+272 Small Prun
+  3 Med Crhyb 3 tr
+  4 Med Crhyb 4 tr
 [9824-9825]
-
+275 small Crox
+276 Maple no stool 17
+277 Maple 14 x 4, 11, 12, 10
+278 small; Cr oxy 1 tr
+279 Cr mon 1 tr 8
+280 Cr mon " 9
+281 Cr hy " 12
+282 maple 10 x 5, 10, 9, 10
+283 ash mdn? 13
+284 ash residual stool 9
+285 Ash 41 x 17 x 14
+  dia. 4 2 2 3 12
+286 small hazel
+287 medium Cr h
+288 ash 12 x 10, 13, 6
+289 Prun 1 tr 9
+Ash. "x and y by z" means the 
+major and minor diameter of
+the stool (inches) and its height
+to the highest point of the 
+old stool. Followed by pole
+girths at breast-height.
+Maple. As ash.
+Hazel. Unless otherwise stated, 
+girth of whole stool at breast
+height with tape, not com-
+ressing the natural form of
+the bush. Dead stems are
+treated as if non-existent.
+Hawthorn. Species guessed. 
+Recorded as hazel if of stool 
+habit, otherwise number & 
+girth of stems.
+  Other species: usually 
+recorded girth of each stem.
+"Small" means too small to
+measure, [!!!!] except for hazel
+where it refers to a stool which 
+has aready been felled. 
+Nov. 6 & 7 : p, 9834 [!!!!]5[!!!!]-5[!!!!]6[!!!!]:
 [9826-9827]
 
 [9828-9829]
