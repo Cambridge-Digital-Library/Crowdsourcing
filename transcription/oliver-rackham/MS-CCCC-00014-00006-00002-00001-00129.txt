@@ -56,9 +56,9 @@ and recording coppice plot.
 167 " 18
 168 " 18
 169 Hawthorn O 92
-170 Hawthorn 1t c90
+170 Hawthorn H c90
 [!!!!]171 Hazel 120[!!!!]
-171 Hawthorn 1t 133
+171 Hawthorn H 133
 172 Maple 18 x 6 23
 173 Ash 34 and 18x18
   11, 13, 11
@@ -66,12 +66,12 @@ and recording coppice plot.
   13, 14
 175 Hawthorn O 1 trunk 13
 176 Ash 14 x 19 . 17
-177 Hawthorn 1t 77
+177 Hawthorn H 77
 178 Small Hawthorn O
 179 Hawthorn O 67
 180 Hazel 46
-181 Hawthorn 1t 6
-182 Hawthorn 1t 126
+181 Hawthorn H 6
+182 Hawthorn H 126
 183 Maple 29 and 21 x 21
   17, 20, 11, 17
 184 Hawthorn O 13 x 17
@@ -81,7 +81,7 @@ and recording coppice plot.
 188 Ash 10 x 20 2/3 missing
   2, 3,
 189 Hazel 148
-190 Small  Hawthorn 1t
+190 Small  Hawthorn H
 191 Prunus 1 trunk 9,
 192 Hawthorn M 1 trunk 11
 193 Hazel 78
@@ -93,7 +93,7 @@ and recording coppice plot.
   14
 [9820-9821]
 200 Prunus 1 trunk 7
-201 Hawthorn 1t 64
+201 Hawthorn H 64
 202 Prunus 5
 203 Hazel once cut
   1 trunk 6
@@ -104,13 +104,33 @@ and recording coppice plot.
 208 Ash 16 x 20
   15, 12, 18
 209 Ash 27 and [!!!!]  20 x 17, 10
-210 Small Hawthorn 1t
+210 Small Hawthorn H
 211 Hawthorn 1 trunk 7
 212 Prunus 1 trunk 16
 214 Middle-aged Hawthorn O
 [!!!!]215 Hawthorn O [!!!!]
 215 Hawthorn M 1 trunk 3
-Ash 17 x 17 10
+216 Ash 17 x 17 10
+217 Maple 34 and 19 x 4
+  20, 23, 10, 11
+218 Hazel 42
+219 Hazel Small
+220 Hazel Small
+221 Small Hawthorn M
+222 Hazel 86
+223 Poplar 20
+224 Hazel 54
+225 Poplar 9
+226 Hawthorn M medium
+227 Hazel 65
+228 Prunus 1 trunk 13
+229 Prunus 1 trunk 12
+230 Prunus 1 trunk 8
+231 medium Hawthorn M
+232 Hawthorn M 5.
+233 Prunus 1 trunk 5
+234 Prunus 1 trunk 23
+235 Hawthorn O 62
 [9822-9823]
 
 [9824-9825]
