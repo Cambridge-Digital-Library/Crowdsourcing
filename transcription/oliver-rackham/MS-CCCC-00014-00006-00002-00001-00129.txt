@@ -71,6 +71,26 @@ and recording coppice plot.
 179 Hawthorn O 67
 180 Hazel 46
 181 Hawthorn 1t 6
+182 Hawthorn 1t 126
+183 Maple 29 amd 21 x 21
+  17, 20, 11, 17
+184 Hawthorn O 13 x 17
+185 Young Hazel
+186 Small Hawthorn M.
+187 Hawthorn M 2 trunks
+188 Ash 10 x 20 2/3 missing
+  2, 3,
+189 Hazel 148
+190 Small  Hawthorn 1t
+191 Prunus 1 trunk 9,
+192 Hawthorn M 1 trunk 11
+193 Hazel 78
+194 Poplar 26
+195 Prunus 1 trunk 4
+197 Poplar 6
+198 Poplar 16
+199 Ash 14 x 20 2/3 missing
+  14
 [9820-9821]
 
 [9822-9823]
