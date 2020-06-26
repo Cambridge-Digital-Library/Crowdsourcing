@@ -722,7 +722,7 @@ E side of NE ride
 26 to cross ride
 50 BPM
 50 BPM 100
-Croslip Primrose hybrid
+Cowslip Primrose hybrid
 on ride [????]
 
 Leaves primrose
@@ -844,7 +844,7 @@ on immediate area: hyb. to R
  scattered among B
  20 H ebnd
  50 BP
- 40 loinear black hole c. 23o
+ 40 linear black hole c. 23o
  50 B
  several irreg. black holes
  38 disused cart rides 226o
@@ -863,7 +863,22 @@ on immediate area: hyb. to R
 8974
 SE edge ride from
 this point
-[DIAG]
+4.3 derelict ride
+                              293
+ B 50 BP                      250     
+ 
+ B 50 B                      200
+ v. large 41          285o
+ ash      28
+ stoolX   28
+ B        50 BP              150
+                    279o     122
+          22
+ B        150 B              100
+BM         50BM               50
+           28     210o         0
+ 
+                      
 8975
 [DIAG]
 The S. end of the S.E.
