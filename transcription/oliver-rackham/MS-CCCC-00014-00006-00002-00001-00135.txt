@@ -583,7 +583,46 @@ No R & F
 147 middle of road
 
 [10290-10291]
+ZW
+O middle of road
+12 ditch [DIAG]
+50 MB/M elm
+100 MB/H
+150 MB/H no more elm
+200 M/H one elm
+250 M/H small group of elm [DIAG]
+284 ride
+WV  171[SYMBOL]
+O edge of field
+11 ditch few elms
+50 MB
+100 BM
+13[????] cross path
+150 BM
+182 Co[????]op[????]
+213 R&F dith
+230 bdy ditch
 
+Cross path east
+O cross roads 94[SYMBOL] [2x10]
+17 furrow
+28 ||   ||
+50 PBM
+North from here:  28/216 = 1.76
+8 furrow
+16 || 8
+28 || 10
+35 || ? 7 9
+44 || 101[SYMBOL] 
+53 || 9
+66 [!!!!]ma[!!!!] r & F ditch
+72 county ditch
+[!!!!]8[!!!!] S. from here:
+11 furrow [2 x 8 1/2]
+20 || 9 7
+27 || 11
+38 || 9
+47 ||
 [10292-10293]
 
 [10294-10295]
@@ -595,9 +634,79 @@ No R & F
 [10300-10301]
 
 [10302-10303]
+Control I
+Nipt [SYMBOL]
+77
+N&L
+El
+EXS
+Open or later [SYMBOL]
+22
+Total 99
 
+[TABLE]
+++ + -
+Hawthorn U.glab.(young) Elm
+Wood Hawth Lime Ash
+Lilac Larch Ulmus glabra
+Sycamore Apple Oak
+Larch Plum Aspen
+Elder Saphing Ash Whitebeam
+HCh Vib[????]um. op.
+Salix frag. Crab
+[????] la[????]t Birch
+Prunus Piss. Pr[????]p[????]h[????]s it.
+[TABLE]
+
+Oxplis are now almost 
+at their best. A few bluebells
+are open in Hayley and CH.
+Another hot and sticky
+day.
+No fresh deer tracks
+around the plots. The fenced
+plot was examined carefully
 [10304-10305]
+but without result for signs
+of jumping in.
 
+Cockayne Hatley Wood cont.
+Ia. [!!!!]This elm[!!!!] area shows
+signs of severe disturbance
+Ash stools few and rather
+small, apparently stunted by
+competition with the elm.
+Much ivy. Cowslip-primrose
+hybrid in a rather dense
+part. This does not seem
+to be ditch-bound.
+II. eastern border strip.
+Possibly an old drift
+way. Indistinguishable in
+ground flora or structure from
+the rest of the wood.
+III. Handle.
+Remarkably deep R. & f. Struc-
+ture lacks standards but the 
+presence (albeit rarely) of l.c.
+suggests that it is a long-
+-established 2ndary wood.
+IIII. N. extension of handle.
+An elm extension possibly
+assisted by planting. Includes
+small l.c. stools and is prob-
+ably an 18th cent. addition,
+V. s. extension of handle.
+A typical elm fringe.
+VI Pincote.
+Could be an ancient wood-
+land converted to elm. The
+few large ash stools support
+this view. Impossible to say
+whether it is older than the
+Handle (cf Downing Estate Map).
+Carb-trees are remarkably common in the woods. Haw-
+thorns curiously infrequent.
 [10306-10307]
 
 [10308-10309]
