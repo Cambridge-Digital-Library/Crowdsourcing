@@ -478,6 +478,7 @@ Foulden Common.
 215
 April 12
 Norwich
+[TABLE]
 E           M      L
 Doronicum  Daffodils
 Aubretia   Almond
@@ -495,7 +496,8 @@ Flowering Curr  Mountain Ash  Oak
                               Pear
                               J. Cherry
                               Almond
-Badly frosted                              
+Badly frosted 
+[TABLE]
 [10216-10217]
 216
 [DIAG]  Ulmus gl.
@@ -534,9 +536,7 @@ are clearly visible in the
 northern part of the Plan-
 tation.
 [10218-10219]
-218
 [TABLE]
-219
 23 osculates perth 47 leaves palm
 45 NS ditch
 10 more to edge emerges at
@@ -549,16 +549,75 @@ tation.
  10 enters 0 area
  28 ditch 303o
  21 Vriv
- [TABLE]220
+ [TABLE]
 [10220-10221]
-
+[TABLE]
 [10222-10223]
-
+[TABLE]
 [10224-10225]
-
-[10226-10227]
-
+[TABLE]
+10226 - 10227
+226
+[TABLE]
+Wood Closes.
+  For the most part not
+defined by earthworks to the
+E. though a well-masked 
+band of hybrid Primulas
+marks the approximate 
+boundary.
+South woodclose: R. & F.
+medium depth: elm mainly
+Ulmus glabra, including coppice.
+Ash rare.
+227
+[TABLE]
+  North wood close:  R & F. very
+shallow: elm mainly carpini-
+folia, sparse in middle of 
+close and intermixed with
+ash, suggesting an ash plan-
+tation.  No coppice.  This
+elm does not sucker freely.
+It is not cseetain whether the
+R. & F. is continuous in the two 
+closes.  The transverse R. & F. in the
+N. is shallow but definite.
 [10228-10229]
+228
+E. side from SE corner
+77 path inwards
+290 coppice
+629 to ride
+
+W side N-S from point A
+150 "enclosure"
+200 in ditch
+250 ditch round bend
+390 ditch
+328 bend of ditch
+Beech collapsed
+[DIAG]
+229
+N from [DIAG]
+
+116 park
+133 crab
+350 by fallen ash N.B.
+adjacent plot could have
+been pl. with ash.
+400 near group of ivied
+trees
+517 "enclosure"
+680 ride
+
+Traverses from E. at
+100  200  300  400
+500  600
+
+from W at
+57   171  285  399
+513  627
 
 [10230-10231]
 
