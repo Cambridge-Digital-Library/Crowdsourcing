@@ -1549,12 +1549,191 @@ have been partly levelled.
 472 " " 2
 473 Prunus 1 stem 3
 474 Small prunus 1
+475 Prunus 1 stem 7
+476 Prunus 2 stem 3, 3
+477 Ash fragment 37 by 2
+  7, 7,
+478 Hawthorn mono 1 stem 13
+479 Ash 12 by 18 ; 18
+480 Prunus 1 stem 4
+481 Small prunus 1 stem
+482 Prunus 1 stem 5
+483 " " 5
+484 " " 6
+485 " " 4
+486 " " 5
+487 Small prunus
+488 Prunus 1 stem 6
+489 Hawthorn hybrid 9, 6, 5
+490 5, stool diam. 13 & 6
+491 Prunus 1 stem 5
+492 Willow 1 stem 8
+493 Hazel 31
 [9898-9899]
-
+494 Prunus 1 stem 5
+495 Hawthorn hybrid 1 stem
+  9
+496 Ash perhaps pole 14
+497 Prunus 1 stem 4
+498 " " 4
+499 " " 6
+500 " " 4
+501 Ash 33 & [!!!!]27[!!!!]48 by 35
+  15, 13, 16, 19, 7,
+502 Small prunus 1 stem
+503 Prunus 1 stem 4
+504 " " 4
+505 " " 6
+506 Hazel 127
+507 Hawthorn hybrid 1 stem 2
+508 " " 20 and 
+  5, mains stems 5, 5, 7
+509 Prunus 1 stem 3
+510 Hazel 79
+511 Hawthorn hybrid 9 and
+[!!!!]512[!!!!] 3, mainstems 5, 6, 5,
+  4, 4.
+[!!!!][????][!!!!]2 Prunus 1 stem 5
+513 " " 4
+514 Prunus stool with
+  20, mainstems 2, 5, 5,
+515 Ash, 44 and 38 by
+  23; 11, 21, 6, 9,
+516 Prunus 1 stem 7
+517 Small prunus 1 stem
+  "
+  Prunus 1 stem 2
+518 Small prunus 1 stem
+519 Prunus 1 stem 8
+520 Hazel 14 &[????]
+521 Small prunus 1 stem
+523 "
+524 "
+525 "
 [9900-9901]
-
+526 "
+527 "
+528 "
+529 "
+  above 8 stem from 
+  1 fallen tree
+530 Hawthorn hybrid 1 stem
+  3
+537 "
+538 Small prunus 1 stem
+539 Hazel 77
+540 Small prunus 1 stem
+541 Hazel 12 ft.
+542 Prunus base 7
+  poles 11, 7, 7
+543 Hazel 109
+544 Hazel 118
+545 Hazel 36
+546 Hazel 14 ft
+547 Hazel 12 ft
+548 Ash 12 by 6
+  20, 24, 
+549 Maple 15 by 12; 17, 
+  25, 6, 16
+550 Ash 45 & 26 by 30
+  21, 17, 18, 22, 25.
+551 Ash fragment 30 x 15
+  10,7
+552 Hazel 122
+553 Hawthorn Mono 52
+554 Ash 18 + 21 by 6
+[!!!!]555[!!!!] 12, 11, 11,
+  13
+555 Dogwood 1st 4
+556 Ash 52 + 37 x 18
+  21, 8, 2, 17, 23
+557 Hazel 1st 4
+558 Ash pole 7
+559 Small prunus 1 stem 3 [????]
+560 Hazel 73
+561 Ash stool decayed 5
 [9902-9903]
+Negative Ladybird -  small, 
+black, 2 red spots
 
+562 Small prunus 1 stem
+563 " " "
+564 prunus " [!!!!]x[!!!!]2
+565 Ash 17+9x4, 16
+  16,
+566 Prunus 1 stem 3
+567 " 3 " 4, 2, 2
+568 Sallow 2 " 4, 3
+569 Prunus 1 " 2.
+570 Hazel 58
+571 Small prunus 2 stem
+572 Prunus 1 stem 10
+573 Hazel 72
+574 Prunus 1 stem 4
+575 Hazel 25
+576 Prunus 1 stem
+577 " " 4
+578 Prunus 1 stem 4
+579 Hawthorn Hybrid 1 st 6
+580 Prunus 1st 5
+581 Hawthorn Hybrid 1 st 6
+582 Prunus 1 stem 4
+583 Prunus 2 " 6,6
+584 Prunus 1 " 4
+585 [!!!!]2[????][!!!!] Small prunus 1 st
+586 " " "
+587 Hazel 121
+588 Haw hybrid 55
+589 Haw Oxy 1st 11
+590 Ash 53+45x45-15,
+  15, 13, 13
+591 Hawthorn Mono 35
+592 Ash 22+17x15-14
+593 Prunus 1 stem 4
+594 Ash frag. 5 high 13
+595 Ash 37+24x16 14, 10, 10
+  22
 [9904]
+595 hawthorn mono 1 st 5
+596 " " " 5
+597 " " " 4
+598 " hybrid M. stem 3, 5, 3, 4
+599 Maple no stoole 16
+600 Hazel 90
+601 Small prunus 1 stem
+602 Hazel 113
+603 Ash no stool 16
+604 Sallow not stoole 26 standard
+605 [!!!!]Ash[!!!!]Hazel 116
 
+Stool 1 in Pond Ride
+cut 1916 and c.1890?
+
+Another stool futher SE
+goes to c. 1897
+
+Hare in S. section
+On rabbit in E. section
+C.[!!!!]1410[!!!!]1359 ONR 173
+ONR 1427 C. 1721
+[!!!!]606 Ash 42 & 29 by 30
+  24, 21, 18, 17[!!!!]
+606 Prunus 1 stem 4
+607 Prunus 1 stem 5
+608 Hazel 12ft
+609 Sallow 1 stem 9
+610 Prunus 1 stem 4
+611 Sm Prunus 1 stem
+612 " " "
+613 " " "
+614 Prunus 1 stem 4
+614 " " " 6
+615 " " " 3
+615 " " " 3
+616 Sallow " " 15
+617 Prunus 1 stem 3
+618 Hawthorn Oxy 1 stem 3
+619 Prunus " " 4
+620 Ash 40 & 44 by 36 
+  22, 18
 [back cover]
