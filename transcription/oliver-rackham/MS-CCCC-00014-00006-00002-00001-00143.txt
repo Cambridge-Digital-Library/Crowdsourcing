@@ -10,9 +10,19 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00143
 -----
 
 [cover]
-
+Volume 143 10749-10868
+4 - 8 July 1968
+  Males 749-800
+    Selakano 752-789
+    Hierapetra 791-800
+   AYIOS NIKOLAOS 801-835
+   MYRTOS 837-868
 [10749]
-
+[SYMB] July 4 1968 749 [SYMB]MYPTO[SYMB]
+  The town of Males is rather
+indistinct at the edges (like 
+Anatoli( where ther are various semi-derelict buildings
+and tenements
 [10750-10751]
 
 [10752-10753]
