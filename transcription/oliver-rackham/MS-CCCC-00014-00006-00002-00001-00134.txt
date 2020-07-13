@@ -149,7 +149,7 @@ head of rhe dale near Peter's
 Stone.  Prof. Pigott says they
 have become unstable in
 recent years thrugh children
-playing.  There is a sma;l
+playing.  There is a small
 stable cliff above CP 27.
 195
 Woods in Cressbrookdale.
@@ -167,8 +167,8 @@ Ravensdale.
 Alder frequent in the more
 marshy parts of the woods
 but never abundant.
-U. glabra apparently yhe only
-elm.  Locally dom. mainmly on the
+U. glabra apparently the only
+elm.  Locally dom. mainly on the
 W. side.  Occasionally cut.
 [10196-10197]
 196
@@ -180,7 +180,8 @@ Birch frequent and generally
 distributed, but never a large
 part of the wood.
 Aspen scattered
-Desch caespit usually domin-ant, especially un der ash.
+Desch caespit usually domin-
+ant, especially under ash.
 Vicia saepium freq.
 Allium ursinum.  abundant 
 near Ravensdale, locally dominant
@@ -188,8 +189,7 @@ under elm.
 197
 Mercury abundant but
 seldom dominant.
-Ranunc. rep sometimes domin-
-ant in water.
+Ranunc. rep sometimes domin-oant in water.
 Carex sylv. abundant
 Beech frequent around Ravens-
 dale.
@@ -219,7 +219,7 @@ Desch caesp. dom. in ground
    These woods are remar-
 kable for their permanently
 open character, with no shrub
-layer.  They occur in a
+layer.  They occur on a
 1959
 * Plagiochila 110 on W. side.
 
@@ -283,12 +283,12 @@ April 7.  Hayley Wood.  Recording
 of oxlips.
   Primroses grow (?planted)
 in a hedgebank in front of houses
-at the entering of Camberton 
+at the entering of Comberton 
 391563.
 Mercury on (cut down) hedge
 on S side of road at Bourn
 330558.  From there up to &
-includinfg the spinney opposite the
+including the spinney opposite the
 Bourn turn.  Also to a
 small extent on other side of
 the road.  also spinney in
@@ -297,33 +297,33 @@ Ulmus glabra belt.
   Also in spinney 323558
 and on SE side of road at 320554,
 & from there up to the Fox,
-and New F[???] to the Fox.
+and sporadically on NW side
+from New Fm to the Fox.
 Daphne - 1 bush in
 [10204- 10205]
 205
 NW hedge about 200 yds
 SW of New Inn.
-  Mercury on N. soide of
+  Mercury on N. side of
 road by Longstowe School.
 Hayley Wood.
 A medium-sized crab 
-
 in hedge of Triangle c. 20 yds
 fromn Daphne.
      Oxlip Recording.
 Plot which should have been 
 rabbit wired.
 Infls:
-Nipt off [DIAG]
+Nipt off [TABLE]
 In bud, scape elon-
-gated [DIAG]
+gated [TABLE]
 205
-[DIAG]
+[TABLE]
 
 Petals exserted but not open
 [DIAG]
 
-Fully flowerng [DIAG]
+Fully flowerng [TABLE]
 
 Total 148
 
@@ -340,27 +340,28 @@ All have deer hairs sticking
 to them.
 
 Fenced Plot
-Nipt [DIAG]
-Niopt & lying [DIAG]
+Nipt [TABLE]
+Niopt & lying [TABLE]
 
-Elongated [DIAG]
+Elongated [TABLE]
 
-Nearly fl. [DIAG]
+Nearly fl. [TABLE]
 207
-[DIAG]
+[TABLE]
 
 total 220
 No sign of any leaf damage
 
 Control Plot
-Nipt [DIAG]
-Nipt & lying [DIAG]
-Elong [DIAG]
-Nearly fl. [DIAG]
+Nipt [TABLE]
+Nipt & lying [TABLE]
+Elong [TABLE]
+Nearly fl. [TABLE]
 
 [10208-10209[10]
 208
-[DIAG]
+[TABLE]
+23
 Total 179
 No leaf damage.  Much more 
 individual fl. damage.
@@ -387,7 +388,7 @@ in mature leaves, often
 half or more of the leaf if
 young.  Occurs in a high
 proportion of the plants with
-infl. damage in plot 1., a 
+infl. damage in plot 1, a 
 smaller proportion in plot 3
 and not seen at all in plot 2.
 Never seen in plants with
@@ -400,16 +401,16 @@ tips of the leaves, or in
 some cases the whole middle 
 of the rosette, in one mouth-
 ful with the infl.
-[DIAG]35: plot 1, showing poor
+[SYMBOL]35: plot 1, showing poor
 display & improved corner post.
-[DIAG] 36: plot 2, showing good
+[SYMBOL] 36: plot 2, showing good
 display.
-[DIAG] 37: plant in plot 1, showng
-2 scapes nipt off and modeate246
+[SYMBOL] 37: plant in plot 1, showng
+2 scapes nipt off and moderate
 leaf damage.
   The scape can be cut
 off anywhere from just below
-the umbel almost to to the
+the umbel almost to the
 base,  Damaged plnnts in the
 fenced plot are all amputated 
 high.
@@ -437,7 +438,7 @@ damage of Plot 1 is repre-
 sentative of much of that
 part of the wood, though 
 some areas have less dam-
-age. The display is the 
+age. The display in the 
 fenced plot is much better
 313
 than in any surrounding area,
@@ -449,7 +450,7 @@ notably 1964-5.  The number
 of infls is greater than in
 the undisturbed wood, and
 the brambles and other 
-vegetstion appear to protect.
+vegetation appear to protect.
 April 8.
 Newton Manor
   The house (Victorian) is
@@ -459,13 +460,13 @@ elms round the edge.
 At one corner of the
 moat is an ice-house,
 possibly slightly older than
-the house.  Of pinkish yelloow
+the house.  Of pinkish yellow
 
 [10214-10215]
 214
 [DIAG]
 brick.  The structure (except
-for the entrancer tunnel)
+for the entrance tunnel)
 is radially symmetricsl about
 a vertical axis.
 April 9-10  see p. 339
@@ -478,7 +479,7 @@ Foulden Common.
 215
 April 12
 Norwich
-[TABLE]
+
 E           M      L
 Doronicum  Daffodils
 Aubretia   Almond
@@ -497,7 +498,7 @@ Flowering Curr  Mountain Ash  Oak
                               J. Cherry
                               Almond
 Badly frosted 
-[TABLE]
+
 [10216-10217]
 216
 [DIAG]  Ulmus gl.
@@ -535,34 +536,22 @@ running S. from the S.W. corner.
 are clearly visible in the
 northern part of the Plan-
 tation.
-[10218-10219]
+[10218 - 10219]
+218, 219
 [TABLE]
-23 osculates perth 47 leaves palm
-45 NS ditch
-10 more to edge emerges at
-                E 17
- 6 ditch 27 path 348o
- 7 ditch 180o
- 33 1st wych stool emerge at W 119
- 
- 21 indist bdy ditch, end of elm
- 10 enters 0 area
- 28 ditch 303o
- 21 Vriv
- [TABLE]
 [10220-10221]
 [TABLE]
 [10222-10223]
 [TABLE]
 [10224-10225]
 [TABLE]
-10226 - 10227
+[10226 - 10227]
 226
 [TABLE]
 Wood Closes.
   For the most part not
 defined by earthworks to the
-E. though a well-masked 
+E. though a well-marked 
 band of hybrid Primulas
 marks the approximate 
 boundary.
@@ -573,13 +562,13 @@ Ash rare.
 227
 [TABLE]
   North wood close:  R & F. very
-230shallow: elm mainly carpini-
+shallow: elm mainly carpini-
 folia, sparse in middle of 
 close and intermixed with
 ash, suggesting an ash plan-
 tation.  No coppice.  This
 elm does not sucker freely.
-It is not cseetain whether the
+It is not certain whether the
 R. & F. is continuous in the two 
 closes.  The transverse R. & F. in the
 N. is shallow but definite.
@@ -620,8 +609,7 @@ from W at
 513  627
 
 [10230-10231]
-230
-SPlantation
+230sSPlantation
 Primulas freq., mostly
 hyb: P&O occur
 NB 500 west bears 297o
@@ -665,7 +653,7 @@ old wood.
   Damage to oxlips is
 rare and localized.  No leaf
 damage seen.
-  Oxlipa occur usually in 
+  Oxlips occur usually in 
 sparse stands with a high
 proportion of flowering indivi-
 duals.  Plants generally smaller
