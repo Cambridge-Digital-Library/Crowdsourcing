@@ -426,7 +426,7 @@ another reentrant).
 About half the town is in-
 side the walls, the main exception
 being the miserable suburb of
-Nea [SYMBOL].
+NEa [SYMBOL].
 Tamarisk.
 Planted in sand near the sea
 at Myrtos and TE[SYMBOL][SYMBOL]a. They grow
