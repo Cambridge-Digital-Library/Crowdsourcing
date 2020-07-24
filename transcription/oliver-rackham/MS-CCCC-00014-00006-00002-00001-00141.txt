@@ -937,12 +937,88 @@ Zero 71/2
  638
  [DIAG]
  Bush is domed & needle
- insderted at top of leaves.
+ inserted at top of leaves.
 
 [10640-10641]
-
+640
+30      500     261/2
+40       10     271/2
+Zero 9
+50       22     321/2
+60       27     30
+ 10      36     26
+ 20      48     25
+ 30      60     291/2
+ 40      661/2  251/2
+ 50      75     211/2
+28       841/2  261/2
+ 10      94     251/2
+ 20     604     251/2
+ 30     614     261/2
+ 40
+ 50     639     251/2
+29      481/2    231/2
+ 10      59      21
+ 30      71      211/2
+ 
+ 641
+   30     78      21
+   40     90      18
+  Zero 81/2
+   50     971/2  111/2  error
+  30      7081/2 151/2  owing
+  10       171/2   11   to
+  20       261/2    8   needle
+  30        34     121/2getting
+  40        411/2  21   un-
+  50        451/2  16   shaded
+ 31         52      6
+  10        62     14
+  
 [10642-10643]
-A[10644-10645]
+642
+Zero 8
+34,50     561/2    34
+35        61       361/2
+  10      631/2    26
+  20      70       231/2
+  30      76       231/2
+  40      80       26
+  50      86       23
+36        881/2    22
+  10      92       25
+  20      961/2    211/2
+  30      981/2    221/2
+  40     9021/2    20
+  50      071/2    20
+37        121/2    181/2
+  10      151/2    20
+  20      20       201/2
+  30      26       221/2
+  40      341/2    211/2
+  Zero 8
+  
+  643
+  N,B, red wire to res teeminal,
+  black to black.
+  14.40 c Rad"  .59
+  leaf dimensions the same,
+  slightly less exposed. Altitude
+  similar
+  
+    Site of measurements
+  is the hillside above the
+  coast track a few yards E.
+  of the threshing-fioor valley.
+    Gentle S. facing slope
+  (c. 10o) with typical garrigue
+  dominated junipers and middle-
+  aged pines.  Very close to
+  the root exposure of p. 591.
+  
+  
+  
+[10644-10645]
 
 [10646-10647]
 
