@@ -55,8 +55,78 @@ zero 30
  23.0   35   39   
 Zero 30
    10   40   34
-[10952-10953]
+   20   43   35
+   30   48   32
+   40   51   31
+   50   59   28
+ 24:0   64   33
+   10   71   34
+   20   76   29
+   30 - .
+   40   82   30
+   50   86   30
+ 25.0   88   28
+   10   93   25
+   20   99   27
+   30   03   28
+   40   09   28
+[TABLE]
 
+951
+[TABLE]
+25.50   16   29
+ 26.0   20   32
+   10   22   31
+   20   24   32
+   30   28   28
+   40   31   29
+   50   36   33
+ 27.0   40   31
+   10   44   33
+   20   48   32
+   30   51   28
+   40   55   31
+   50   58   31
+ 28.0   58   29
+   10   59   31
+   20   61   32
+   30   65   30
+   40   68   32
+   50   72   31
+[TABLE]
+
+[10952-10953]
+952
+[TABLE]
+29.0   76   34
+Zero 30
+30.30   Radiation   .63
+[TABLE]
+
+953
+Electrode 2
+pH profiles
+Types IV.
+Halimus - Lygeum -
+Statice echioides - Phagnalon.
+Surface crust pH 8.0, 7.8.
+[TABLE]
+1 1/2 cm   7.7, 7.9.
+    5 cm   8.1, 8.0
+   10 cm   8.2
+   15 cm   8.1, 8.0
+[TABLE]
+Soil completely lacks horizons.
+Compact cream-coloured ma[????].
+
+Type II. On gravel - loose
+unhorizoned soil.
+Bare soil.
+[TABLE]
+1/2 cm pH 8.2
+  5 cm    8.2 1/2
+ 10 cm    8.4 1/2, 8.3
+[TABLE]
 [10954-10955]
 
 [10956-10957]
