@@ -10,11 +10,51 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00145
 -----
 
 [cover]
+10 - 21 July 1968
+MYRTOS 949 - 975
+RETURN FROM MYRTOS 976 - 1002
+Cambridge 1002 - 28
+Watlington, Oxon 1003 - 19
+Buff Wood 1019 - 27
+
+ΝτιϞενσ
+Ολιβερ Τουϊστ
 
 [10949]
+949
+63-64
+31
+1968
+ΜΥΡΤΟΣ
+July [!!!!]5[!!!!] 10 (cont.) PISTACIA
+12.11 Wet 20.9. Dry 31-9
+under large carob tree
+21.8 & 33.9 under small 
+carob tree where yesterday's
+measurements were taken
+zero 30
+[TABLE]
+12.20.50   90   31
+    21.0   96   38
+      10   99   36
+      20 5902   33
+      30   06   34
+      40   09   37
+      50   12   37
+    22.0   15   38
+      10   17   39
+      20   21   41
+      30   25   42
+      40   26   41
+[TABLE]
 
 [10950-10951]
-
+950
+[TABLE]
+22.50   30   42
+ 23.0   35   39   
+Zero 30
+   10   40   34
 [10952-10953]
 
 [10954-10955]
