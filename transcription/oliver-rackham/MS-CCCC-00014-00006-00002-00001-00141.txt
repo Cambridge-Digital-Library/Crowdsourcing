@@ -558,10 +558,10 @@ the touch.
  617
  Crevices among rocks, shade side
  One plant seen
- Bracts straw-coloured, pappios
+ Bracts straw-coloured, [????]
  shining white.
  3 heads on the plant
- Fragm ent 180
+ Fragment 180
  Psoralea bituminosa freq [[SYMBOL] 177]
  181 sun side, crevices
  182 shade side, crevices
@@ -612,12 +612,12 @@ All have had their tops cut off
 c. 15 ft up.  Some are
 charred at base.
 all appear to be old, or
-under 5 years. 5" dia.  Sippressed
+under 5 years. 5" dia.  Suppressed
 by 2 other trees.
 [10620-10621]
 620
 Ground mainly boulders
-fsllen from cliffs.  Some
+fallen from cliffs.  Some
 [DIAG]
 bed rock projects.  All apparently 
 volcanic.
@@ -639,7 +639,7 @@ Common thistle rare
 Yellow Clover  ab.
 Urginea or Asphodel
 cartilaginous clover
-other plants (imcluding many
+other plants (including many
 cliff spp) on rock outcrops &
 big boulders.
 Pine felled:  Circ. 46" over bark
@@ -1024,7 +1024,8 @@ Zero 8
 644
                        3
 Leaf used before
-Zero +10
+ [TABLE] 
+  Zero +10
 14.44.30      54     171/2
       40      59     161/2
       50      64     181/2
@@ -1106,6 +1107,7 @@ Zero +10
    6         631/2    291/2
      10      681/2    291/2
    Zero 91/2 Solar .53  (15.08)
+   [TABLE]
      
 [10648-10649]
 Leaf attritude similar
@@ -1114,7 +1116,8 @@ Intermediate exposure
             5
             
  Leaflet 4. Young
- Zero 10
+[TABLE]
+Zero 10
  15.11.30    31451/2     34
        40       54       361/2
        50       63       361/2
@@ -1144,6 +1147,7 @@ Intermediate exposure
        30      65        34
        40  [!!!!] 73     351/2
        50      78        36
+       [TABLE]
        slightly narrower nearly
                horizontal
        
@@ -1154,6 +1158,7 @@ Intermediate exposure
 Leaflet 5. young [!!!!]
 [!!!!] Top side in
 shade.
+[TABLE]
 Zero 9.
 15.18.0        77      101/2
       10       87      101/2
@@ -1180,7 +1185,8 @@ Zero 9.
       30       31/2     6
       40       341/2    2
   Zero 10
-     Expoised S.E., attitude
+  [TABLE]
+     Exposed S.E., attitude
      c. 50o.
      Solarion:  49 (15.28)
      [DIAG]
@@ -1189,6 +1195,7 @@ Zero 9.
 652
             7
 Leaflet 6.   Edge onto sim
+[TABLE]
 15.30.0   50      131/2     Zero
     10    571/2   111/2     +20
     20    671/2   121/2   
@@ -1243,6 +1250,7 @@ Leaflet 6.   Edge onto sim
     40     43011/2      301/2
     50       081/2      33
   41         121/2      331/2
+  [TABLE]
   Attitude S.
     [DIAG]
 Much less well-exposed
@@ -1276,6 +1284,7 @@ sun-fleck.
   15.51   31.6o   31.5o
   6.01  Rad  .42
 9.  Condothymus   10
+[TABLE]
 Zero 20.
   16.7.20      75      10
        30      81      91/2
@@ -1296,11 +1305,13 @@ Zero 20.
        40     29       20
        50     40       blwn out
        zero 22
+       [TABLE]
        [DIAG]   Needle
                 About 11/2"
                 below crown
                 of bush.
 10  Condothymus      11
+[TABLE]
 16.11.40       19     221/2
       50       271/2  26
    12.0        34     271/2
@@ -1353,14 +1364,15 @@ Zero 20.
  19.0          371/2  231/2
     10         46     271/2
     20         481/2  231/2
+    [TABLE]
     
 [10660-10661]
 660
-[DIAG
-]Among the bracts on the
+[DIAG]
+   Among the bracts on the
 sun side of an unopened 
 bud-inflorescence. Near
-middle of an isoloated
+middle of an isolated
 bush 13" dia. 10'high.  At
 top of bush
 
@@ -1388,7 +1400,7 @@ Bromus     *  Rare  216
 Fumaria    *  freq  217
              [DIAG] 219
                         rare
-Phagnalan  occ.  Hippocrepis
+Phagnalon  occ.  Hippocrepis
 Urginea ab.
 * trianistate grows freq  218
 No Ceratonia   Sticky onions
