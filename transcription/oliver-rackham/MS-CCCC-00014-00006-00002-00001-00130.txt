@@ -1617,7 +1617,7 @@ H16 10 X0
 812 Small Hazel
 813 Oak 41
 814 Small Hazel
-815 Small Hazel 1
+815 Small Hazel !
 816 Oak 61
 817 Hazel 29
 818 Hazel 66
@@ -1659,7 +1659,7 @@ Poles 19,17,18
 
 839 Ash once cut
 6x14  14,8
-840 Maple stool 41 + 1 x 0
+840 Maple stool 41 + [SYMBOL] x 0
 13 12 6
 A: site of       [DIAG]
 profile diagram,
@@ -1748,10 +1748,129 @@ phase into woodland.
 The lower part of the 
 
 [9996-9997]
+9996
+
+stream has cut deep into the 
+greensand and is crossed
+by a massive brick culvert.
+Gransden Wood southern part
+1b
+Much birch in the bottom
+of the slope.
+The rest is planted up with
+exotics, mainly sycamore
+mixed with spruce. After about
+30 years, the spruce have
+almost all perished and
+are falling, leaving the syca-
+more to do moderately well.
+Little remains of the old
+woodland save some Ulmus
+carpinifolia, which has in
+part come in from an old
+driftway which has become
+incorporated with the wood.
+
+9997
+
+Gransden-Waresley is
+a rather dry wood of excep-
+tionally complex history.
+Remarkable for the abun-
+dance, and comparatively
+rapid spread, of birch over
+a limited area. The large
+area of almost pure oxlips
+on a rather dry site, and
+the difficulty of disinguish-
+ing ancient woodland, are
+features reminiscent of the
+eastern woods. [from p.9986]
+March 11. Buff Wood. (D.E.Coombe)
+A few primroses are out.
+A stool maple, somewhat
+decayed, has snapped off in
+the recent gale about 6ft up.
+A curious ash stool near the
+ditch in the new coppice area:
 
 [9998-9999]
+9998
+[DIAG]
+1901[SYMBOL]1. 01-11 very wide, 12-18 med.,
+19-21 very narr., 22-3 n, 24-5 mw,
+26-30 m, 31 mw, 32-46 n, 47 w,
+48-50 vn, 51-2 mn, 53-4 n, 55-63[????]n[????],
+64-7 m.
+Ash. Mdn. NE of cross ride. 1924.
+c.6[SYMBOL]in. 24-32 n, 33-4 m, 35 n, 36-49
+m, 50 w, 51-2 n, 53-67 w.
+Ash. Mdn. NE of cross ride. 1915.
 
+9999
+
+c. 7 in. 15-20 & 22 m,
+21 n, 23 w, 24-28 & 30-7
+mw, 29 m, 38-42 m,
+43-8 n, 49 m, 50-58 &
+60-7 n, 59 vn.
+Elm. Near [!!!!]first ash.[!!!!] bottom.
+1934. Quite uniform, 7[SYMBOL]".
+From stool.
+Elm. Near bottom. Stool.
+1930. 40-1 narrow.
+Elm. c.1928. Very slow
+to 1935. 8[SYMBOL]". Stool.
+This suggests that some elm
+was coppiced c. 1928.
+Ozonium is very fine on
+some felled elm logs S.E. of
+the back lane.
+March 12. [from p.9986].
+Considerable ground frost.
+March 13. [from p.9986]
+Eranthis is over.
 [10000]
+10000
+
+March 14 [from p.9986].
+Chionodoxa flowers are opening.
+March 16.
+Some plants were put in the
+Sarcophagus.
+From Notcutt's: Pinus mugo, Dictam-
+nus fraxinella, Gentiana ascle-
+piadea, Buphthalmum salicifo-
+lium, Saponaria ocymoides.
+From other pots: Sycamore (seedling
+from Harleston tree), Laburnum,
+orpine, Hesperis.
+March 17.
+There is a splendid display of
+crocuses in King's and Clare
+March 18.
+Another very high wind.
+March 19.
+The high wind continues and
+has slightly damaged trees.
 
 [back cover]
+242 N. Stallode Wash under 
+water
+Rhytidi[????]u[????]d. 3@ Foulden
+Julian Glazier
+N.E. of main ride.
+Ash mdn 1924. C. 6[SYMBOL]in
+[!!!!] 24-32 n, 33-4 m, 35 n,
+36-49 m, 50 w, 51-2 n, 53-67 w.
+Ash mdn 1915. c. 7 in.
+15-20 & 22 m, 21 n, 23 w,
+24-29 & 30-37 mw, 29 m,
+38-42 m, 43-48 n, 49 m,
+50 - n (59 vn)
+Elm near bottom. Stool. 1934.
+Quite uniform. 7[SYMBOL]".
+Elm near bottom. Stool. 1930.
+40 k 41 narrow.
+Elm c. 1928. v. slow to 1935 8[SYMBOL]".
 
