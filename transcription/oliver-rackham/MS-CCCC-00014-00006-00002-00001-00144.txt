@@ -441,7 +441,7 @@ with [SYMBOL] in.  Held at about
 
 
 41-42  20  887
-KAPOY[SYMBOL]I
+[SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL]
 [TABLE]
 Zero 30
  1. 59. 30   42   22
@@ -534,7 +534,7 @@ tree.
 43-44  21  891
 [TABLE]
 Zero set to 30.
-14. [!!!!][????]16[????][!!!!].  0   74   28
+14. [!!!!][????]17[????][!!!!].  0   74   28
 15.                             10 4276   27
                                 20   80   34
                                 30   84   37
@@ -600,33 +600,428 @@ Zero set to 30.
 [10894-10895]
 894
 
+2.25.0 Radn. 66
+
+2.28 Wet 22.7[SYMBOL] Dry 34.5[SYMBOL]
+
+Inclination 45[SYMBOL], to S.
+Ventilated [SYMBOL] end-on.
+[SYMBOL]"x(1[SYMBOL]+[SYMBOL]").
+
+30 cm from ground slightly
+further into the same bush.
+
+
+
+
+
+
+
+
+
+
+45-46  22  895
+JUNIPER
+Position 1
+2.38.20 Radn. .61. Zero set 30
+[TABLE]
+14.  40.   0    61  23
+          10    66  24
+          20    69  25
+          30    72  26
+          40    80  21
+          50    88  23
+     41.   0    97  22
+          10  4905  22
+          20    11  18
+          30  [!!!!]15[!!!!]16  17
+          40    19  19
+          50    22  17
+     42.   0    25  18
+          10    27  22
+          20    30  22
+          30    32  20
+          
 [10896-10897]
+896
 
+     42.  40    35  22
+          50    39  21
+     43.   0    44  20
+          10    47  21
+          20    48  24
+          30    52  25
+          40    57  25
+          50    60  26
+     44.   0    63  26
+          10    65  26
+          20    66  25
+          30    67  23
+          40    73  25
+          50   Zero 32
+                76  24
+     45.   0    76  25 * stopt
+          10    77  22
+          20    79  23
+          30    83  24
+          
+897
+
+          40    88  27
+          50    91  28
+     46.   0    96  27
+          10  5002  27
+          20    14  27
+          30    21  30
+          40    27  29
+          50    38  26
+     47.   0    54  27
+          10    79  28
+          20    86  28
+          30    99  27
+          40   103  26
+          50   112  29
+     48.   0   121  25
+          10   142  26
+          20    66  23
+          30    81  25
+          40    88  26
+          Zero 31
+[TABLE]
 [10898-10899]
+898
 
+2.[!!!!]5[!!!!]49.0  Radn. .61
+
+Needle in a horizontal short
+shoot [SYMBOL] in wide.
+45 cm from ground on
+side-wind edge of bush.
+Very well exposed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+47-48  23  899
+Insertion 2.
+[TABLE]
+Zero set to 30.
+ 2.  53.  30  5300  12
+          40    03  13
+          50    07  14
+     54.   0    11  16
+          10    15  17
+          20    20  22
+          30    23  24
+          40    27  22
+          50    35  21
+     55.   0    49  22
+          10    66  19
+          20    76  21
+          30    81  22
+          40    03  25
+          50    16  26
+     56.   0    34  26
+          10    57  26
+          
 [10900-10901]
+900
 
+     56.  20    83  24
+          30    01  23
+       Zero 30
+          40    17  24
+          50    44  27
+     57.   0    64  25
+          10    78  26
+          20    03  24
+          30    31  23
+          40    50  24
+          50    65  25
+     58.   0    77  24
+          10    88  22
+          20    95  18
+          30    02  16
+          40    06  16
+          50    21  21
+     59.   0    34  20
+          10    44  21
+          
+901
+
+          20    66  22
+          30    82  22
+          40    96  22
+          50    07  19
+     60.   0    66  22
+          10    19  19
+          20    23  19
+          30    29  17
+          40    44  17
+          50    52  17
+      1.   0    58  18
+          10    74  19
+          20    82  18
+          30    88  17
+          40    95  18
+          50  5900  17
+      2.   0    05  18
+          10    22  17
+          20    29  19
+         Zero 30
+[TABLE]
 [10902-10903]
+902
+
+3.3.0 Radn. .57.
+
+Near the end of an
+ascending short shoot [SYMBOL]" wide.
+65 cm from ground, similar
+exposure.
+[DIAG]
+903
+
+3.9.0 Wet 18.7[SYMBOL] Dry
+35.8[SYMBOL].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [10904-10905]
+904
+
+Square Mapping
+[SYMBOL]70[SYMBOL] Mag.
+[DIAG]
+Slope c. 30[SYMBOL], 150[SYMBOL] mag.
+
+Shelving [SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL]
+slabs.
+
+Other plants : Daucus
+Atractyylis
+Bronus
+Small fine Galium
+pH of surface soil 8.0,
+80[SYMBOL]
+
+
+905
+[DIAG]
 
 [10906-10907]
+906
+[DIAG]
+907
+[DIAG]
+Grid 554006 : about 0.6 km
+WNW of the dig site. Chosen
+as a typical area of Type II,
+the commonest vegetation in
+the neighbourhood.  Exact site
+is on the field map of the area.
 
 [10908-10909]
+908
+[DIAG]
+909
+[DIAG]
 
 [10910-10911]
+910
+[DIAG]
+911
+[DIAG]
 
 [10912-10913]
+912
+[DIAG]
+913
+[DIAG]
 
 [10914-10915]
+914
+[DIAG]
+
+Height of Pistacia 80cm
+Coridothymus 50cm
+
+915
+
+On gypsum exposure
+Coridothymus sparse & poor
+Urginea ab.
+* Caryophyllaceae
+* Bronus 401
+Pistacia large & flowering
+Carob
+Triaristate grass [Aristidia]
+Andropogon
+Fine Galium
+[!!!!][????]Meda[????][!!!!] Trifolium Cf cump.
+Pine very chlorotic
+* Pistacia Terebinthus 409
+[!!!!]40[!!!!]
+
+Grid 554007. Forms part of
+the same slope as the quadrats.
+Description of gypsum, p.966.
+
+
 
 [10916-10917]
+916  24  49-50
+PINE. Leaf 1
+Needle 24.
+Zero set to 20.
+6.4.30  .21
+[TABLE]
+   6.   0    98  18
+       10    03  19
+       20    07  20
+       30    12  19
+       40  6520  19
+       50    26  20
+   7:   0    35  21  blown
+       10            off.
+ replaced in a different
+                  place
+6. 9.  20    20  17
+       30  6623  16
+       40    27  17
+       50    31  18
+   10.  0    33  17
+   
+917
+Same site as previous series.
 
+   10. 10    35  16
+       20    38  16
+       30    40  15
+       40    42  15
+       50    44  15
+  1[!!!!]0[!!!!]1.  0    47[SYMBOL]  15
+       10    51  14
+       20    56  14
+       30    61  14
+       40    68  15
+       50    71  14
+   12.  0    74  15
+       10    76  15
+       20    78  15
+       30    81  16
+       40    83  16
+       50    85  18
+   13.  0    88  16
+       10    94  17
+       
 [10918-10919]
+918
 
+   13. 20    98  16
+       30   701  17
+       40    04  18
+       50    06  19
+   14.  0    10  19
+   Zero 21
+       10    13  18
+       20    15  18
+       30    17  19
+       40    20  19
+       50    23  18
+   15.  0    26  17
+       10    31  17 blown
+       20    37  17 out
+       30    44  16
+       40    49  18
+       50    52  16
+   16.  0    59  22
+       10    65  22
+   Zero 20
+919
+25  51-52
+replaced
+ 6 18.  0  6814  18
+       10    17  18
+       20    23  18
+       30    27  19
+       40    30  18
+       50    32  18
+   19.  0    37  19
+       10    30  19
+       20    44  17
+       30    49  18
+       40    56  16
+       50    62  17
+   20.  0    72  17
+       10    78  18
+       20    86  18
+       30    97  18
+       40    08  18
+       50    15  19
+  Zero 19
+[TABLE]
 [10920-10921]
+920
+
+6.21.30 Radiation .18
+6.24  Wet 19.5[SYMBOL], dry 3.9[SYMBOL]
+53-54
+PISTACIA  26
+Leaf 1
+Zero 20
+[TABLE]
+ 6.  32.  30    61  11
+          40    63  12
+          50    65  11
+     33.   0    68  12
+          10    71  12
+          20    76  12
+          30    80  12
+          40    82  12
+          50    83  11
+     34.   0    83  13 *stopt
+          10    85  13
+          20    89  14
+          30    92  14
+   Zero 19
+[TABLE]
+921
+
+6.35.0  Radn. .12.
+
+Max. 112[SYMBOL]F
+Min.  80[SYMBOL]F
 
 [10922-10923]
+922
+
+Vegetation Type III
+
 
 [10924-10925]
 
