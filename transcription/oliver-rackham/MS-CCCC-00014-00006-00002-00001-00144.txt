@@ -31,7 +31,7 @@ July 9. 1968 869 25-26
 Measurements on the 
 15
 dig hill & the saddle below it.
-PISTACIA. Leaf 1. MYPTO[SYMBOL]
+PISTACIA. Leaf 1. [SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL]
 Needle 24.
 
 12.21.30 Radn. .76.
@@ -824,7 +824,7 @@ slabs.
 
 Other plants : Daucus
 Atractyylis
-Bronus
+Bromus
 Small fine Galium
 pH of surface soil 8.0,
 80[SYMBOL]
@@ -876,7 +876,7 @@ On gypsum exposure
 Coridothymus sparse & poor
 Urginea ab.
 * Caryophyllaceae
-* Bronus 401
+* Bromus 401
 Pistacia large & flowering
 Carob
 Triaristate grass [Aristidia]
@@ -1157,24 +1157,435 @@ chro.  A larger plant than C.
 930   (Orig.
        heracleotie)
 idaea. Pink-flowered.
+368(2). Echium sp. Abundant
+by roadside, Psychro. italicum
+370(2). Crataegus sp. Hedgebank,
+Psychro. [prob. heldreichii]
+371(2). Common roadside [SYMBOL] Um-
+bellifer, Psychro. White-flowered.
+377(2). Crucifer, field margin, Psy-
+chro.  Rapistrum rugosum ssp orientale
+374(2). Convolvulus. Frequent at
+roadside, Psychro. arvensis
+375(2). Daucus sp. Flowering in
+hedgebank, Psychro. [Seseli gummif.]
+369(2). Galium sp. Hedgebanks,
+Psychro. album = erectum
+376(1). Bromus sp. Roadside,
+Psychro.
+377. Cynosurus elegans ibid.
+A frequent weed of roadsides &
+[SYMBOL]
+931
+
+waste places.
+376(2). Malva sylvestris. Roadside,
+Psychro. Not seen at low alti-
+tudes. damaged, not kept.
+378. Cardaria draba. Roadside,
+Psychro. Not seen elsewhere in
+Crete.  [SYMBOL]
+379. Ruscus aculeatus. A small-
+-leaved form abundant in the
+garrigue at Psychro.  Not seen
+elsewhere.
+380. Hordeum, garrigue at
+Psychro.  murinum
+381. Bromus sp. ibid. intermedius 
+382. Lactuca [!!!!]amorgina[!!!!] saligna or
+acanthifolia ibid.  Yellow
+5-rayed flowers, plant to c. 50
+cm high.
+383.
 
 [10932-10933]
+932  27  55-56
+Needle 24
+July 10.
+Pistacia Leaf [SYMBOL]
+ 8. 29. 30 am  Radn. [!!!!].45[!!!!] .42
+Zero 30 [SYMBOL]V
+[TABLE]
+ 8. 34. 30  0000  41
+    34. 40    08  38
+    -
+    35. 20    23  42
+        30    26  42
+        40    30  44
+        50    31  46
+    36.  0    35  46
+        10    40  40
+        20    44  43
+        30    47  50
+        40    49  48
+        50    49  50 stopt
+    37.  0    49  51
+        10    49  48
+        20    53  44
+        
+933
 
+    37. 30    58  42
+    Zero 29
+        40    67  42
+        50    70  42
+    38.  0    74  39
+        10    80  38
+        20    86  40
+        30    92  37
+        40    96  37
+        50    98  45
+    39.  0   100  42 stopt
+        10    02  41
+        20    06  42
+        30    10  42
+        40    12  45
+        50    15  37
+    40.  0    19  42
+        10    23  44
+        20    25  48
+        
 [10934-10935]
+934
+
+    40. 30    26  47
+        40    27  41
+     Zero 27
+    40. 50    31  42
+    41.  0    32  46
+        10    34  43
+        20    37  46
+        30    40  44
+        40    44  42
+        50    52  40
+    42.  0    60  34
+        10    68  40
+        20    75  37
+        30    84  33
+        40    94  34
+        50   201  34
+    43.  0    07  37
+        10    11  38
+        20    17  36
+     Zero 27
+935
+
+    43. 40  [!!!!]30[!!!!]40  30
+        50    65  30
+    44.  0    88  32
+        10    94  37
+        20    98  39
+[TABLE]
+
+45.30  Radn. .46
+
+48.0  Wet  19.6[SYMBOL], dry 33.2[SYMBOL]
+
+
+
+
+
+
+
+
+
+
 
 [10936-10937]
+936  28  57-58
+Carob leaf 1
+Illuminated very obliquely.
+Zero 30
+[TABLE]
+ 8.  57.  10  0900  15
+          20    10  14
+          30    20  14
+          40    27  14
+          50    37  15
+     58.   0    46  14
+          10    57  13
+          20    68  14
+          30    79  14
+          40    88  16
+          50  1[!!!!]1[!!!!]006  16
+     59.   0  1[!!!!]1[!!!!]024  15
+          10  1[!!!!]1[!!!!]040  14
+          20    53  12
+          30    63   9 [SYMBOL] in
+          40    73   9 [SYMBOL] shade
 
+937
+
+ 9.   0.   0  1099  12
+          10  1107  13
+ Zero 26
+          20    24  13
+          30    32  14
+          40    47  15
+          50    60  14
+       1.  0    73  16
+          10    86  17
+          20   200  18
+          30    10  18
+          40    27  18
+          -
+       2.  0    53  18
+          10    62  20
+          20    74  22
+          30    85  22
+          40    96  22
+          50   311  22
+          
 [10938-10939]
+938
+
+       3.  0    26  20
+       Zero 25
+          10    37  18
+          20    45  21
+          30    54  25
+          40    59  26
+          50    70  28
+       4.  0    83  29
+          10    97  28
+          20   414  24
+          30    23  20
+          40    35  17
+          50    50  16
+       5.  0    68  16
+          10    78  14 in shade
+          20    88  13
+          20    98  14
+          -
+[!!!!]3[!!!!][!!!!]4[!!!!]50  521  16
+       6.  0    29  16
+        Zero 25
+[TABLE]
+939
+
+Wind comes from
+the great Aphendi Christos.
+
+9.11.30  Radn.  .46
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [10940-10941]
+29  940  [!!!!]59-29[!!!!]
+Juniper  59-60
+[!!!!]Cypress[!!!!]  Insertion 1
+Zero 30.
+[TABLE]
+ 9.  16.  30    28  27
+          40    38  27
+          50,20 50  28
+     17.   0    63  28
+          10    81  28
+          20    97  28
+          30   105  28
+          40    11  27
+          50    19  27
+     18.   0    26  27
+          10    34  27
+          20    40  27
+          30    49  28
+          40    58  29
+          50    69  30
+     19.   0    79  30
+          10    91  30
+       Zero 30
+[TABLE]
+941
 
+ 9.  23.  0   Radn.  .52.
+ 9.  26. 30   wet 21.1[SYMBOL], dry 29.9[SYMBOL]
+                                 [sic]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            
 [10942-10943]
+942
+
+Vegetation Types.
+
+Differences between I & II.
+I is closed, II open.
+Little Calycotome in II,
+dominant in I.
+Little Coridothymus or
+Andropogon in I.
+Juniper frequent in II,
+rare in I.
+Phagnalon rare in both.
+
+
+
+
+
+
+
+
+
+943
+
+Differences between II & III.
+Pistacia very scattered in
+III.
+No Convolvulus in II.
+No Coridothymus in III.
+Phagnalon much more
+abundant in III though present
+in II.
+
+
+
+
+
+
+
+
+
+
+
 
 [10944-10945]
+944
+
+Differences between II and ex-
+arable.
+
+Ex-arable has no Pistacia
+except near walls.
+Ex-arable has Cardopa-
+tium corymbosum and
+a variety of annuals.
+Ex-arable is a uniform
+stand of Coridothymus.
+Ex-arable has Carthamus.
+
+
+
+
+
+
+
+945
+
+Differences between III and IV.
+
+IV has no Pistacia.
+III has little or no Atriplex
+Halimus.
+IV has little Convolvulus.
+
+IV characterized:
+c. 20% perennial cover
+Halimus [SYMBOL] dom
+Lygeum [SYMBOL]
+Limonium echioides v. ab. [SYMBOL]
+No other Limonium   16
+
+On a variety of slopes. Soil
+bare compacted [SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL][SYMBOL].
+Limonium echioides is a
+common plant, specially character-
+istic of this vegetation.
 
 [10946-10947]
+946  30   61-62
+Pine. Leaf 1
+11.59 40 Radiation 70.
+Zero set 30.
+[TABLE]
+12.   0.   20    28  18
+           30    31  20
+           40    35  20
+           50    38  20
+      1.    0    42  18
+           10  5445  15
+           20    49  12
+           30    52  12
+           40    56  13
+           50    61  12
+      2.    0    65  18
+           10    68  16
+  [!!!!]68[!!!!] 20    70  16
+           30    74  18
+           40    77  18
+           50    79  14
 
+947
+
+      3.    0    82  15
+           10    87  17
+      Zero 30
+           20    90  20
+           30    94  21
+           40    95  20
+           50    97  21
+      4.    0  5500  17
+           10    04  17
+           20    06  14
+           30    09  11
+           40    13  15
+           50    15  19
+      5.    0    22  19
+           10    26  19
+           20    34  20
+           30    38  20
+           40    40  20
+           50    44  20
+           
 [10948]
+948
 
+      6.    0    48  17
+           10    50  19
+           20    53  18
+           30    56  21
+           40    58  18
+           50    61  20
+       7.   0    65  16
+           10    70  19
+           20    74  17
+           30    77  24
+           40    83  23
+           50    87  16
+        8.  0    92  15
+           10    96  20
+           20  5601  19
+           30    06  16
+           40    10  16
+         Zero 30
+[TABLE]
+12. 9. 30  Radiation .72
+         
 [back cover]
-
+Snakes
