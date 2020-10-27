@@ -10,11 +10,55 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00196
 -----
 
 [cover]
+Volume 196
+15357 - 15464
+30 Oct. - 16 Nov. 1971
+Cambridge 5357-95, 5431-64
+Papworth Wood 5357-66
+Hayley Wood 5366-81
+Buff Wood 5382-90
+Priory Wood, Stansted Mount-
+fitchet 5432
+Hatfield Forest 5433-64
+Edinburgh 5396-5406
+Glasgow 5407-14
+Aberdeen 5415-9
+Bradfield St Clare 5420-31
+Bradfield Woods 5420-31
+
+J Bradfield Fungi
 
 [15357]
+5357
+October 30 cont.
+Papworth Wood cont.
+19[SYMBOL]71
+Elm A
+(Old), (mature), [SYMBOL] poles [SYMBOL], (suckers)
+Suckers (+).
+Tk straight
+Sk fluted
+Bran. ascending, elbowed.
+Tw. not thin, subpinnate
+Lvs. sl. concave, nearly all
+fallen.
+Epic. few, in 2 rows.
+
+No wet-wood or Dutch elm
+disease seen in any of the
+clones. Occasional dead trees
+apparently due to shadig.
+Trees beyond the wood-bank
+at the N.W. corner of the wood
+are partly dead, perhaps due to
+waterlogging or poisoning by
 
 [15358-15359]
-
+5358
+[DIAG]
+Elm boundary AC is sinu-
+ous and absolutely sharp with
+no interpenetration. Φ 78 [
 [15360-15361]
 
 [15362-15363]
