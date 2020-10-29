@@ -244,15 +244,20 @@ of 5.
 [15368-15369]
 5368
 [TABLE]
-                   LA         LB        A             B
-                    N         S       Nature       Eastern
-                                      Trail
-                  Lane       Lane       B           grove;
-Presence          poles      pole      OMPS         OMPS
-Suckers             +         no        +            ++
-Trunk            sinuous             straight       since
-Bark             (fluted)            shallow       fluted
-                                     fluted       to rugged
+                   LA            LB             A             B
+                    N            S            Nature       Eastern
+                                              Trail
+                  Lane          Lane            B           grove;
+Presence          poles         pole           OMPS         OMPS
+Suckers             +            no             +            ++
+Trunk            sinuous                     straight       since
+Bark             (fluted)                    shallow       fluted
+                                              fluted      to rugged
+Epicor.            few           no           4 rows        few*
+Bran. {           ascen.                      horiz.        horiz.
+      {          arching                     straight      elbowed    
+Twigs {           divar        divar.         irreg.        irreg.
+      {          not thin     not thin         thin       not thin
 [15370-15371]
 
 [15372-15373]
