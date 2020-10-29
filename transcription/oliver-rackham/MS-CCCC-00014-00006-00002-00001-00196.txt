@@ -297,7 +297,11 @@ divar.        irreg.         irreg.        irreg.          subpinn        irreg
 not thin     not thin        thin           thin           not thin      not thin
 sl. concave    flat         folded          flat             flat
                           [!!!!]acarlyflat[!!!!]
-most gone   most green    yellow green    yellow-green   nearly gone      green
+most gone   most green    yellow green   yellow-green    nearly gone      green
+0               0              0             +                ?             0
+0               0            freq.           0                0             +
+2               5              4             4                1             4
+[TABLE]
   
 [15370-15371]
 
