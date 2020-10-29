@@ -268,6 +268,19 @@ Lf fall             1              2              2            3
 
 
 *2 or 4 rows
+
+5369
+                                                      TA           TB
+C                D           E          G          Triangle
+SE              SE           W         NW              1           2
+grove         corner       grove
+MPS            MPS         OMP(s)      PS            OP(S)        MP(S)
++              +++          (+)        ++             (+)         ((+))
+sinu           str.        sinu.    straight          str         sinu
+[!!!!]very[!!!!]
+fluted        fluted      fluted     fluted         slightly      (retic)
+                          -retic                     fluted
+many, tuf-     few         few        few             few
 [15370-15371]
 
 [15372-15373]
