@@ -240,8 +240,19 @@ leaf-fall class 5. Further N.
 it reverts to elm of leaf-fall
 class 1, [!!!!]be[!!!!] with a[!!!!]n[!!!!] few trees
 of 5.
-[15368-15369]
 
+[15368-15369]
+5368
+[TABLE]
+                   LA         LB        A             B
+                    N         S       Nature       Eastern
+                                      Trail
+                  Lane       Lane       B           grove;
+Presence          poles      pole      OMPS         OMPS
+Suckers             +         no        +            ++
+Trunk            sinuous             straight       since
+Bark             (fluted)            shallow       fluted
+                                     fluted       to rugged
 [15370-15371]
 
 [15372-15373]
