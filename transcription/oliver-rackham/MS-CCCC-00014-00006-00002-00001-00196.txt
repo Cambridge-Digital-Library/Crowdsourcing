@@ -253,13 +253,17 @@ Suckers             +              no             +            ++
 Trunk            sinuous                       straight       since
 Bark             (fluted)                      shallow       fluted
                                                 fluted      to rugged
+                                                
 Epicor.            few             no           4 rows        few*
 Bran. {           ascen.                        horiz.        horiz.
-      {          arching                       straight      elbowed    
+      {          arching                       straight      elbowed 
+      
 Twigs {           divar          divar.         irreg.        irreg.
       {          not thin       not thin         thin       not thin
+      
 Leaves{           flat            flat           flat        folded
       {       nearly lfless    mostly gone    most gone      yellow
+      
 Dutch               +              0              +            +
 We[????]            0              0              0           oce
 Lf fall             1              2              2            3
@@ -270,17 +274,31 @@ Lf fall             1              2              2            3
 *2 or 4 rows
 
 5369
-                                                      TA           TB
-C                D           E          G          Triangle
-SE              SE           W         NW              1           2
-grove         corner       grove
-MPS            MPS         OMP(s)      PS            OP(S)        MP(S)
-+              +++          (+)        ++             (+)         ((+))
-sinu           str.        sinu.    straight          str         sinu
+                                                            TA               TB
+C                D              E             G          Triangle
+SE              SE              W            NW              1               2
+grove         corner          grove
+MPS            MPS            OMP(s)         PS            OP(S)           MP(S)
++              +++             (+)           ++             (+)            ((+))
+sinu           str.           sinu.       straight          str            sinu
 [!!!!]very[!!!!]
-fluted        fluted      fluted     fluted         slightly      (retic)
-                          -retic                     fluted
-many, tuf-     few         few        few             few
+
+fluted        fluted         fluted        fluted         slightly        (retic)
+                             -retic                        fluted
+                          
+many, tuf-     few            few           few            (2 rows)       2 rows
+ted, 4 rows   irreg.
+
+ascen.         low-          ascen.        narrow           horiz          asc
+              ascen.                       ascen
+              
+elb.           str.           str.          str.             str           str
+divar.        irreg.         irreg.        irreg.          subpinn        irreg
+not thin     not thin        thin           thin           not thin      not thin
+sl. concave    flat         folded          flat             flat
+                          [!!!!]acarlyflat[!!!!]
+most gone   most green    yellow green    yellow-green   nearly gone      green
+  
 [15370-15371]
 
 [15372-15373]
