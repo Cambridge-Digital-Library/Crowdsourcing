@@ -476,7 +476,84 @@ eaten together.
 
 [15782-15783]
 
+Sample areas in Great Exclosure.
+Oxlip infls surviving inside 3ft
+[!!!!] 5ft
+Anemone fls 5ft
+Bluebell infls 3ft
+Violet fls
+[TABLE]
+OOOB OO OOOB O
+O 3ft 26 30 103 7
+O 5ft 39 30+19 104+103 13
+An " 21 4 21 0
+B "
+V " 427 70 84 13
+OOOB OO OOO O OOB
+O 3ft 16 3 7 9 3
+O 5ft 16+7 23 15 17 9
+An " 0 0 [!!!!]0[!!!!]1 0 2
+V " 0 1 7 [!!!!] 2 1
+[TABLE]
+[SYMBOL]
+1972 fenced
+1971 unfenced
+[TABLE]
+O OO OOOB OOB OOO
+[!!!!]3 19 25 9 10
+[!!!!]7 19 [!!!!]3[!!!!]25+22 16 21
+[!!!!]5 6 1 14 12
+[!!!!]1 2 34 61 22
+[!!!!]7 36 39 10
+OOO [SYMBOL] 1971 fenced
+26
+26+25
+0
+27
+OOB OOOB OOO O OO
+1 13 14 4 12[SYMBOL]
+21 34
+10 20+13 [!!!!]5+14[!!!!] 18 [!!!!]12+20[!!!!]
+1 0 0 0 0
+2 7 0 0 0
+[TABLE]
+[SYMBOL]
+1972 unfenced
+
 [15784-15785]
+
+Same plots as used before;
+recording done by sweeping
+out a circle with
+[DIAG]
+a string loop of
+suitable length around
+the stake that
+marks the centre of
+each plot.
+The flowering of violets in
+some of the 1971 coppice is
+phenomenal. [SYMBOL] 25 shows fenced
+OOB. See also anemones, [SYMBOL]
+27 (note association with honey-
+suckle).
+Photographs of oxlip flower-
+ing: [SYMBOL] 24,26 (plots, 1971 coppice);
+[SYMBOL] 29 (deer fence through 1971,
+showing much larger infls inside
+and abrupt change at boundary)[!!!!].
+Oxlips do flower to a considerable
+extent between the Great Ex-
+closure and the ride and
+along the woodbank ([SYMBOL]31)
+there being less deer activity.
+Met Mr G.F. HUGHES - see
+Local Information file (Hayley).
+19 April.
+The great cherry tree in the
+[!!!!] Fanshawe House garden
+is spectacular in flower ([SYMBOL]
+32).
 
 [15786-15787]
 
