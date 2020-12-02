@@ -388,12 +388,73 @@ Geum urb
       u - 
   (d) 30% herb cover
       
-
-    
-
 [13196-13197]
-
+3196
+2(b) Deschampsia co-dom
+   Rubus caerolifolii agg, Corylif.
+  * Lazula sylvetica
+   Ran. fic; Potentilla stachis
+   Viola sp.; (Geum rivola)
+   
+   3a thin brown worm
+   
+   pH 5.9, 5.9 1/2
+  *should have been carex sylv
+  7/9/76
+  
+3197
+FF2
+1a oak, ash  standards
+   copp. dom   ash & hazel
+   
+ (bP) Euonymus, Hawthorn (alder)
+ (c) Black birch
+ (d) ash, hazel
+ (e) Monogyna only
+ (f) 16 yr
+ 
+@a
+  M 809    X-
+  0 r
+  P -
+  F 1%
+  A 1%
+  B -
+  All -
+  Pg -
+  N -
+  
 [13198-13199]
+3198
+2(b) Viola, Ran fic. Geum rivola
+     Pot. sterilis,
+     (c) (poa trivialis)
+     9d)  90% herb cover
+     
+ 3.  soil  thin red worm
+ 
+     6.2 1/2, 6.3 1/2
+3199
+FF3
+1a none within sight
+ b)      Copp dom. Beb-pal; Salix cap.
+               Hazel
+         Also maple, spindle, prunus sp. rosa,
+Oak 4 yr Hawthorn (m), Rkisa sp. Rubus caesicus
+seedling
+ (c) Alder, Hybrid birch
+ (d) Birch (pub)  (Alder)
+ (e) M only
+ (f) 16 yr
+ 
+2 M 5%
+  O 2%
+  P -
+  P -
+  A 20%
+  AM -
+  Pt -
+  N -
 
 [13200-13201]
 
