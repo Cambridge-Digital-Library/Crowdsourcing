@@ -457,14 +457,167 @@ seedling
   N -
 
 [13200-13201]
+3200
+2b  Geum  u,r   int  (flowere)
+    Angelica, Deschampsia, Potister,
+    Cx.syl   Poa triv, Viola,
+       80%
+3  Soil - thin red worm
+
+6.2 1/2, 6.4
+
+3201
+FF5
+B pub, B ver
+Ash, B pub, hazel
+Alder, Crm, Rosa can, elder
+
+3 ft stools   ash, alder, hazel
+Cr mono
+1954
+M co-dom  30%
+O vr
+P -
+B -
+F -
+A 5%
+All -
+Pt -
+u (+)
+x
 
 [13202-13203]
+3202
+Deschg codom 30%
+Rubus Coryl codom 20%
+Viola
+(Arum)
+* Luzula
+Cx sylv
+Drysp spin  <---
+Potent ster
+
+75%   [DIAG 7]
+
+Thin red worm
+
+6.4, 6.1, 6.4
+
+No earthworks on this tran-
+sect;  few slight wheel ruts,
+Canopy almost continuous.
+3203
+FF6
+Tree dom none
+Coppicde dom
+sallow, B pub, alder, ash
+(maple)
+Hazel, Cr mono, maple
+
+Stools > 3 ft: vsallow, alder (maple)
+(ash)
+1954
+Cr mono
+
+M 50%  Pt -
+o (+)  u -
+P -    x -
+F 10%
+A 20%
+B -
+AU -
 
 [13204-13205]
+3204
+Stachys sylv   ab
+Arum
+Tamus
+Rubus cae  freq
+Fkicaria freq
+Geum riv  co-dom
+Poa triv r
+Viola
+[!!!Brachysylv] Holcus moll
+Heracl   sph
+         angust
+         
+         80%   6.6, 6.5  [DIAG 14]
+3205
+
+[DIAG]
+
+Foxhunters' Fell
+1-3:  AH & PPC,  p. 3331-6,
+4-6:  OR & AH, p. 3217-23.
+7-10: OR & PFC, p. 3206-16.
 
 [13206-13207]
+3206
+Fox &
+no stds, but (oak)
+Coppice dom ash,
+Other coppice hazel, ash, birch (black)
+sallow
+Other shrubs Cr mono, Lonic, oak*
+large stools.  81&38 x 14 ash
+also other ash, hazel, sallow
+
+Cr mono
+6 years
+
+M 50%  Pt -
+O 205   u -
+P -     x -
+F 30%
+A 10%
+B -
+All -
+* several saplings c. 6 years
+3207
+Deschampos 10%
+Ru cae freq
+Geum riv freq
+Arctium rare
+Listera R 
+bryony r     [Tamus]
+Cx sylv r
+Brachysylv
+Epil mont R
+Bugle R
+Paris R
+Viola freq
+Orchis masc freq [DIAG] [fuchsii]
+Hyper lius R  <---
+Ckirs pal  r
+Poa triv freq
+Cx pend R
+Geum inter freq
 
 [13208-13209]
+3108
+95%
+
+fat mottled worm [DIAG 15]
+6.9 1/2, 7.0
+3209
+Fox 8
+(Oak0
+Ash, sallow, B pub
+Hazel
+(Vit sp sapling maple
+(Rosa can   (Lonicera)
+(Crat mono
+Ash 57" sallow
+6 years (prev. 13)
+Cr Mono
+
+N rare     u -
+O 20%      x -
+P -
+F rare
+A rareB -
+All -
+Pt -
 
 [13210-13211]
 
