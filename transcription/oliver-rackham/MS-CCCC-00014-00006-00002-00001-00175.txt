@@ -620,12 +620,150 @@ All -
 Pt -
 
 [13210-13211]
+3210
+Ajuga freq
+[????] freq   <----
+Geum riv dom
+[????]
+Cx sylv freq
+[????]
+Potent rept   <----
+Viola
+Potent ster
+Juncus cf eff
+Epil mont
+Cx remota   - new to FHW? <---
+O masc
+Ficaria
+Deschamps R
+Rub cae ab.
+Glechoma   <----
+Stachys sylv
+Poa triv freq
+3211
+100%   [DIAG 16]
 
+[!!!!6.5, 6.5]
+5.9 1/2, 5.6, 5.7
+
+  Coppice in this compartment 
+is generally of good growth, but
+somewhat patchy and with
+numerous small gaps
+  
 [13212-13213]
+3212
+Fox D
+  No standard trees
+Coppice dom      Ash, Alder, birch (Both)
+Other coppice    Hazel  Sallow
+Other shrubs Cx mono   Lonicers  Acer   Rosa Can
+Large alder by pond
+6 yr + 13 years
+Mercury  50%
+Oxlip rare
+Primrose   none
+Bluebell   none
+Fil.       none
+Oxallis    none
+Anemone  5%
+Nettle  )
+Bracken ) none
+Allium  )
+Pavis
+Viola
+32123
+Cx reparia  <----
+Lysimachia numm. frequent near pond
+Rubus Cae  20%
+Solanum dulc  <----
+Poa trev.  frequent
+Cx silvatica
+Circo
+Geum acis - rare
+Dryoteris spin - on alder stools <---
+Arum
+Bracis syl
+Cirsium palustre
+Juncus cf  eff
+Total ground cover 90%
+Heracl
+Rosebay   [DIAG 18]
+   
+   7.1, 6.6, 6.4 1/2,
+    6.2 1/2, 6.3 1/2, 6.4
 
 [13214-13215]
+3214
+[DIAG]
+
+
+Giant alder & Ash stools
+around pond
+
+  This is a curious pond,
+dimensions as shown, apparently
+with two arms.  Substantial
+water in it.  Very shaded;
+little aquatic vegetation, though
+Carex cf viparia (sterile) grows
+by the inlet.
+  On the edge of c. 1950
+coppice.
+3215
+Fox 10
+Alder
+Ash, alder, sallow
+Hazel
+[!!!!no other shrubs] Lonicera rare
+Alder 70"
+c. 1950
+
+M 70%\O 5%\P -
+B -
+F rare
+A rare
+All -
+Pt -
+n -
+x -
 
 [13216-13217]
+32126
+Violet
+Geum riv rare
+Ranc rare
+O fuchs  [DIAG]    [masc]
+Poa triv
+Potent ster
+Arum,
+ficaria
+Tamus rare
+
+80%
+This greyish worm [DIAG 16 1/2]
+
+6.5, 6.5
+3217
+Fox 4
+none
+Ash, sallow
+oak, B pub, hazel, alder
+Crat mono,. Lonic
+6 years
+large ash stools
+Cr m
+
+M rare
+O none
+P -
+F dom
+B -
+A rare
+All -
+Pt -
+u -
+x -
 
 [13218-13219]
 
