@@ -766,16 +766,201 @@ u -
 x -
 
 [13218-13219]
+3218
+Geum nv & inter [????]
+Cirs pal freq
+Deschcaesp 5%        Ajuga
+Junc cf eff freq     Dandelion
+Cx sylv  [!!!!freq]  ab
+Viola
+Ficaria ab
+O masc
+Ru cae r
+100% 
+Thin stripey worm   [DIAG4]
+    6.1, 6.1 1/2, 6.2 1/2
+    
+3219
+Fox 5
+(Oak)
+Ash, Bet put, Sx cap & cin
+Hazel, alder
+(Cr mono), Lonicera
+6 years
+large ash
+(Cr M)
+
+M 2%
+O 1%
+P -
+F rare
+B -
+A rare
+All -
+u -
+Pt -
+x -
 
 [13220-13221]
+3220
+
+Geum viv dom
+     inter?
+Ru cae 10%
+Cirs pal
+Stach sylv
+Desch 10%
+Viola
+Cx pend
+Ajuga
+Junc cf eff
+Cx sylv
+orch masc
+Brachy sylv
+Ficafria
+
+100%
+6.0, 6.2, 6.2  [DIAG 2]
+3221
+
+[DIAG]
+edge of c.  1950
+   coippice
+   
+Fox 6
+
+(Silver Birch)
+(Ash)
+
+Coppice Ash (Alder)
+Sallow, Hazel
+
+Elder
+
+Ash 60o
+1950
+No hawthorn
 
 [13222-13223]
+3222
+
+Mercury 5%
+Oxlip rare
+Primrose     none
+Filipendula   "
+Bluebell      "
+Anemone      60%
+Allium       none
+Nettle        "
+(Bracken)
+Oxalis  [!!!!none]   (+)
+
+Rucory do minant 60%
+[!!!!] fem
+Arum
+Celan
+(!!!!oxal)dine
+Violet
+P:oa triv
+Barren strawberry
+3223
+70%     [DIAG 3]
+
+[DIAG]
+
+
+
+5.2 1/2, 5.1,
+5.0 1/2, 5.0
 
 [13224-13225]
+3224     ELM GREEN
+       BRADFIELD ST CLARE
+May 31  Bradfield Survey
+continued
+
+[DIAG]
+
+1 - 5 - OR PFC, p. 3225 - 38
+(for positions of 4 & 5 see p. 3233)
+5'-8 - AH & CR, p. 3337 - 44.
+3225
+Pl 1
+(Oak,m alder, Sx alba)
+Hazel, Sxcap;, ash, alder, Prun
+spin, maple, B put, B pen
+n other coppic
+Rosa csn
+4 years
+Large hazel & alder
+no hawthorn
+
+M 70%     X -
+O =
+P - 
+F 30%
+B -
+A freq
+All rare - one isolated plant
+Pt -
+u -
 
 [13226-13227]
+3226
+Stachys sylv 30%
+Epil parvifl  <----
+Circaea
+Chamaeneniin
+Hyhper hirs <---
+Ru cae freq
+Heracleum
+Agropyron can <---
+Carex sylv
+Epilob mont
+Geum nv c. 20%
+Euph amygl R
+Epilob hirs
+Circian vulg  <---
+Arctium
+Deschamps rare
+Geum intermed
+Cirsum pal
+3227
+100% pH 5.6 [DIAG 12]
+     pH 5.6
+       
+71 edge of young coppice
+giant ash stool to L
+i8 conop in wood
+133 edgew of old coppice
 
+71 - 133 is a belt of much 
+older coppice than that on
+either side.  It is bordered by
+strips of sparse coppice with
+some gaps.
 [13228]
+3228
+Pl 2
+(Bet pub, alder)
+Sx cap, Sx air, ash, alder
+Hazel, B pub
+Lonicdera v. ab. (also ground
+dominant), (oak)
+Large ash, alder, hazel stools
+No hawthorn
+5 years
+
+(N.B. fasciation at end of
+4 -y -o ash shoot)
+
+M 2% (local)  All -
+O rare        Pt -
+P -            u -
+F -            x -
+B -
+A 5%
+
 
 [back cover]
 
