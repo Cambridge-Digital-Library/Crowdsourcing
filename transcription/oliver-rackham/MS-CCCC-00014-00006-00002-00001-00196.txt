@@ -1238,8 +1238,29 @@ Betula ver.                   Ash[SYMBOL]       [SYMBOL]Ash
 Japan. Cherry                   Sycam.               H Ch (most)
 Elder                      Tilia vulg[SYMBOL]  [SYMBOL]Sycam.
 [!!!!]H Ch[!!!!] Sycam.         HCh
-[15422-15423]
 
+[15422-15423]
+5422
+[TABLE]
+             Park         Park         Hannaly
+              SW           W             SW            FF
+ Pses         LC           LC            LC         LC(giant)
+ Suck       ((+))          no            no            no
+ TK         since        (str.)      very sinu       sinu
+ Epi      few 1 row       none          none         none
+ Bk           ?        corky ridges    (retic)        ?
+ Br          asc           asc           asc         asc
+ 
+ [!!!!]
+ TW[!!!!]    str           str         arching        str
+ TW        very div        div         very div   [!!!!]very[!!!!]div
+ [????]    not thin      not thin      not thin    not thin
+ L         twisted       concave       concave       flat
+              3             2             3            4
+                                       variable
+ [TABLE]
+ 
+ 5423
 [15424-15425]
 
 [15426-15427]
