@@ -582,7 +582,7 @@ Arctium rare
 Listera R 
 bryony r     [Tamus]
 Cx sylv r
-Brachysylv
+Brachy sylv
 Epil mont R
 Bugle R
 Paris R
@@ -602,7 +602,7 @@ fat mottled worm [DIAG 15]
 6.9 1/2, 7.0
 3209
 Fox 8
-(Oak0
+(Oak)
 Ash, sallow, B pub
 Hazel
 (Vit sp sapling maple
@@ -675,7 +675,7 @@ Pavis
 Viola
 32123
 Cx reparia  <----
-Lysimachia numm. frequent near pond
+Lymachia numm. frequent near pond
 Rubus Cae  20%
 Solanum dulc  <----
 Poa trev.  frequent
@@ -703,8 +703,7 @@ Giant alder & Ash stools
 around pond
 
   This is a curious pond,
-dimensions as shown, apparently
-with two arms.  Substantial
+dimensions as shown, apparentlywith two arms.  Substantial
 water in it.  Very shaded;
 little aquatic vegetation, though
 Carex cf viparia (sterile) grows
@@ -720,7 +719,9 @@ Hazel
 Alder 70"
 c. 1950
 
-M 70%\O 5%\P -
+M 70%
+O 5%
+P -
 B -
 F rare
 A rare
@@ -733,16 +734,16 @@ x -
 32126
 Violet
 Geum riv rare
-Ranc rare
+Ruc rare
 O fuchs  [DIAG]    [masc]
 Poa triv
 Potent ster
-Arum,
-ficaria
+Arum
+Ficaria
 Tamus rare
 
 80%
-This greyish worm [DIAG 16 1/2]
+Thin greyish worm [DIAG 16 1/2]
 
 6.5, 6.5
 3217
@@ -768,7 +769,7 @@ x -
 
 [13218-13219]
 3218
-Geum nv & inter [????]
+Geum nv & inter codom
 Cirs pal freq
 Deschcaesp 5%        Ajuga
 Junc cf eff freq     Dandelion
@@ -818,7 +819,7 @@ Junc cf eff
 Cx sylv
 orch masc
 Brachy sylv
-Ficafria
+Ficaria
 
 100%
 6.0, 6.2, 6.2  [DIAG 2]
@@ -826,7 +827,7 @@ Ficafria
 
 [DIAG]
 edge of c.  1950
-   coippice
+   coppice
    
 Fox 6
 
@@ -856,13 +857,12 @@ Nettle        "
 (Bracken)
 Oxalis  [!!!!none]   (+)
 
-Rucory do minant 60%
+Rucory dominant 60%
 [!!!!] fem
 Arum
-Celan
-(!!!!oxal)dine
+Celandine
 Violet
-P:oa triv
+Poa triv
 Barren strawberry
 3223
 70%     [DIAG 3]
@@ -887,10 +887,10 @@ continued
 5'-8 - AH & CR, p. 3337 - 44.
 3225
 Pl 1
-(Oak,m alder, Sx alba)
+(Oak, alder, Sx alba)
 Hazel, Sxcap;, ash, alder, Prun
 spin, maple, B put, B pen
-n other coppic
+no other coppice
 Rosa csn
 4 years
 Large hazel & alder
@@ -911,8 +911,8 @@ u -
 Stachys sylv 30%
 Epil parvifl  <----
 Circaea
-Chamaeneniin
-Hyhper hirs <---
+Chamaenenion
+Hyper hirs <---
 Ru cae freq
 Heracleum
 Agropyron can <---
@@ -933,7 +933,7 @@ Cirsum pal
 71 edge of young coppice
 giant ash stool to L
 i8 conop in wood
-133 edgew of old coppice
+133 edge of old coppice
 
 71 - 133 is a belt of much 
 older coppice than that on
@@ -946,7 +946,7 @@ Pl 2
 (Bet pub, alder)
 Sx cap, Sx air, ash, alder
 Hazel, B pub
-Lonicdera v. ab. (also ground
+Lonicera v. ab. (also ground
 dominant), (oak)
 Large ash, alder, hazel stools
 No hawthorn
