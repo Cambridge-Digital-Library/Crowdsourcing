@@ -1592,7 +1592,7 @@ February 27. 64H.L.
 [7716]
 [????] [????] Crocus Purple Primula
 [????] Crocus tom.
-{????] Snowdrop
+[????] Snowdrop
 Fenruary 28.   [DIAG]
 There is no sign yet of
 Lathraea clandestina
