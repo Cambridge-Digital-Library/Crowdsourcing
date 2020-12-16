@@ -9,12 +9,51 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00195
 
 -----
 
-[cover]
+[cover]Volume 195
+15261 - 15356
+23 Sept. - 30 Oct. 1971
+CHAMBERY 5261-87
+Forêt du Bresson 5270-82
+Cambridge 5288-91, 5304-22, 5323-56
+Bradfield Woods 5288-5304
+Hayley Wood 5304-7, 5317-22
+Brandon Park (fungi) 5309-16
+Buff Wood 5328-52
+Wimpole Avenue 5352
+Papworth Wood 5354-6
+Felsham 5291-5304
+Norwich 5322-3
 
 [15261]
+5261
+[DIAG]
+32 
+Chemin de Jacob
+Chambery
+1971
+September 23.
+10 elms of various kinds
+(mainly glabra and hybrids)
+in the Jardin du Verney,
+Chambéry. No disease seen.
+One of these elms has
+a large wet-wood ridge
+with a visibly trickling col-
+ourless discharge from c. 6ft
+up. Discharge ecomes brown
+and dries white.
+September 24.
+Polygonum dumetorum
+occurs on the route de St 
+Cassin in a hedge.
+September 25.
+Hooting of owls at night.
 
 [15262-15263]
+5262
 
+September 27.
+Le Touvet
 [15264-15265]
 
 [15266-15267]
