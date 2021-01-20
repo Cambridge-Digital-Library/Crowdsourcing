@@ -10,16 +10,178 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00176
 -----
 
 [cover]
+Volume 176                 13229 - 13324
+31 May - 21 June 1970
+   Bradfield St Clare 3229 - 66
+      Bradfield Woods Survey 3229-66
+          (Pl 2-5, SB 1, BF 1-5,
+          FP 1-3, Hew 1)
+  Cambridge 3267-91, 3307-24
+     Wolve's Wood 3269-84
+     Hintlesham Woods 3285-91
+     Barnard's Wood 3311-20
+     Monks' Hole Wood 3324
+ Great Missenden 3293-3307
+    Burnham Beeches 3294-3306
+     
 
 [13229]
+3329           ELM GREEN
+            BRADFIELD ST CLARE
+Pl 2 cont     312 MAY 1970
+Ru Coryl codom (with Lonicera)
+  40%
+Tamus
+Pot ster
+Deschamps 5%
+Stachys
+Ru cae  2%
+Juncus cf eff DEAD
+Dryop fin
+(Eiuph amyg)
+Geum riv rare
+Cirs [!!!!vulg]arv   <--
+Viola
 
+80%   pH 5.05  [DIAG 11]
+      pH 5.0
+On the edge of an acid area
+slight podsolization 
+      
 [13230-13231]
+3230
+2 t0 3
+ 70 back into calcareous
+100 Pavis
+120-5 Very fine Pavis
+
+124 previous coppicing 16 years
+(ash)
+3231
+Pl 3
+(Bpub, alder)
+Ash, alder, (sallow)
+(Hazel, cornus,
+(Oak [!!!!sapling] coppice (c.7ft)
+Oak sapling, B pub
+4 years
+Large ash & alder. No cratae
+
+M 1%
+O -
+P -
+F loc dom 40%
+B -
+A freq
+All-
+u -
+Pt -
+x -
 
 [13232-13233]
+3232
+Ru cae
+Ru Corytit freq
+Desch cae 30%
+Angelica
+Ep. mont freq
+Stchys rare
+Cirs pal
+Geum inv rare
+Viola
+Jjuncus cf eff
+Agrost stol              <---
+   "     can  {Agropyron]<---
+Potent ster
+3233
+Rust of Filip
+95%       pH 5.95 [DIAG 13]
+          pH 6.1
+Thin red worm
+Little charcoal
+
+260 edge of younf vcoppice
+265 acid area
+316 very sinuous [????]
+[DIAG]
+
+                    red deer
+                    footprints
+Transect crossing   on new
+the "moat"          path
 
 [13234-13235]
+Pl 4  Inside moat
+None
+B lack birch
+Hazel, oak, Sx cap,
+Lonicera, Frangula*, young
+oak
+c. 1950
+some birch stools reach 3 ft, but
+only just
+no Craaegus
+M-      Pt-
+O-       x-
+P-
+F-
+B-
+A-
+All-
+u -
+*rare
+3235
+Dryop fm dorn 2%
+Poa [????]
+Desch rare
+Ru Corylif c. 1%
+Ru frut r <---
+Chamaenerion
+Lysion nem
+[Polytrichum]
+Epilob mont
+Holens  mollis
+
+5%         pH 4.65
+           pH 4.6  [DIAG 5]
+[DIAG]
 
 [13236-13237]
+3236
+Incipient gleyed podsol
+with bleached sand grains
+in a humus-rich upper
+mineral horizon.
+
+The inside of the "moat" is
+a dark area of dense young
+birch.  No trace of old coppice.
+A few mouldering conifer stumps
+and logs were found by
+careful search.  Frangula
+frequent.  Very little ground
+cover, and what there is is
+mainly Dryopteris.
+3237
+Pl 5.  Outside moat.
+Oak, B pub;  little exceeding
+coppice.
+alder. nhazel, oak B pub)
+
+Lonicera, Ribes sylv
+Large hazel & alderc. 1950
+no hawthorn
+
+M 1%        x  (+)
+O-
+P-
+F-
+B+ (rare isolated plants) <---
+A 5%
+All-u + (one plant) <---
+Pt -
+
+
 
 [13238-13239]
 
