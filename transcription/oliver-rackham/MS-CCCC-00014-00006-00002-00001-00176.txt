@@ -81,15 +81,19 @@ x -
 [13232-13233]
 3232
 Ru cae
-Ru Corytit freq
+Ru Corylif freq
 Desch cae 30%
 Angelica
-Ep. mont freq
-Stchys rare
+Epil mont freq
+Arctium
+Epil hirs
+Cx sylv freq
+Mentha aqu freq <---\
+Stachys rare
 Cirs pal
 Geum inv rare
 Viola
-Jjuncus cf eff
+Juncus cf eff
 Agrost stol              <---
    "     can  {Agropyron]<---
 Potent ster
@@ -100,7 +104,7 @@ Rust of Filip
 Thin red worm
 Little charcoal
 
-260 edge of younf vcoppice
+260 edge of young coppice
 265 acid area
 316 very sinuous [????]
 [DIAG]
@@ -111,16 +115,17 @@ Transect crossing   on new
 the "moat"          path
 
 [13234-13235]
+3234
 Pl 4  Inside moat
 None
-B lack birch
+Black birch
 Hazel, oak, Sx cap,
 Lonicera, Frangula*, young
 oak
 c. 1950
 some birch stools reach 3 ft, but
 only just
-no Craaegus
+no Crataegus
 M-      Pt-
 O-       x-
 P-
@@ -131,7 +136,7 @@ All-
 u -
 *rare
 3235
-Dryop fm dorn 2%
+Dryop frn dom 2%
 Poa [????]
 Desch rare
 Ru Corylif c. 1%
@@ -140,7 +145,7 @@ Chamaenerion
 Lysion nem
 [Polytrichum]
 Epilob mont
-Holens  mollis
+Holcus  mollis
 
 5%         pH 4.65
            pH 4.6  [DIAG 5]
@@ -166,10 +171,10 @@ mainly Dryopteris.
 Pl 5.  Outside moat.
 Oak, B pub;  little exceeding
 coppice.
-alder. nhazel, oak B pub)
+alder, hazel, oak (B pub)
 
 Lonicera, Ribes sylv
-Large hazel & alderc. 1950
+Large hazel & alder. 1950
 no hawthorn
 
 M 1%        x  (+)
@@ -233,7 +238,7 @@ Potent ster
             [DIAG 11]
     5.61/2, 5.9
 3241
-Potentilla erects at Broad
+Potentilla erecta at Broad
 Ride crossroads
 
 Convallaria.   Scattered plants
@@ -261,8 +266,8 @@ pH at 6"
 at 3"       4.1
    1"       3.7
    
-surfce mud opp. lower
-sphagnumn tuft.
+surface mud opp. lower
+sphagnum tuft.
 1/2" 5.0
      4.85
      
@@ -390,7 +395,7 @@ Thin purplish gray
 BF 4
 
 Alder, Sx cap, (B pub)
-Haxel, oak.
+Hazel, oak.
 Lonicera, Euonymus, Rosa can
 Large stools: alder
 c. 1958
@@ -420,13 +425,13 @@ thin mottled worm  [DIAG 10]
           pH 4.6
           
  N.B. Hypericum  quadrangedon
- FH Ride West
+ in FH Ride West
  3253
  BF5
  (Oak)
  Ash, alder, Bet pub
  Hazel, Maple
- Euonyumus, Lonicera
+ Euonymus, Lonicera
  Large ash, alder
  No hawthorn 
  1958
@@ -470,21 +475,199 @@ Broad Ride NW
           the boundary
           of Allium.
 
- Phleum prat  in Broad.
-     This boundary is not very sharp, and
+   Phleum prat  in Broad
+   This boundary is not very sharp, and
 has small patches further E.
 
 [13256-13257]
+3256
+Fishpond Fell.
 
+[DIAG]
+
+1 &  2:  OR &[!!!!] PFC
+3: OR.
+
+Hew 1: OR & [!!!!] PFC
+
+FP 1
+(Ash)
+Ash, alder (B pub)
+Hazel, oak
+Vib. op., Sx cin, Bet.pub, oak
+saplings, Rosa can., Crat M
+Large alder stools
+c. 8 years
+Crataegus m
+
+M 70% x -
+o 1% 
+P -
+F rare
+B -
+A freq
+All -
+Pt -
+u -
 [13258-13259]
+3258
+Stachys sylv freq
+Rucae codom 40%
+Galium ap <---
+Anthoxanth <---
+Cx sylv
+Cx pend
+Geum nv
+                      95%
+                      
+Fat purple worm [DIAG 8]
+              6.1, 6.3
+                   
+                   6.3
 
+Ranunc in Hewitt's Pond
+prob. aquatilis ssp heterophyllus.
+One submerged stem seen,
+sterile & indeterminate.
+3259
+Hew 1.
+Middle of Hewitt's Medow.
+(Oa, Alder)
+Alder, Betula pub
+Hazel, Sxd cin
+Oak saplings freq.  Elder
+c. 8 years.         7 Rosa an
+no large stools
+no hawthorn
+
+M la 1% x -
+O -
+P -
+F -
+B -
+A -
+All -
+u 3% <---
+Pt -
 [13260-13261]
+3260
+Poa triv * 40%
+Holcus moll
+Ajuga freq
+Stachys sylv freq
+Viola
+Stellaria nem * <--- [presumed
+                     graminea]
+
+90%              [DIAG 13]
+              4.4, 4.41/2, 4.4
+3261
+FP2
+(Bpub)
+Ash, alder
+Hazel
+Elder, P spin, Cornus, Crat mon
+Large ash
+c. 1950
+Cr mono
+
+M 100%
+O -
+P -
+F -
+B -
+A [!!!!rare] freq
+All -
+u -
+Pt -
+x -
 
 [13262-13263]
+3262
+Ru cae freq
+Geum urb rare
 
-[13264-13265]
+100%    [DIAG 17]
+Fat purple &
+thin brown
+5.7, 5.7
+3263
+FP3
+Alder
+Ash, alder
+Hazel (maple)
+Vib opill
+Lsrge ash & alder
+c. 1950
+no Cr
+
+M codom but small 30%
+Desch cae codom 30%
+A 10%
+Ru cae R
+Brachy sylv R
+Conopod <---
+O rare
+Heracl rare
+Geum inv R
+Poa triv R
+[12364-12365]
+3264
+70%      [DIAG 18]
+             5.4 1/2, 5.1 1/2, 
+             5.0, 5.1 1/2, 5.1 1/2
+  Sanicle occurs in Front Fell.
+  A few plants of Melampyrum
+pratense were found by Ann
+Hart by Crane Track alongside 
+the 1970 coppice.
+  Lithospermum officinale: sev-
+eral plants by the Fishpond
+bridge.
+  Sarothamnus: one plant
+just inside Fishpond Fell by
+Cargate Ride.
+
+Fritillaria impereialis has
+flowered [!!!!very] well at Elm Green.
+3265
+Boundaries of Allium   Poa and
+                      Melamp
+           in Strawberry Bank.
+           
+           [DIAG]  Usually
+           quite sharp.
 
 [13266-13267]
+3266
+
+[DIAG]
+
+  Nightingales heard very frequently.
+An old & infirm baronet was carried
+in a chair outside Prof. Wilson's
+house to hear them once more.
+3267
+June 1.
+  Cuckoos are still heard fre-
+quently at Leckhampton.
+  Saponaria Ocymoides is
+flowering copiously and spectacu-
+larly.
+  Germination of the Hayley
+acorns is now about 80%
+Those in the front pots exposed
+to the sun have up to 5 leaves.
+Those in the back pots in the
+shade are still coming through.
+  Hieracium vulgatum is
+coming into flower in the 
+Trumpington railway cutting.
+  Phragmites recovers almost
+unharmed from sn early
+application of paraquat.
+
+
 
 [13268-13269]
 
