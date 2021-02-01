@@ -1028,8 +1028,9 @@ Lychnis fc ibid
 [DIAG]
 
 Base of the 
-'handle of 
+"handle" of 
 Hintlesham Wood.
+
 Lychis rubra) Wood Lodge
 Lamium alb. ) garden
 [13290- 13291]
@@ -1050,7 +1051,7 @@ Anthoxanthin in Ramsey
 
 3291
 Prospect
-Redcurrant]
+Redcurrant
 
 [13292-13293]
 June 12.
@@ -1083,7 +1084,7 @@ sand on surface.
   Very tall 1-layered ?
 even-aged forest.  Beech
 dominant;  much oak & birch.
-Bracken  in glades.
+Bracken in glades.
   Not much conifer planting.
 Exotic broad-leaves often plan
 -ted round edges.
@@ -1120,7 +1121,7 @@ Marginal sphagnum
 prob subsecund. var imbric
 Menjanthes Large pure stand
 at upper end of pond
-Iris [SYMBOL] below Menyanthes
+Iris [SYMBOL] below Menjanthes
 
 Yellow & white waterlilies
 
@@ -1137,14 +1138,14 @@ curs with the sphagnum.
 
 [13296-13297]
 3296
-Large masses odf floating
+Large masses of floating
 Eleogiton
 
 Alders round edge of pond.
 
 Utricularia major.
 
-Cx ditans around stumps on
+Cx distans around stumps on
 edge.
 
   Large dragonflies of both
@@ -1156,8 +1157,8 @@ with a long slender body of
 spectacularly iridescent sky
 blue.
 3297
-Middle pomnd [SYMBOL]16
-Verry little Sphagnum fringe.
+Middle pond [SYMBOL]16
+Very little Sphagnum fringe.
 
 Hydrocotyle
 
@@ -1213,7 +1214,7 @@ standards only.  No pollards.
 steep narrow one about 2 2/2 ft
 high (like that across the
 3301
-waist of Swanton Novers (Great
+waist of Swanton Novers Great
 Wood).  Beech stools (appar-
 ently derived from a hedge)
 on the top of the bank.
@@ -1228,7 +1229,6 @@ parently on the Burnham
 No pollards to the E. of it.
 Wood bank similar to that
 at A, but carries coppice-type
-e[rather than hedge-type
 rather than hedge-type
 stools.
   Thickets of holly are fre-
@@ -1248,7 +1248,7 @@ mon.  Mainly Betula pubes-
 cens (some pendula), much
 of it in the late thicket
 stage, dense and dark.
-Relict glades wikth bracken
+Relict glades with bracken
 and heather.  No pollards.
 
 E. Surviving fragment of
@@ -1552,8 +1552,8 @@ vegetation.
 15. Small bracken glade.
 
   A remarkably good wood
-for its size, over 80 spp (c.
-22 trees & shrubs) in only 11ac.
+for its size; over 80 spp (c.
+22 trees & shrubs) in only 11 ac.
 [13320-13321]
 3320
 A fragment of a primary
@@ -1564,7 +1564,7 @@ but has:
 Mercury             Milium
 [????] mag.
   The balance of probabilities
-that ihis wood is primary.
+is that ihis wood is primary.
 (Note that Anthriscus, primrose,
 marginal ivy are present.)
 3321
