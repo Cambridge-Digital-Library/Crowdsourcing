@@ -1341,9 +1341,81 @@ plan in Hempstead file.
 
 [15842-15843]
 
-
+[TABLE]
+Compt 45.
+N. from main cross roads.
+Ash Maple Hz Hornb Aspen Sall[????]
+0 4 1 0 0 4 [!!!!]
+70 [SYMBOL] 5 2 2 [!!!!]0[!!!!] 1 0 [!!!!] 2
+140 2 4 3 0 4 2 [????]
+210 2 0 2 2 [!!!!]4[!!!!] 5 1
+251 cross-ride
+280 2 0 1 2 4 4
+350 0 0 0 3 0 4
+420 0 1 0 3 1 4
+490 1 2 1 4 1 4
+490 1 2 1 4 1 4
+560 2 [!!!!] 1 3 1 4
+657 [!!!!] corner of compt 45
+corner 1 1 0 1 0 5
+70 (Nside) 1 [!!!!]0[!!!!] 1 1 5 0 1
+140 2 [!!!!]0[!!!!] 1 1 5 0 1
+[!!!!] 210 3 2 [!!!!]0[!!!!]1 5 0 0
+[TABLE]
+N. marginal ditch
+[DIAG]
+Cx pe[????] almost dead straight
+FO (to within 2ft) both ways
+Oxlip [!!!!]original wood-bdy
+O[!!!!]X[!!!!] doubtfully visible
+O 317 vib. [????] on left:
+O M to left, much coppice
+O ([SYMBOL]) regeneration among
+O scots. Ash [????]
+O [SYMBOL] M ([SYMBOL]) 12ft high (3 yrs).
+Rosa rubiginosa.
+M 442 Vib. [????] on left M
+MO 77 slight stream to SE
+MO 199 meandering stream to S
+200 enter elm [????]
+280 edge of field [????]
 
 [15844]
 
+Compt 41-42
+G[????]
+Viburnum lant. freq.
+M dominant in ground vegeta
+Hornbeam 3 Maple 3
+Ash 4 Sallow 2
+Viburnum occ[????] c. 10yds
+from rides. Bushes evidently
+long standing.
+
 [back cover]
 
+Live deer in snare
+J of G met [????]
+one of C's men lives in [????]
+2-3 times a week
+[SYMBOL]ECF 191[SYMBOL]
+3 deer snares
+[????]
+Daily Sun.
+Camb. 1244 Camb [SYMBOL]111[SYMBOL] 1315
+(Drummer) Newm. 1419
+Bury 1400
+[SYMBOL]E[SYMBOL] Mon. Bury [SYMBOL]216[SYMBOL]1155
+Daily Newm. 1301
+Bury 1145 Newm 1405
+Camb. 1300 Camb. 1515
+[SYMBOL]E[SYMBOL]
+Sun. Mrs Bar[????]
+Camb. [SYMBOL]113[SYMBOL] 1700 Blake
+verhill 1802 
+Coping[????]
+ng Me[????] 1915
+ng M. 1010 Post Office
+aver. 1050
+mb. 1222
+weekd
