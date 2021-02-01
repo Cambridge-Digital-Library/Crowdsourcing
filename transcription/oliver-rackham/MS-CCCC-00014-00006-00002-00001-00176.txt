@@ -38,7 +38,7 @@ Stachys
 Ru cae  2%
 Juncus cf eff DEAD
 Dryop fin
-(Eiuph amyg)
+(Euph amyg)
 Geum riv rare
 Cirs [!!!!vulg]arv   <--
 Viola
@@ -137,7 +137,7 @@ u -
 *rare
 3235
 Dryop frn dom 2%
-Poa [????]
+Poa triv
 Desch rare
 Ru Corylif c. 1%
 Ru frut r <---
@@ -145,7 +145,7 @@ Chamaenerion
 Lysion nem
 [Polytrichum]
 Epilob mont
-Holcus  mollis
+Holeus  mollis
 
 5%         pH 4.65
            pH 4.6  [DIAG 5]
@@ -171,7 +171,7 @@ mainly Dryopteris.
 Pl 5.  Outside moat.
 Oak, B pub;  little exceeding
 coppice.
-alder, hazel, oak (B pub)
+Alder, hazel, oak (B pub)
 
 Lonicera, Ribes sylv
 Large hazel & alder. 1950
@@ -191,16 +191,16 @@ Pt -
 Ru Cory  dom:  30%
 Dryop [????]
  40%               pH 4.05
- pH 3.95   [DIAG 1]
+                   pH 3.95   [DIAG 1]
  
  Highly humi 
  [????] loose     6"  [DIAG 15]
- soil width          3.5
+ soil with          3.5
  bleached            3.5
  sand grains         3.5
- homogeneous
- brown
- moist sand
+                homogeneous
+                brown
+                moist sand
  3239
  Strawberry Bank.  For others 
                   see p. 3363-9
@@ -231,7 +231,7 @@ Angelica
 Euphamyg
 Desch freq
 Ru cae rare
-Geumn riv rare
+Geum riv rare
 Potent ster
 
 90%
@@ -246,13 +246,13 @@ under a great oak &
 mercury.
 With birch & honeysuckle.
 Hazel.  Few herbs.
-Anthoxanthum occ
+Anthoxanthum occ.
 
 Mainly in dense dark
 birch coppice, rather like
 Pl 4 but with bigger stools &
 occasional stds.
-Dryopt cf spiruloisa [????]
+Dryopt cf spirulosa freq
 Convallaria very scattered,
 not flowering
 total ground cover c. 2%
@@ -274,7 +274,7 @@ sphagnum tuft.
 Mud by upper sphagnum -
      4.7
      4.75
-     3243
+ 3243
      inside Sph.  4.3
                   3.7
                   4.1
@@ -332,7 +332,7 @@ Rucae rare   Stachys
       pH 5.55
 3247
 BF 2
-
+-
 Ash
 Hazel, alder
 -
@@ -340,7 +340,7 @@ Large ash (giganta)
 c. 258
 no crat
 
-M 305 codom
+M 30% codom
 o rare
 P -
 F codom 405
@@ -364,7 +364,7 @@ x -
 3249
 BF3
  Ash (promoted)
- alder, ash, B pub
+ Alder, ash, B pub
  Sallow, hazel
  Cornus
  Large alder stools
@@ -475,8 +475,9 @@ Broad Ride NW
           the boundary
           of Allium.
 
-   Phleum prat  in Broad
-   This boundary is not very sharp, and
+   Phleum prat  in Broad Ride
+   This boundary of Allium,
+unlike others, is not very sharp, and
 has small patches further E.
 
 [13256-13257]
@@ -490,11 +491,12 @@ Fishpond Fell.
 
 Hew 1: OR & [!!!!] PFC
 
+3257
 FP 1
 (Ash)
 Ash, alder (B pub)
 Hazel, oak
-Vib. op., Sx cin, Bet.pub, oak
+Vib. op., Sx cin, Bet pub, oak
 saplings, Rosa can., Crat M
 Large alder stools
 c. 8 years
@@ -552,7 +554,7 @@ Pt -
 [13260-13261]
 3260
 Poa triv * 40%
-Holcus moll
+Holeus moll
 Ajuga freq
 Stachys sylv freq
 Viola
@@ -597,7 +599,7 @@ Alder
 Ash, alder
 Hazel (maple)
 Vib opill
-Lsrge ash & alder
+Large ash & alder
 c. 1950
 no Cr
 
@@ -701,12 +703,12 @@ nearly over.
 hole in the lamp-post
 outside my window.
 
-  Wolves'Wood
-   (with Colin Ranson)
+  Wolve's Wood
+   (with Colin Ranson).
   A very wet wood, even
 now, with much water in
 the ponds.
-  Very few standards, probably
+Very few standards, probably
 
 [13270-13271]
 3270
@@ -722,7 +724,7 @@ structure poor.
 
 [DIAG]
 [13272-13273] 
- 3272
+3272
 E. margin
 0
 100 wet acid  RuC
@@ -741,7 +743,7 @@ Ru Coryl Desch
 336 Lysion num
 350 small oak std
   Ru cae
-  3273
+3273
   390 Pell epiph inside
   Cornus
   401 crossroads
@@ -749,7 +751,7 @@ Ru Coryl Desch
   [DIAG]
   
   O. P
-  [!!!!4] 50 Galeob
+  450 Galeob
     ash stools c. 3 ft x 1 ft
   also medium-sized maple stools.
   72 ditch 293o no bank
@@ -759,7 +761,7 @@ Ru Coryl Desch
 
 [13274-13275]
 3274
-124cClem
+124 Clem
 131 Dryop dilat
 133 Bank & ditch
 141 M sanic
@@ -814,14 +816,15 @@ Handle S.
 cherry
 [13278-13279]
 3278
-150 Ru Cory p151 hornbeam stools
+150 Ru Cory p
+151 hornbeam stools
 200 Galeob
-Pellia ep on ride
+  Pellia ep on ride
 224 ride ditch to L
-begin
+              begin
 350 ride ditch to R
 300 more big Carpin 
-stools
+             stds
 Ru cae
 313 ride to E 89o
 350 Desch & Galeob
@@ -829,9 +832,9 @@ Ru cae
 405 large pond to R
 450 Carp Gsleob
 454 cross rides 287o
-500 Desch ca rem
+500 Desch Cx rem
 511 large ditch
-sycamore 252o
+symetric 252o
 3279
 550 Desch
 585 group of hornbeams
@@ -840,7 +843,7 @@ sycamore 252o
 600 desch
 650 Ru cory
 700 ride to W
-Desch
+     Desch
 750 Ru cory
 770 very large pond to E
 800 Ru cory
@@ -865,7 +868,7 @@ submarginal bank.
 Strong and submarginal on
 the road side.  Elsewhere 
 generally weak.
-2. Complex intensl earthworks, 
+2. Complex internal earthworks, 
 including almost certainly an
 old wood-bank.
 3. Numerous internal ponds
@@ -873,7 +876,7 @@ and hollows.
 4. Poor coppice structure.  All
 3287
 the large standards gone.  Cop-
-pice more evidenr than at
+pice more evident than at
 Hintlesham.
 5. Large assemblage of trees &
 shrubs including hornbeam and
@@ -900,7 +903,7 @@ moderately light woodland.
 9. Primrose present but not
 oxlip.
 10. Very little elm.
-11. apparently no bluebell.
+11. Apparently no bluebell.
 
   The status of this wood is
 very obscure.  The numerous
@@ -914,14 +917,14 @@ old wood margin, especially
 as it runs out into the liberty
 boundary at its E. end. The
 change of orientation may
-be due to the fct that it is
+be due to the fact that it is
 primarily the liberty boundary,
 or may be dictated by a 
 need to make the drainage 
 flow S.W. into the stream
 instead of N.E. as it would
 flow by gravity.
-  The evidence thany
+  The evidence that any
 of the wood is primary is
 not strong.  Sinuous outline
 and strong wood-bank, espe-
@@ -941,18 +944,33 @@ present.
 not agree with the parish boun-
 daries and the latter are
 probably wrong on the O.S.
+3285
+Hintlesham Woods (assessment with
+Colin Ranson & George Peterken)
+Lotus ulig      )
+[!!!!] resp     )
+Potent erectus  )   Hintlesham
+Fragaria        )   Wood
+Veron chamae    )
+Ajuga           )
+
+The woods are generally
+rather dry, except the wet
+places on the main ride in
+HLW which are still full of
+water.
 
 [13286-13287]
 3286
 Oblique ride in HGW
 from S. end (starting at
 middle of S.W. side)
-0vRu cory
-50 Ru corp P
-good oak stools
-few mdn ash poles
-dense young aspen
-few birch
+0 Ru cory
+50 Ru cory P
+  good oak stools
+  few mdn ash poles
+  dense young aspen
+  few birch
 60 ditch to R
 100 Ru cory
 150 Ru cory
@@ -976,10 +994,10 @@ good hazel coppice
   The bisection of the lime
 area by the Prospect Avenue
 shows the former to be earlier. 
-  Wood Lodge lhas been
+  Wood Lodge has been
 consumed by fire, only the
 central chimney-stack
-standinfg precariously on its
+standing precariously on its
 two piers connected by an
 arch.
 [13288-13289]
