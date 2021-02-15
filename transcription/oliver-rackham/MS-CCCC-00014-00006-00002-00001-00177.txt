@@ -384,17 +384,177 @@ x -
 [13346-13347]
 -
 3347
+50 paces     path
+M8  80 paces along from each
+transect.  37 paces from [????]
+1(a) oak st. Copp dom ash, hazel
+                          birch
+(b) guelder rose, lonicera
+(c) alder
+(d) ash,hazel
+(e) -
+(f) M 30%
+O -     x rare
+P -
+F -
+A 15
+B -
+All -
+Pt - 
+N -
 
 [13348-13349]
+3348
+         [conj]
+(b) Rubus coetrus 20%
+[????] 20%    <---
+(c) Viola sp. Ran. fic, Sanicle <--
+Deschampsia Carex sylv
+(d) 75%
+
+3 soil   Bottle sample no 1
+No worms  pH 5.2
+          pH 5.2
+3349
+M1
+1(a) silver birch st.  copp dpm
+B. pal, hazel
+(b) oak, alder lonicera
+(c) oak st  <--
+(d) alder
+(e) -
+(f) <12 yr
+
+2 M 1
+O -
+P -
+F -
+A 30%
+B [!!!!] 7%  <---
+All -
+Pt -
+N -
+x rare
 
 [13350-13351]
+b -
+                [conj]
+(c) Dryop. dil, Rubus caes
+?Holcus lanatuys  [moll]
+(d) 40%
+
+3 soil    bottle sample no. 4   pH 3.9
+                                   3.8
+v. sandy [????]
+no worms seen
+                  3.7 1/2
+                  3.6 1/2
+3351
+125 paces
+M2
+1a st - copp dom ash black
+              hazel, birch
+(b) Lonicera, alder, sallow
+(c) oak (st) -
+(d) birch
+(e) -
+(f) c. 11yr
+2M 35%   x -
+O 5%
+P
+F 70%
+A 60% B -
+A 2% - but represents E. fringe of
+Pt -                 Allium area
+N - 0
 
 [13352-13353]
+ 3352
+        [rivale]
+(b) geum urbanum 10%
+(c) Euphorb. amyg; viola,
+Stachys syl. D.felix-mas
+Lys nemonia: Rubus caesiu
+Carex syl. Ajuga Geum interme
+                   [cory]
+(d) 90%
+3 Soil  Bottle sample no. 5
+pH 5.25
+pH 5.35
+3353
+M3 200 paces
+
+1. a -   copp dom (alder, ash
+                  (hazel bl. birch
+                  (sallow
+1 b  Lonicera, hawthorn (monozygus)
+    oak
+1c  [!!!!] Guelder Rose
+1d sallow, ash, hazel, alder
+1e monogyna
+1f 12+ yr
+ 2 M 60   Pt -
+ O 5%      N -
+ P  -      x -
+ F 5%
+ A 3%
+ B -
+ All -
 
 [13354-13355]
+3354
+2b Geum int
+2c (Ran fic
+   (Stachys syl. Rubus caes
+ Viola D. felix n]=mas, Lys hemorum
+ Fine, dark grass   circea lutea
+ (in stream bed
+ (Cardamine prat.
+ "Tees ddua" ? Palium
+ menthe aq       sp
+ juncus sp       palustre
+ 2d 95%
+ 3 Soil   bottle no 12
+ thin small red worm
+                   pH 6.3
+                   pH 6.5
+                   pH 6.5
+                   
+ 3355
+ 213 paces - stream
+ 275 paces    now dry
+ M 4 on s edge of belt across bracken area
+ 39 paces from FH ride
+1(a)  copp dom B. pub
+             alder
+(b)  oak (seedling 3 yr) lonicera
+(c) sallow, ash, alder, hawthorn (h)
+(d) alder
+(e) (hybrid)
+(f) 10 yr
+
+2. M - but plenty just outside
+O -           Pt dominant <--
+P -           N - (some outside)
+F-
+A (outside)   X -
+B -
+All -
 
 [13356-13357]
-
+3356
+2b -
+2c Holcus mollis
+2d 100% bramble area
+10% in coppice
+3 Soil Bottle no 16  pH 3.25
+                     pH 3.2
+                     pH 3.35
+    No worms
+Transect ends 95
+paces NE of
+FH Ride & Broad
+         Ride junction
 [13358-13359]
 
 [13360-13361]
