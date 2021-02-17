@@ -852,9 +852,49 @@ a row of trees and bushes
 including big Scots pines:
 apparently not merely a hedge.
 
-
-
 [15512-15513]
+E. side
+24 M[symbol]hringia
+178 edge if pigs
+181 Lapsane
+200 Mat
+210 ivy on ash stool
+225 2 big holly stools
+233 patch of bluebell
+250 edge of B, sparse pt
+300 B dom
+305 big larch
+327 very big oak with ivy
+335 big larch
+342 shallow pit
+348 nettle & [????] glade
+363 C[????] c. 1 ft high
+383 3rd ride not ditched
+
+O nettle & bluebell (Pt)
+50 B
+
+100 B
+105 - 29 deep steepsided pit
+150 B (p)
+168 ash stool c. 6 ft x 2 ft
+200 B
+250 B sparse, Pt on edge
+279 holly
+283 edge of clearing
+289 ride not ditched
+0 [!!!!]
+8 [!!!!] small shallow pit
+11 [!!!!] B (pt)
+50 Pt [????]
+100 Pt gravel
+150 Pt B dense hazel, no Lc
+200 b Pt
+209 pit
+250 B
+300 B
+331 gooseb
+
 
 [15514-15515]
 
