@@ -37,8 +37,8 @@ Bangor 8.12
 [TABLE]
 [TABLE]
 1.35
-KX 2.55
-Eust 355
+KX 2 55
+Eust 3 35
 Bang 812
 [TABLE]
 J Bradfield Fungi
