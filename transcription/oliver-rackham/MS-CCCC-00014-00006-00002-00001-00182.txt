@@ -10,12 +10,12 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00182
 -----
 
 [cover]
-Volume 182
+Volume 182 13905-14024
 29 Nov. 1970 - 27 Jan. 1971
 Cambridge 3905-26, 3935-41,
 3945-72, 3978-87, 4004-8
 Hayley Wood 3905-7, 3979-87
-Hempstead Wood 3908-35
+Hempstead Wood 3908-25
 Pakenham Wood 3949-72
 Felsham 3927-33
 Bradfield Woods 3927-40, 3973-6,
@@ -29,6 +29,7 @@ Bangor 4008-24
 Wood at Bangor 4008-12
 Coedmor 4013
 Coed Gors-wen 4015-23
+[inside cover]
 [TABLE] 
 Camb. 1.0
 ch. Nuneaton
@@ -37,15 +38,15 @@ Bangor 8.12
 [TABLE]
 [TABLE]
 1.35
-KX 2 55
-Eust 3 35
+KX 255
+Eust 335
 Bang 812
 [TABLE]
 J Bradfield Fungi
 [13905]
 3905
-November 29. 1907
-Hayley Wood-Coppicing
+November 29. 1970
+Hayley Wood - coppicing
 Elder
 Rhamnus - one bush on corner
 Hawthorn
@@ -82,7 +83,8 @@ The 1971 coppicing was
 finished today and much of the
 work of reopening the drift
 3907
-alongside the Triangle was done.
+alongside the Triangle was
+done.
 About 45 people appeared
 for the work-party and nearly
 all stayed the whole day de-
@@ -128,7 +130,7 @@ cut this summer and autumn,
 apparently as a preliminary
 to replanting. This cutting
 was done with a chain saw
-to a high standar of coppi-
+to a high standard of coppi-
 cing, and has been followed
 by substantial regrowth.
 Several watercourses, which
@@ -156,7 +158,7 @@ P spin
 Hazel
 Dogwood
 Sx cin
-Rosa can.
+Rosa can
 Ulm diversifol.?
 Cr mono
 Sx caprea
@@ -197,7 +199,7 @@ Cratae oxyac
 Cowslip
 Meadowsweet
 Desch flexu [caesp]
-Prunella vulg.
+Prunella vulg
 Epilob. parvifl.
 " adenoc.
 Woody nightsh.
@@ -232,15 +234,16 @@ ride
 [DIAG]
 S.W. corner of indentation
 3915
-species list continued
 [TABLE]
 Vicia cracca
 Cx hirta
 Dryopt. FM
 Ajuga
 Sanicle
-Cirsium
-pal.
+Cirsium pal.
+[TABLE]
+[TABLE]
+species list continued
 [TABLE]
 East part of northern E.-W.
 ride; apparently a recently
@@ -270,16 +273,16 @@ Elder
 Sparse mercury
 Blewits several
 Coprinus comatus one tuft
-This is the hedge actoss the
+This is the hedge across the
 N. of the indentation.
 3917
 c elm marginal
 ash stools c. 4ft dia.
-epiphhtic mercury
+epiphytic mercury
 ash stool 5 1/2 x 5ft
 very elliptical
 other elm; big stools & stds
-WS large, shiny, [!!!!]slightly[!!!!] modestly
+WS large, shiny, [!!!!]slightly[!!!!] moderatley
 asymmetric
 [DIAG]
 no epicormics
@@ -326,7 +329,7 @@ ash stools).
 [TABLE]
 [13920-13921]
 3920
-1 elm non-suckering
+1. elm non-suckering
 big coppice stools
 branches like u. vgata
 leaves large, flat, slightly
@@ -339,13 +342,14 @@ the trunk?
 3921
 Abundant hornbeam starts
 c. 30 yds from N-S ride.
-No ditches to ride [!!!!](N-S).[!!!!]
+No ditches to ride 
+[!!!!](N.-S.)[!!!!]
 (N.-S.).
 The E. side of the wood
 has rather dense marginal
 scrub in places, and a double
 wood bank. A small patch
-of Populis canadensis.
+of Populus canadensis.
 Lakehouse Farm is a
 broiler establishment. A small
 strip of woodland outside the
@@ -368,7 +372,7 @@ affording some possibility of
 interpreting the latter.
 2. Wood-bank variable but
 generally strong, except along
-the N. siade which appears
+the N. side which appears
 to be much later than the
 others.
 3. Remarkable and obscure
@@ -387,7 +391,7 @@ a small area of the S., perhaps
 never general. Some elms.
 8. Dominated by large coppice.
 9. Small coppice sporadic, per-
-haps and inevitable corollary
+haps an inevitable corollary
 of hornbeam.
 10. Hornbeam occurs only as
 large coppice. Very little regen-
@@ -407,8 +411,9 @@ coppice.
 eral of the E. Cambs type,
 rather restricted by the hornbeam.
 15. Site very wet to moderately
-well-draied. Little surface
-water seen today except in streams.
+well-drained. Little surface
+water seen today except in
+streams.
 16. Frequent surface hollows.
 17. Fairly rich in trees and
 shrubs.
@@ -416,7 +421,8 @@ shrubs.
 mercury, [oxlip said to occur in
 abundance], Hypericum hir-
 sutum.
-19. Some very large ash and hornbeam stools.
+19. Some very large ash and
+hornbeam stools.
 3925
 20. Few exotics.
 The evidence for primary
@@ -468,9 +474,10 @@ Entirely bright orange when
 fresh, darkening and becom-
 ing brownish. Spatulate,
 canaliculate ([SYMBOL] T.S.).
-[!!!!]Clavaria cf pulchria (might also
+[!!!!]Clavaria cf pulchra (might also
 be small helvola or luteoalba)[!!!!]
-Clavaria. Prob. small state of the following.
+Prob. small state of the following.
+Clavaria.
 Same place (AH). 1 3/4 high
 Much brancheed
 in the upper third, base slender.
@@ -490,7 +497,7 @@ coppice in the boggy part
 of MPW at the S. corner.
 Not recently cut because the
 factory had no use for it.
-(AH)
+(AH).
 He also says that
 glow-worms were abundant
 some years ago near Wood-
@@ -537,8 +544,8 @@ things went much better.
 Yesterday afternoon the
 Hunt appeared while we
 were working. They went
-thro Felsham Hall Ride,
-rather fewer thro Broad
+thro' Felsham Hall Ride,
+rather fewer thro' Broad
 Ride, many followers,
 some mounted, along Crane
 Track. Felsham Hall
@@ -561,7 +568,7 @@ times this season and
 the turf, much broken
 up, tho' no deep hoof
 marks. In Broad Ride
-the riders, tho' less numer
+the riders, tho' less numer-
 ous, were much less
 confined and damage is
 very local.
@@ -587,7 +594,7 @@ orange over a few hours, the
 colour brighter on the stump
 than the pole.
 A brilliant morning with
-much hoar-frot and rising
+much hoar-frost and rising
 mist.
 [13934-13935]
 3934
@@ -617,7 +624,7 @@ B. pendula [!!!!]5[!!!!] 5
 Ash [!!!!]10[!!!!] 10
 Alder [!!!!]20[!!!!] 15
 Maple [!!!!]5[!!!!] 5
-Sallow [!!!!]20[!!!!] 15
+Sallow [!!!!]25[!!!!] 15
 Oak [!!!!]5[!!!!] 5
 Hazel 20
 Alder is remarkably
@@ -667,7 +674,8 @@ Rubbery texture. Bright
 mauve.
 2. Mycena galericulata. Abun-
 3939
-dant fresh ones on old coppice stools.
+dant fresh ones on old
+coppice stools.
 Omalia occurs in quan-
 tity on a big ash stool
 at the E. cross-roads, just
@@ -688,19 +696,19 @@ coppice with some large
 [13940-13941]
 3940
 stools above ground, c.
-4ft x 2ft, apparently pf
+4ft x 2ft, apparently of
 great age, looking like Ti-
 lia cordata.
 Hazel in the area coppiced
 after 17 years is usually short
-and think. Evidently it gets
+and thin. Evidently it gets
 partly suppressed in the early
 stages of abandonment in these
 circumstances.
 Birch standards in 1970-1
 area are about half pendula;
 maidens mainly pubescens, stools
-almost entirely pubescnes. The
+almost entirely pubescens. The
 latter is much the more useful
 for besoms.
 Wood still quite well
@@ -824,18 +832,20 @@ of the day; no snow.
 1971
 January 1.
 A brilliant day of hard
-forst.
+frost.
 January 2.
 The frost continues.
 January 3.
 Further black frost. Brilliant
 day.
 January 4.
+Frot and fog.
+January 5.
 Frost and intermittent fog.
 Hoar-frost on all the trees in
 the morning, up to 90ft high
-on every twig. Queens' [!!!!]Backs[!!!!]
-[!!!!]are fr[!!!!] Ditch frozen, but not eno-
+on every twig. Queens' [!!!!]Backs
+are fr[!!!!] Ditch frozen, but not eno-
 ugh to skate on.
 Owls are noisy at Fanshawe
 at night.
@@ -890,7 +900,7 @@ raised about the Bull Road
 on a steep terrace. Several
 small closes and gardens to
 the N. of the wood.
-Wood is on a transitiion
+Wood is on a transition
 from boulder-clay to gravel.
 No sections seen.
 [13950-13951]
@@ -961,7 +971,7 @@ Cx [!!!!]muric[!!!!]* otrubae
 [TABLE]
 Rx crisp
 Junc eff
-Me[????]acl
+Heracl
 Galium pal
 Cirs lanc
 Camp glom
@@ -972,7 +982,7 @@ Prunella
 [13954-13955]
 3954
 NW corner
-Hazel 5" dia self-coppiced
+Hazel 5" [!!!!]6"[!!!!] dia self-coppiced
 M & P mosac
 LC sparse: 60% maple
 Oaks rather freq, std & coppice
@@ -987,7 +997,7 @@ More birch, less ash &
 maple.
 2 coppice oaks still with
 a few green leaves
-no mercury, sparse trunks
+no mercury, sparse branches
 Ash stool with stump
 3955
 of pole cut c. 10 years ago
@@ -995,16 +1005,17 @@ showing 26 rings.
 Numerous oaks, including
 some fine under-mature timber
 trees. Great variety in habit.
-[[!!!!]"Normal"[!!!!]Calcarea is ash-maple large
+[[!!!!]"Normal"[!!!!] Calcarea is ash - maple large
 coppice. "Neutral" is birch L.C. without
 ash or maple; boundaries usually sharp.]
+Part surviving of Shaft
 [DIAG]
 [13956-13957]
 3956
 Big ash stools: LC 60%
 ash.
 No birch
-[????]y maple
+Hairy maple
 Aspen freq.
 Group of Ulm proc round
 pond, only just invading wood.
@@ -1019,7 +1030,7 @@ many pole oaks, much
 dead aspen (Armill).
 Brambles, no M or ash
 sparse small coppice, no
-3958
+3957
 large.
 Pole oak stump 45 ± 5 years.
 + 4 years of regrowth;
@@ -1047,10 +1058,10 @@ dia
 318 one hornbeam stool
 c. 3ft x 1 1/2ft
 woodland thorn
-c. 300 linear hollow
+c. 330 linear hollow
 fades out
 big group of aspen
-cacareous; many small
+calcareous; many small
 ash stools but no M.
 Primrose
 another Carpin stool c
@@ -1062,7 +1073,7 @@ once cuts; saplings c. 10
 yrs old.
 400 start of c 3 year old
 3959
-coppice. cherrt saplings c.
+coppice. cherry saplings c.
 5 years old.
 Calcareous
 417 - end of recent coppice.
@@ -1084,7 +1095,7 @@ boundary of calc to NE
 696 - young hornbeam
 [13960-13961]
 3960
-700 - calc
+700 - Calc
 756 - young Carp
 741 - stump dump
 back to birch - hazel
@@ -1101,12 +1112,12 @@ Aspen.
 Gallows - 6 hedgehogs, 2 rats,
 1 gray squ, 1 magpie. By
 cottage site.
-Cottage Frame building
+Cottage. Frame building
 with walls of clay & straw mixed.
 "Wood house"
 3961
 Not clay lump. Chalk pebbles
-visible in the clay. [!!!!] 1 storey.
+visible in the clay. [!!!!]2[!!!!] 1 storey.
 Roof with collars to support
 ceiling. Ridge-plank. Frames
 rough-sawn, mainly elm.
@@ -1129,16 +1140,16 @@ Middle Ride from E.
 16 - 282
 belt of coppice cut 1 year
 ago • 17 p. wide to N.
-Geum nv. trying to
+Geum riv. trying to
 flower now
 Ground vegetation chiefly
 P: ? HO.
-Coppuce now c. 4ft high
+Coppice now c. 4ft high
 (hazel, sallow)
 hazel to 6ft
 ash c. 2 ft (to 31")
 ash stool 75 & 36 x 16
-[prob 41 yrs growth
+prob 41 yrs growth
 coppiced '50, 39, 25
 100 calc. primrose out wet
 200 calc. wet
@@ -1165,13 +1176,13 @@ has a substantial hedge on
 each side.
 [13964-13965]
 3964
-300 still calc. - few birch
+300 still calc - few birch
 344 -> NEUT
 391 -S CALC
 443 cross roads - trans to
 NEUT
 490 -> CALC
-592 rough coppice clearing
+592 rough coppice clearing -
 2 yrs ago
 621 ride CALC
 700 CALC
@@ -1206,7 +1217,7 @@ half of the wood. Much dis-
 [13966-13967]
 3966
 turbance. Abundant ground
-cover, including Ajuga, Galinus
+cover, including Ajuga, Galium
 palustre, &c. Campanula tra-
 chelium.
 The S. edge of the assar-
@@ -1242,7 +1253,7 @@ mainly in calcareous areas.
 Often in patches c. 50 yards
 across.
 Mercury is absent from
-most of the wood exceptI
+most of the wood except/
 the margins and the N.W.
 and N.E. corners. No ground
 vegetation visible over most
@@ -1320,7 +1331,7 @@ persed: cf Wolve's, Wayland.
 In heavy woodland as usual.
 10. Holly present but curiously
 rare.
-[!!!!]12.[!!!!]11. Some ash & hornbeam
+[!!!!]12.[!!!!] 11. Some ash & hornbeam
 stools of remarkable size.
 12. Primrose present; oxlip
 doubtful.
@@ -1328,9 +1339,9 @@ doubtful.
 fusum.
 13. Oak regeneration in S.W. corner
 probably better than in any other BC wood.
-[!!!!]14.[!!!!]
-[!!!!]Clearly a primary wood.[!!!!]
-[!!!!]14.[!!!!] Remarkable hornbeam
+[!!!!]14.
+Clearly a primary wood.
+14.[!!!!] Remarkable hornbeam
 [13972-13973]
 3972
 disperal and regeneration, not
@@ -1414,7 +1425,7 @@ Split into brotches of various
 sizes used for different purposes:
 the larger poles provided more
 brotches per length.
-Blackthorn cut out. Mr
+Blackthorn cut out: Mr
 Last says there was no use
 [13976-13977]
 3976
@@ -1428,7 +1439,7 @@ grassland.
 [DIAG]
 Much heathland in the
 Bentley area with a transition to
-oak-birch wood.
+oak - birch wood.
 Rowell's Grove, Bacton (E. Suf-
 folk), a tiny ancient wood, still
 exists. Several large oaks.
@@ -1450,7 +1461,7 @@ among deciduous woodland.
 Wherstead Woods to the N.E.
 are transitional to heathland;
 as they are shown on the 1st
-ed. O.S. it is probably that
+ed. O.S. it is probable that
 bracken has been extending.
 Viburnum fragrans is
 [13978-13979]
@@ -1490,7 +1501,7 @@ NE4 30 11 22 --
 SW3 32 6 1/2 21 --
 SW5 30 6 1/2 23 --
 SW19 - 8 21 --
-NE11 4- 5 ? [!!!!]2[!!!!]--
+NE11 4- 5 ? [!!!!]2[!!!!] --
 NE15 28 8 >28 --
 [TABLE]
 Soil profiles from some of the 38 post holes dug for the
@@ -1525,9 +1536,9 @@ Lophocolea spp
 Hypn. cup.
 Dicran sop.
 Cladonia conio. - often grows
-over the Nowella.
+over the Nowellia.
 Orthodont. lineare
-Lecanora conizaeis ? -substrat
+Lecanora conizaeis ? -substrate
 for Nowellia.
 Some of the old W. elms very
 rugged, like U. diversifolia
@@ -1535,20 +1546,20 @@ in Butt Wood.
 S.E. Elm
 Erect and rather strict in
 habit; short ascending bran-
-ches. Bark rigged with
+ches. Bark rugged with
 3983
 elongated reticulation. Numerous
 burrs on trunk; epicormics
 in rows on upper trunk & branches.
-Weakley suckering.
+Weakly suckering.
 Leaves rather planar.
 Twigs contorted & diverging.
 Calvatia gigantea. One of
-8 1/2" dia. inside the c[????]
+8 1/2" dia. inside the wood
 bank at the S.E. corner.
 S.E. pond not much changed.
 10 deer, including a white one,
-on barley field [!!!!]S[!!!!]E from the
+on barley field [!!!!]S[!!!!] E from the
 wood.
 Elms at extreme SE corner.
 (and adjoining hedge).
@@ -1556,7 +1567,7 @@ Bark not very rugged.
 Branches wide-angled.
 [13984-13985]
 3984
-twigs divar.
+Twigs divar.
 Few epicormics.
 Weakly suckering, but coppices
 freely.
@@ -1597,13 +1608,14 @@ is decidedly sinuous on the
 ground.
 Oxlips and bluebells, as
 excavated, are starting growth,
-but have not appeared above ground.
+but have not appeared above
+the ground.
 The deer, all roughly the
 same size, were feeding in the
 middle of the large field S.E.
 of the Wood. They allowed
 themselves to be photographed
-(after whistling to then) at a
+(after whistling to them) at a
 100 yards, and then made
 off leisurelily N.wards in
 the direction of the Triangle.
@@ -1619,7 +1631,7 @@ surprisingly little eaten.
 Crepidotus mollis. Some big ones
 (c. 3in. dia.) on logs on the ground.
 Bright lemon yellow with brownish
-patces, like those in Pakenham
+patches, like those in Pakenham
 Wood.
 [13988-13989]
 3988
@@ -1634,7 +1646,7 @@ grassland. On a steep slope
 is a tract of tall mainly deci-
 duous woodland (on the W.
 facing slope) with no under-
-storey; not shown on 1s ed. O.S.
+storey; not shown on 1st ed. O.S.
 Near Creeton Lodge.
 Grimsthorpe Park. S.W. part of
 the park is plowed only in
@@ -1646,7 +1658,7 @@ Burton Long Wood = Great Osgrove W.
 Burton High Wood
 Moor Wood
 Sleights Wood
-Stoke Wood [!!!!]
+Stoke Wood [!!!!](????)[!!!!]
 Ponton Park Wood
 all exist as deciduous. Structure
 not known.
@@ -1695,12 +1707,13 @@ The cutting of Front Fell
 proceeded as usual.
 Young oaks (often maiden)
 are particularly frequent in the
-E. part of the panel (near Prof.
+E. part of the panel & near Prof.
 Wilson's.
 [13992-13993]
 3992
 [DIAG] Boundary of 1971 coppice so far.
-[DIAG] Mr Last's tie for a faggot:
+[DIAG] 
+Mr Last's tie for a faggot:
 hazel c. 1.2" dia. twisted
 where bent sharply.
 Middle Fell
@@ -1741,7 +1754,7 @@ at point A. At B. it is joined
 by a bigger flow from the direc-
 tion of Cargate Farm. At C a
 bigger ditch comes in; this ap-
-pears to come from pond C' and
+pears to come from pond c' and
 ultimately from the edge of MPW.
 The ditch between C and D
 rapidly deepens and at D is
@@ -1769,7 +1782,7 @@ Felsham Hall Ride E. ditch
 collects small flows from Fore
 Door Ride ditches and out
 at the E. end. There are
-[!!!!]slight[!!!!]moderate flows from the E. boun-
+[!!!!]slight[!!!!] moderate flows from the E. boun-
 dary ditches, the southern one
 being partly blocked and deep
 near the junction.
@@ -1778,7 +1791,7 @@ have water within c. 3in. of
 3997
 the surface (shown in a rabbit
 hole).
-The two trees on p. [!!!!]
+The two trees on p. [!!!!][!!!!]
 are a few yards W. of the
 bracken glades. The birch is an
 unusually large one and the
@@ -1837,13 +1850,13 @@ than 120 years old, spreading.
 but nearly the same size, still
 free-standing at time of felling.
 3. Pollard (between the other
-two). On [!!!!]S W.[!!!!]E. side of valley,
+two). On [!!!!]S W.[!!!!] E. side of valley,
 [14000-14001]
 4000
 not in any hedge-line, now
 visible. Bole about 5 1/2ft
 dia. and 10ft high, very
-rigged, with a fissure up
+rugged, with a fissure up
 one side giving access to a
 cavity 3 1/2ft dia. containing
 a few free-standing roots.
@@ -1894,7 +1907,8 @@ A-A
 and B-B.
 [TABLE]
 [TABLE]
-[DIAG] S.E. CORNER OF
+[DIAG] 
+S.E. CORNER OF
 TIGER HILL
 [TABLE]
 The 
@@ -1949,7 +1963,7 @@ all the Anchor quay and
 running fast.
 A little water on the Nene
 Washes, mainly S. of the railway.
-Eaton Woodside (near Stamford).
+Easton Woodside (near Stamford).
 A much-reduced remnant of
 1-layer ash wood. The
 surrounding fields on both sides
@@ -1998,11 +2012,11 @@ The Staffs & Worcs canal is
 functional & in good repair.
 Alders line most of the
 smaller rivers in N.E. Staffs.
-Reversed - S R. & F. is 
+Reversed - S R.& F. is 
 [14008-14009]
 4008
 common in N.E. Staffs.
-Januar 26.
+January 26.
 A large horsechestnut felled
 in the Cathedral garden at
 Bangor shows very extensive
@@ -2012,19 +2026,19 @@ Not apparently penetrating to
 the outside.
 Castle Hill.
 Wood on cliff above Bangor.
-Slope of c. 50° with numer
+Slope of c. 50° with numer-
 ous springs & flushes. 30°-70°
 Sycamore loc. dom.; formerly
 sporadically coppiced, present
 trees to 1ft dia, 25ft high.
 Oak dom. in C; elsewhere freq.
-Both spp. Mainly standards, but
+Both spp. Mainly standads, but
 some once-cuts, poles, and saplings.
 Up to 40ft high, straight to corkscrew.
 4009
 Holly freq., all small.
 Ash rare, mdns; one big
-free.
+tree.
 Desch. flexu usu. ground dom.
 Sparse brambles.
 Ivy forming a carpet in
@@ -2065,7 +2079,7 @@ standards. Closed canopy.
 No understorey.
 [14012-14013]
 4012
-frequent rock outcrops/
+frequent rock outcrops.
 Boundary with adjacent
 heath and golf course is
 indefinite. Heathland mainly
@@ -2097,7 +2111,7 @@ Holly & oak.
 Cornwall Naturalists.
 Belonged to the monks of
 Aberconway since Edward I.
-Small relatively flat wood, 763-
+Small relatively flat wood, 762-
 773. Well documented.
 Sychnant, Dwygyfylchi.
 Syrch nant = dry valley.
@@ -2128,14 +2142,14 @@ parallel roads on Penmaenmawr
 the present one passing through
 two tunnels.
 4015
-Gorswen.
+GorsWen.
 Reserve 1959. 32 ac.
 Boulder clay overlying
 Ordovician shales.
 Gorswen is a fairly
 prosperous farm, part of the
 Penthyn estates.
-By the farm in a silted-up
+By the farm is a silted-up
 mill pond with a curving
 dry-stone dam. Edges of
 the pond grown up with sallow
@@ -2190,8 +2204,8 @@ trees.
 4019
 Birch all pubesc. with
 few exceptions.
-A problem in the en-
-croachment in the glade of
+A problem is the en-
+croachment on the glade of
 the spreading branches of
 the trees around it.
 Wet woodland types.
@@ -2216,7 +2230,7 @@ saplings; a few trees to
 c. 30ft high. Increasing.
 Ground vegetation chiefly
 Oxalis, Viola spp, brambles,
-Descmpsia caesp.
+Deschampsia caesp.
 Chrysosplenium oppos. seen
 in very soft places.
 Evidence of sporadic
