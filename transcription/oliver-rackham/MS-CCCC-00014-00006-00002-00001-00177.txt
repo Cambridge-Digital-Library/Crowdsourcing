@@ -59,7 +59,7 @@ x
 [13326-13327]
 3326
 Dom. if not one of these
-(c) other spp. with s m
+(c) other spp. with 5 m
 (d) total herb cover
 
 3. Soil
@@ -125,7 +125,7 @@ copp dom Hazel/Birch, silver & black
 [13330-13331]
 3330
 b -
-c - rubus caesus, viola sp,Cir cea;
+c - rubus caessus, viola sp, Cir cea;
 Deschampsia; Luzula sylv;
 Geum rivila, Orchis mascula
 A fine leaved grass - no flower
@@ -201,8 +201,8 @@ copp dom Alder
 
 [13334-13335]
 3334
-(b) Carex pendula 20%, Robinaceae
-c Viola sp Stach segl. Ran fic
+(b) Carex pendula 20%, Rubus caes
+(c) Viola sp Stach segl. Ran fic
 Epilobium hirsatium -
 [!!!!] (Geum rivale)
 [!!!!] 100%
@@ -212,7 +212,7 @@ bottle sample 17   6.8, 6.8
 3335
 185 spaces in old coppice
 200 paces in Ditch
-Fo & 3 - v tall coppic
+Fo & 3 - v tall coppice
 1.00 -   copp dom ash
 (b) hazel, Euonymus, sallow ([!!!!]
 (c) oak, alder
@@ -236,7 +236,7 @@ Oxalis -
 Rubus caesius 20%
 1
 (c) other spp. Holcus lanartus fine grass
-Descha,psia, Ran. fic (Circea)
+Deschampsia, Ran. fic (Circea)
 Pot. ster.  Viola sp pignut
 Arum (Male Fem )
 (d) 80%
@@ -244,7 +244,7 @@ Arum (Male Fem )
 3 Soil
 Bottle no. 9  5.1, 5.0
 
-50 paces of path on
+50 paces to path on
 E margin of Fox. [????]
 50 paces s. of conf of [????] Ride 
 3337
@@ -252,8 +252,8 @@ P. s end  300
                  75
 100 in from margin   25 - 100
 Transect line 87 paces northwest of the
-s.  margin pathg, starting on the
-[Pl5'] digonal part of Broad Ride
+s.  margin path, starting on the
+[Pl5'] diagonal part of Broad Ride
 On a bearing of 45o
 P5 50 paces in from Broad Ride (under
                              birch trees)
@@ -287,7 +287,7 @@ copp.dom. hazel (poor or dead)
       3.6, 3.6
   3339
   P6 125 paces in from B. Ride
-  1(a) - standardss copp dom
+  1(a) - standards, copp dom
                 Alder/sallow
   (b) oak, ash, guelder rose
   hawthorn, silver birch
@@ -310,7 +310,7 @@ copp.dom. hazel (poor or dead)
 [13340-13341]
 3340
                        [rivale]
-(b) Geum intermedium and viburnum
+(b) Geum intermedia and viburnum
                            30%
 (c) Ajuga, Deschampsia,
 Carex syl. thin dark green grass
@@ -323,8 +323,8 @@ Soil bottle sample No 2
 No worms seen
 5.9, 5.8
 3341
-Young 
-coppice  
+Young 170 paces from
+coppice.
 P7 200 paces from B.R.
 1(a) Birch standard:  copp dom
 oak/ash
@@ -350,12 +350,12 @@ x rare / small colony
 (b) Lonicera, cirsium palustre,
 grass, all abundant
 mol. Hol. Lan
-(c) Lys nemorum; viola sp. Potister
+(c) Lys nemorum; viola sp. Pot.siter
    Ajuga, Rubus Caes (5%)
           R. Fruticosa
 (d)60% - coppice covering the 
 rest
-3. Soil  no wormsseen
+3. Soil  no worms seen
  bottle sample no. 14
  5.4 1/2, 5.3 1/2
  3343
@@ -418,7 +418,7 @@ No worms  pH 5.2
           pH 5.2
 3349
 M1
-1(a) silver birch st.  copp dpm
+1(a) silver birch st.  copp dom
 B. pal, hazel
 (b) oak, alder lonicera
 (c) oak st  <--
@@ -441,7 +441,7 @@ x rare
 b -
                 [conj]
 (c) Dryop. dil, Rubus caes
-?Holcus lanatuys  [moll]
+?Holcus lanclas  [moll]
 (d) 40%
 
 3 soil    bottle sample no. 4   pH 3.9
@@ -475,7 +475,7 @@ N - 0
 (b) geum urbanum 10%
 (c) Euphorb. amyg; viola,
 Stachys syl. D.felix-mas
-Lys nemonia: Rubus caesiu
+Lys nemonia: Rubus caesius
 Carex syl. Ajuga Geum interme
                    [cory]
 (d) 90%
@@ -484,7 +484,6 @@ pH 5.25
 pH 5.35
 3353
 M3 200 paces
-
 1. a -   copp dom (alder, ash
                   (hazel bl. birch
                   (sallow
@@ -511,7 +510,7 @@ M3 200 paces
  Fine, dark grass   circea lutea
  (in stream bed
  (Cardamine prat.
- "Tees ddua" ? Palium
+ "Tees & dia" ? Palium
  menthe aq       sp
  juncus sp       palustre
  2d 95%
@@ -655,7 +654,7 @@ Lonicera dominant
 
 [13362-13363]
 Ajuga
-Dryop did  x  felix nmax
+Dryop did  x  felix max
 Carex silv
 Rubus cor
 Geum rivale
@@ -697,7 +696,7 @@ elm  Rosa caes.  oak
 
 [13364-13365]
 3364
-2b Rubus caesi 10%
+2b Rubus caesius 10%
    Pem sp 10%
 2c Twayblade, Paris (on margin)
     ---> [????] nod., Viola sp
@@ -813,7 +812,7 @@ of ash and sycamore &c.,
 with a carpet of mercury.  A
 Dulasley Hill situation.
 
-Littlebury Greenb Wood.  Contains
+Littlebury Green Wood.  Contains
 dominant standard ash, at 
 least in the W. extensions.
 
@@ -822,7 +821,7 @@ but no details visible.
 
 Littlebury Howe Wood.  Im-
 portant because mainly on
-chalk accdording to Geol. Survey.
+chalk according to Geol. Survey.
 In practice there is probably
 a very thin drift layer.
 Replanted c. 10 years ago
@@ -895,9 +894,9 @@ appears to be a slight hollow
 caused by the down-slope
 meeting the wood-bank.
   He says that the felling of
-1929 made a mess od the 
+1929 made a mess of the 
 coppice.  In the 1930s they set
-the coppice to rights snd tidied
+the coppice to rights and tidied
 up the numerous tops of
 felled oaks that were lying
 about.  They also pulled out
@@ -936,7 +935,7 @@ of main ride, FHW.
 map). [!!!! Rookery 
 Ride by Fishpond Fell, MPW.]
   Glyceria fluitans: very com-
-mon on all the mnain rides of
+mon on all the main rides of
 FHW.  Apparently all the same.
 Mean length of lemmae 6 1/4 mm.
 Sheaths not scabrid (x20) but
@@ -1024,7 +1023,7 @@ barley.
 Rymer Point Main Pond [SYMBOL] 10,11
 Excellent marginal zonation.
 
-Polyg. hyanpiper
+Polyg. hydropiper
 Galium pal
 Rx cong
 Potamog natans
@@ -1041,7 +1040,7 @@ Epilob hirs
 Junc biton
 Alisma plantago
 Menthe aqu
-Spargu ramosum
+Spargus ramosum
 Ranunc circ
 Cx hista
 * oitnibae [SYMBOL] NGS
@@ -1183,7 +1182,7 @@ wide spreading & low down
 
 flora.  The present oaks, however,
 originated in at least semi-
-heathland conditions, nd must
+heathland conditions, and must
 be well over a century old.
 
 [13394-13395]
@@ -1232,8 +1231,8 @@ has failed to emerge.
 
 July 8.
 Barley is quite ripe in 
-[????] fields neasr Noirwich.
-there sre 4 plants of Ver-
+[????] fields neasr Norwich.
+there are 4 plants of Ver-
 [????]scum pulverulentum by
 [????]urence & Scott's
 
@@ -1250,16 +1249,17 @@ Aconit nepell   Cornflower      Sedum refl
                 Moneywort
                 Trisan
                 China Aster
-                Seutzia
+                
+                Deutzia
                 Oxalis florit
                 
 A small privet bush in
-the S. hedge on thr Nunn
+the S. hedge on the Nunn
 ride has died.
 Prunella is very abun-
 dant on thr back grass.
 2299
-Stripes in Parsley
+Stripes in Barley
 
 [DIAG]
 
@@ -1304,7 +1304,7 @@ banks of brambles in flower.
 
   Melampyrum is still in flower
 in FHW.
-  Betula pubescens seedlingds
+  Betula pubescens seedlings
 coming up like mustard & cress
 
 
@@ -1336,7 +1336,7 @@ by some of the party.
   Peter Hasler from Germany
 was very interested in the
 woods, and climbed an oak
-to get s better view of the
+to get a better view of the
 bracken glades in Middle Fell.
 June 27. [cont. from p. 3380]
      Thunderstorm.
@@ -1347,7 +1347,7 @@ sky slowly got blacker with a
 yellowish tinge.  Rain began
 about 2 p.m. and went in
 about 1 1/2 hours.  Met. Office
-(Huntingdon Road) 2 12 in.) N.I.
+(Huntingdon Road) 2 1/2 in.) N.I.
 
 [13404-13405]
 3404
@@ -1358,23 +1358,23 @@ down the roofs of New Court
 and straight over the gutters.
 Stable Yrd, the Old Court
 paths, and (seriously) the workshop
-basement in Benet Str, flooded
+basement in Benet Str. flooded
 from the drains.  Hostel-keeper's
 flat in Leckhampton flooded
 from an inadequate downpipe.
 sundry other floods in College.
 All fire-engines pumping out
-basements in centre pof town.
+basements in centre of town.
 Garden between Orchard and
 Grantchester Church flooded to
-c. 3 ft. water then poured out
+c. 3 ft, water then poured out
 onto road.  Dr Kirby, who lives in Q,
 E. Way, disbelieved when told of
 dasmage to equipment at Trumpington.
 3405
 July 17.
   No cornflowers seen from
-the road at the Canagton
+the road at the Connington
 Turn - the area is under
 sugar beet this year.
   Geranium praetense is
@@ -1386,7 +1386,7 @@ walton, has a roadside
 clearing along the A1 but
 appears to be entirely elm.
   Post-&-rail fencing near
-  Empingham:  oak posts
+Empingham:  oak posts
 with bored mortices and
 
     [DIAG]
@@ -1419,7 +1419,7 @@ of various ages.
 
 [13408-13409]
 3408
-Barley beingcombined
+Barley being combined
 near Empingham.  Many 
 fields are ripe.
 
@@ -1530,10 +1530,10 @@ for the Campanula.
 on the Triangle Ride.  About
 100 yards have been cut and
 made into a ride open to the
-sky.  Mewrcury grows on the
-southernmost 20 yards from Pist
+sky.  Mercury grows on the
+southernmost 20 yards from Post
 M.
-  The large free-stsanding elm
+  The large free-standing elm
 by Hayley Ditch Ride is very
 stag-headed and has numerous
 yellow branches suggesting
@@ -1546,7 +1546,7 @@ Roundabout and in the 1970
 plot.
   A deer was seen briefly
 3415
-on thr Main Ride near Post H.
+on the Main Ride near Post H.
   Carex remota is somewhat
 less abundant on Pond Ride
 than last year.
@@ -1556,7 +1556,7 @@ quent on Pond Ride.
 middle of Pond Glade has been
 felled.
   The level of the pond has
-fallen several inches.  Csllitriche
+fallen several inches.  Callitriche
 is abundant on the mud but
 not floating.  A single plant of
 Alisma is visible, much chewed
@@ -1583,7 +1583,7 @@ small in the 1969 coppice.
 but only a few inflorescences.
 Deschampsia remains domin-
 ant and much more abundant
-than in anuy other plot
+than in any other plot
 [DIAG]
 3417
 Trifolium repens:  Main Ride.
@@ -1591,7 +1591,7 @@ Trifolium repens:  Main Ride.
 are recovering from last year's
 drought, including two promoted
 maples in the 1968 coppice which
-were thought to be dead  but
+were thought to be dead but
 are shooting from the trunk,
 though the branches remain
 leafless.  Ash standards remain
@@ -1603,14 +1603,14 @@ oak with a large strip of bark
 [13418-13419]
 3418
 fallen from the N.W. side of the 
-trunk, several years sago.
+trunk, several years ago.
 The wound, about 12 in. high,
 has a large callus along the
 sides.
   Sedum Telephium is visible
 and not caterpillar-eaten,
 but sterile.
-  Cersium palustre is tallest
+  Cirsium palustre is tallest
 in the 1966 coppice but not
 more than 8ft high.
   Ash saplings are getting
@@ -1664,7 +1664,7 @@ Weston Colville.
  Mercury
  Good wood bank.
  Spring Plantation.  Appears not
- to be on the 1612 map,but
+ to be on the 1612 map, but
  very close to Great Coven's
  Wood which is on this map.
  The part near the road existed
