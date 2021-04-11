@@ -10,8 +10,33 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00201
 -----
 
 [cover]
-
+Volume 201   15845-15932
+20-30 May 1972
+Great Waldingfield 5845-98
+Hempstead Wood 5845-61
+Cavendish Woods 5864-98
+Cambridge 5901-32
+Hayley Wood 5902-10
+Potton Wood 5911-32
 [15845]
+5845
+[SYMBOL] 20:5: 1972
+Hempstead Wood
+Compt. 45 cont. Elm A
+Elm stools toc. 8 ft dia.
+No suckers
+Early leafing
+Epicormic leaves tend to have
+3 points.  [DIAGRAM]
+Leaves rough.
+Tk [!!!!]straight
+Br [!!!!]moderate to
+wide angle, very arching.
+Tw. dikinicate, medium
+thickness
+Bk fluted
+One standard; others felled but
+never taken away.
 
 [15846-15847]
 
