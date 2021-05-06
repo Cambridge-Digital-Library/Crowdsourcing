@@ -47,20 +47,20 @@ ash
      see p. 4470
  4455
  W from G                [DIAG]
- [????] edge of clearing
+ 106 edge of clearing
    Clematis
- 1509 Ru from M
+ 150 Ru from M
  162 cross ditch
  200 Ru fr
  250
- [????] (P0
+ [????]fr (P)
  200
  ->B [change to           [DIAG]
  bluebell]
- 73
+ 2 3
  [????] to L 189o
- 3[????] 3 P [SYMBOL] L
-           BL
+ 3[????] 3 Pt R I
+ BL
  358 Pt L
      B Pt L
  200 PtR
@@ -69,7 +69,7 @@ ash
  50 Ru f L
 [14456-14457]
 4456
-486 gnp R incline
+486 grip R incline
 500 Ru fr B (0)
 520 much cherry L
 550 BM, L
@@ -81,7 +81,7 @@ ash
 718 W edge
 85 from SW reentrant
 
-  The massive roadside [????}-
+  The massive roadside boun-
 dary bank continues up
 the N.E. corner of the wood.
   One Castanea stool seen
@@ -156,7 +156,7 @@ with little coppice.  There [!!!!]
 is a larger area of "semi-
 -neutral" woodland dom-
 inated by brambles but
-with ash coppice (as inb
+with ash coppice (as in
 Somersham Park).  [!!!!]
   A somewhat similar wood-
 land type occurs in area I
@@ -178,7 +178,7 @@ ably slight.
 4. Fairly wide acidity range:
 standard calcareous to
 bracken (foxglove may in-
-dicate asmall even more
+dicate a small even more
 acid patch).
 5. Generally very dry except
 in valley bottom & north end.
@@ -222,7 +222,7 @@ haps more on the "old wood"
 and primrose on the road-
 side strip.
 16. No Carex pendula.
-17. Ancient wodl;abd plants:
+17. Ancient wodland plants:
 (Mercury)
 Cratae. hybrid - but oxy. not
         recorded
@@ -250,8 +250,8 @@ wood extending up to the
 A14 on the E. (massive road-
 side bank, bigger than all
 the internal earthworks).  W.
-boundary, and perhaos most
-of the S. boundsry, of the
+boundary, and perhaps most
+of the S. boundary, of the
 [!!!!]Ugley portion survive;
 [1111] the N. and W. boundaries
 [14466-14467]
@@ -272,7 +272,7 @@ acres.  Northern assart amal-
 gamated with roadside clearing.
 Assarting in Ugley less ex-
 tensive.
-r4. Whole roadside clearing (which
+4. Whole roadside clearing (which
 is so steep as to be difficult
 to cultivate) reverts to wood-
 land.  This includes parts which
@@ -294,7 +294,7 @@ differences in woodland struc-
 ture and composition to be
 very striking.
 
-South of rthe Wade's Hall
+South of the Wade's Hall
 road the wood-bank and
 [14468-14469]
 4468
@@ -303,12 +303,12 @@ road the wood-bank and
 4469
 conjectured original extent
 of wood.                 [DIAG]
-Residual primnary wood   [DIAG]
+Residual primary wood   [DIAG]
 Roadside clearing now
 woodland.                [DIAG]
 Road clearing not now 
 woodland                 [DIAG]
-Road now wooidland       [DIAG]
+Road now woodland       [DIAG]
 other secondary woodland [DIAG]
 roadside clearing appear
 to run on, suggesting that
@@ -328,7 +328,7 @@ of ancient woodland.  Separ-
 ated from Broom Wood by a
 definite road.  Many oak
 standards survive; tall and
-clise-grown. Structure other-
+close-grown. Structure other-
 wise lost.
 
   Rickling Green is a large
@@ -376,7 +376,7 @@ Maple
 Crab
 Ivy
 Privet
-Asplen
+Aspen
 Cr mono
    oxy
       Ulmus holl.
@@ -413,7 +413,7 @@ hornbeam subdom
 150 hornb begins pure
 B
 stools c. 6 ft x 4 ft x 2 ft
-200 pure rak - hornbeam
+200 pure [????] - hornbeam
 carpin coppice oak stds
 BO [????]
 some oaks of stool origin
@@ -430,20 +430,20 @@ BO
 dying promoted elm,
 hollandica, trunk c. 2 ft
 dia, abundant epicormics,
-otherwiseslitary
+otherwise solitary
 262 similar elm on wood bank
 300 BO carpin dom
 350 hornbeam B
 bank very spread out
-359 bryony, Alli[????] nearby
+359 bryony, Allium nearby
 white violets, lvs hairy,
-[????] shoots
+cup pend short
 400 Carpin - oak
 4477
 422 corner
 CD
-corner roubnded
-crasb on corner
+corner rounded
+crab on corner
 ivy at corner
 34 ash stool c. 6 ft on bank
 50 B oak - hornb
@@ -461,7 +461,7 @@ B (O>P)
 163 line of N-S ride
 200 Carpin dom B [SYMBOL] 20
 some big ash stools
-250 as aqbove
+250 as above
 300 as above
 325 corner - sharp, continues
 by large mixed hedge with
@@ -484,19 +484,19 @@ Cornus
 350 the same
 356 E-W ride
 400 the same
-450 the samer
+450 the same 
 500 the same
 550 the same
-564 bend inbdy Carpin
+564 bend in bdy Carpin
 [DIAG]
 [14480-14481]
 4480
 EF
-0 carpin doim to N
-mixed coippice, little carp,
+0 carpin dom to N
+mixed coppice, little carp,
 to S
 BO both sides
-32 oxlip veryt deeo reddish
+32 oxlip very deeo reddish
 stem & lvs bitten off
 69 ditch fades out
 ash last cut 25 yrs
@@ -537,7 +537,7 @@ BM
 dead oak
 350 no carpin
   BM
-400 Crpin R
+400 Carpin R
   BM
 450 BM no carpin 
   long uncoppiced
@@ -595,7 +595,7 @@ one holly
 no bank at all to S
 broad slight bank to W
 several oak stools &
-subpollards in W. bdg
+subpollards in W. bdy
 B; M rare, only in W
 margin,
 Conopod. rare; no Primula
@@ -603,7 +603,7 @@ Conopod. rare; no Primula
 4486
 Cherry: no pole tree & a
 few suckers on W side
-Old wood near dug piut
+Old wood near dug pit
 B
 Carpin rare
 (p)
@@ -695,7 +695,7 @@ the S. "handle". Made c. 4 years
 ago. Coincides closely with a
 bracken and bramble area.
 Coppice regrowth rather limited.
-Now an imprenetable tangle
+Now an imprenetrable tangle
 of brackens and dead brambles.
 Cherry.
 Not in the main wood.
@@ -2016,10 +2016,44 @@ Rx crisp
 4564
 Moat 302522 N of Croydon Wilds
 Moat int & ext banks
-Cx np-narrows by entrance
+Cx rip -narrows by entrance
 Mercury scattered
+Glech ab.
+bluebell - rare, small patches in
+                          middle
+hazel stools
+Circaea  loc. ab.
+Poa triv loc. ab.
+Arum freq
+Ash
+nettles generally ab.:  c. 2 1/2 ft 
+                              high
+sanicle freq., loc dom.
+Listera - 2 plants seen
+Actium rare
+Cowslip loc.
+Hyper hirs - marginal
+Oak - marginal
+
 
 
 
 [back cover]
+Elsen  3.24, 5.24, 7.24
+-> C.
+Camb. -> AE Friday
+c. 10.26 12.02 12.26 14.02 14.26
+AE. 1043 12.28 12.43 14.28 14.43
+15.02  15.34
+15.28  15.54
 
+A - C.
+AE. 15.30  15.44  16.41  17.27  17.51
+C.
+AE 18.23  18.33  18.37  10.02
+   18.40  18.48  19.00  19.17
+   19.11  19.321 19.45  20.46  22.30
+   
+   D.I. Chapman
+   Lanwades Park
+      Kennett
