@@ -610,7 +610,7 @@ Carpin rare
 
 H  Carpin loc. dom. in both
 woods
-Many field stories in [????]
+Many field stones in [????]
 B
 [DIAG]
 4487
@@ -706,7 +706,7 @@ in the parish boundary hedge
 N of the wood.
   On the southern wood
 bank, by the main N-S. ride,
-is a stsndard hornbeam, the
+is a standard hornbeam, the
 only one seen in the wood.
 About 50 ft high, 1 1/2ft dia.
 Non-pollard; fan-shaped
@@ -716,8 +716,8 @@ Roadside clearing. [SYMBOL] 33.
   Rough grass, probably im-
 proved at one time.  No ancient
 grassland plants seen. Over-
--grazed.  Massiuve somewhat
-lynchetted rioadsiude bank.
+-grazed.  Massive somewhat
+lynchetted roadside bank.
 May 8.Quendon Wood (Colin Ranson).
 4493
 [DIAG]
@@ -749,7 +749,7 @@ oak - hornbeam
 remains of ash
 no Primrose
 250 BO, L, OR
-oak boundary oicc ash
+oak hornbeam occ ash
 red [????]
 no P
 28;7 3 larches c. 20 yds to R
@@ -760,7 +760,9 @@ no Primula
 4496
 frequent big ash stools
 327 - 55 ab larch to L
-350 BO caerpin dom L\v ab R\no P
+350 BO carpin dom L
+v ab R
+no P
 400 Carpin dom. L., v ab R
 BO L OR
 no r
@@ -781,15 +783,16 @@ no P
 500 BO l & R
 Carpin suddenly becomes freq c,
 remains ab R
-514 coppiuce to L
-begins 48 d=from ride
+514 coppice to L
+begins 48 from ride
 black birch rare
-Dense pokle (stools) 19 yrs; 23
+Dense pole (stools) 19 yrs; 23
 black birch >> silver in
 this area
 [14498-14499]
 4498
-At 514 just into wood to L, one Ugl stool (c. 3 ft)
+At 514 just into wood to L, 
+one Ugl stool (c. 3 ft)
    [DIAG]
 550 carpin  freq
 several large Bet put
@@ -821,7 +824,7 @@ Sx caprea
 No carpin L.
    no P
 100 C to L  clearing R
-Carpinb  rare  no P
+Carpin  rare  no P
 105 N main ride [????]
 150 0 Filip L
 [14500-14501]
@@ -839,28 +842,29 @@ Anem. honeysuckle
 C) a few yards further on [to E]
 no P
 285 end of clearing L
-300 oak no P
-bo Carpin
+300 0  no P
+  no Carpin
 plantation of Corsican
-(c. 13 ft) spruce c. 4 ft
-thuja (c. 17 ft
+(c. 13 ft) Spruce c. 4 ft
+huja (c. 17 ft
 4501
 Much sallow coming up.
-350 OF to L
+350 O to L
 no Carpin  no P
 386 end of plantation
 400 honeysuckle,  (Ru cory)
 both sides
 Carpin rare no P
 426 Carpin suddenly on
-both sideds
+both sides
 450 O carpin v ab
   no P
 500 [????] Carpin v ab P >>O
 544 cross rides
-550 OP (P=O)Carpin v ab
-600 very wet O
-Carpin
+550 OP (P=O)
+Carpin v ab
+600 very wet O (0>>P)
+  Carpin ab
 6[????]0>>P     O
 Vitum op
 [14502-14503]
@@ -868,7 +872,8 @@ Vitum op
 no hornbeam
       (M)
 694 cross rides
-ivy up tree\700 M to L, O to r
+ivy up tree
+700 M to L, O to r
 no P
 no Carpin
 750 Carpin dom to L
@@ -891,8 +896,7 @@ subpollards in bank)
 q00 M
 Carpin rare
 no Primula
-150 MB Carpin rare
-            no Primula
+150 MB Carpin rare            no Primula
 184 corner
 [14504-14505]
 4504
@@ -912,7 +916,7 @@ Carpin  abs  p<<o
       no Carp
 169 cross rides
 200 polypsquam on ash
-rosa anensis    
+rosa arvensis    
 O no P     coppiced
 no P    c. 1960
 Carpin freq
@@ -921,7 +925,7 @@ Carpin freq
 P., no O
 Carpin v. ab
 300 as above - Carpin dom
-Tremelka foliacea still
+Tremella foliacea still
 expanded on sallow
 342 large pioneer oak,
 c. 2 1.2 ' dia., among hornbeam
@@ -932,7 +936,7 @@ bank
 400 B no Primula
 Carpin pure
 447 bend in ride (to N.)
-B no Pt]rim Carpin pure
+B no Prim Carpin pure
 492 wood ditch
 [14506-14507]
 4506
@@ -973,7 +977,7 @@ pure Carpin
 [14508-14509]
 4508
 HI
-) wood ditch
+0 wood ditch
 edge of wood nearly or
 quite straight
 14 spindle
@@ -1025,7 +1029,7 @@ slime flux.  Looks very like
 wet-wood but might be the
 result of mechanical weakness.
 Plantation (p. 4500 &c.).
-Mixed conifewrs c. 1966.  Wet
+Mixed conifers c. 1966.  Wet
 site.  Regrowth of coppice vigor-
 ous (especially below), but pro-
 4511
@@ -1033,7 +1037,7 @@ bably does not interfere seriously
 with conifers.
 
       Woodland Types.
-1. Mixed coppice with srandards
+1. Mixed coppice with standards
 without hornbeam.  Usual
 "heavy" type.
 2.  Hornbeam coppice with oak
@@ -1057,7 +1061,7 @@ there may be an area
 resembling 1.  Oaks rare and
 usually apparently quite recent
 (?in former bracken glades).
-Ground vegetstion very sparse
+Ground vegetation very sparse
 (unlike 2) and suggests former
 bracken & bluebells.  Stools
 denser than in 2, poles lower
@@ -1118,7 +1122,7 @@ ferent relations to other trees
 & woodland types.
 12. Hornbeam-sallow unique.
 13. Ground flora zonation very
-similr ro that at Haykey
+similar to that at Hayley
 (though interrupted by acid
 areas) and similarly relates
 to waterlogging. Remarkably little mercury.
@@ -1229,7 +1233,7 @@ bracken area).
 main wood, strong with numerous
 subpollards not in other banks,
 was probably intended as a 
-boundary betweeen the old wood
+boundary between the old wood
 and adjoining woodland to the [????].
 If so, the southern woodland
 may have extended further w[????]
@@ -1257,7 +1261,7 @@ woodland types.
 [DIAG]
 
 4523
-coney Acre, Rickling.
+Coney Acre, Rickling.
 Colin Ranson.
 13.165 acres.
 
@@ -1389,8 +1393,9 @@ pure Prunus spin. in wood
 
       Features.
 1. Soil types from fairly light
-to Entirely dry.
-3. Earthworms slight and in
+to fairly heavy.
+2. Entirely dry.
+3. Earthworks slight and in
 the main of field type.
 4. No internal surface features.
 5. Structure of secondary
@@ -1468,7 +1473,7 @@ coppiced 20 years ago (stump)
 55 old spruce
 62 rides 261o
 77 ash stool 3 3/4p x c. 2 1/2 ft
-83 dead oak overtpt by ash
+83 dead oak overtopt by ash
 [14534-14535]
 4534
 Betula verr        sycamore
@@ -1612,7 +1617,7 @@ bounded by a natural stream.
 On the wood side this forms 
 a cliff held together
 by tree roots.  Little or no
-wood-bank. On thbe field side
+wood-bank. On the field side
 there is a slope without any
 [14542-14543]
 4542
@@ -1652,7 +1657,7 @@ This one is composite but
 the gaps between the parts
 are not large and its identity
 as one stool is hardly dis-
-putable.  Siter among mercury.
+putable.  Site among mercury.
 Several other stools not much
 [14544-14545]
 4544
@@ -1670,7 +1675,7 @@ sent.
 15. Surface rather undulating
 wuith 2 pits.
 16. Birch rare, both species.
-17. ncient woodland:
+17. Ancient woodland:
 Oxlip             No cherry
 (Mercury)         Malus sylv.
 Cratae. oxy.>mas  Viola reich
@@ -1707,7 +1712,7 @@ wholly primary.
   Hornbeam is particularly
 abundant in sec. woodland,
 and largely confined to it in
-Broom.  In Brtoom & Paynsden
+Broom.  In Broom & Paynsden
 it is used in the wood hedge
 and may have been encouraged
 for the purpose.  But Paynsden
@@ -1717,7 +1722,7 @@ primary woodland from rarity
 to dominance.  It is gregarious
 4547
 and its apparent absence from
-the old part o fBroom may
+the old part of Broom may
 be due to chance.
   Paynsden and Quendon
 are complementary in drain-
@@ -1728,8 +1733,8 @@ texture & pH.
   507302 just w. of Coney Acre.
   Elm grove with high narrow
 boundary bank.  Interior 
-appears to be much excvavated.
-bluebells & stinging nettles.
+appears to be much excavated.
+  Bluebells & stinging nettles.
 
        Alsa Wood.
 Tall oaks with many old
@@ -1755,10 +1760,10 @@ scent.
 4549
        Hayley Wood &c With Tony
        Vine & D.I. Chapman, the
-Nay 9. deer man (see back cover).
+May 9. deer man (see back cover).
 Tilia Stool c. 3 ft dia.
 in old hedge along road
-by entrance to Hsyley Lane.
+by entrance to Hayley Lane.
 Leaves somewhat hairy on
 both sides.
 
@@ -1780,7 +1785,7 @@ Flo nipt but fruiting [DIAG - 17]
 Fls nipt, no fruit [DIAG - 6] 
  
   Within the exclosure, 5
-is thr commonest number of
+is the commonest number of
 leaves per rosette. The
 earlier leaves are senes-
 cent.  In the controls,
@@ -1843,7 +1848,7 @@ cluding the big one just
 outside the hedge by the
 wood.
 
-Hatley wilds.
+Hatley Wilds.
 moat - hundreds of fish
 c. 2-4" long, translucent, with
 red spots on ventral and anal 
@@ -1863,7 +1868,7 @@ longer end.
 Wattle & daub partly replaced
 in brick.
 
-Hedge with 267 continuing
+Hedge with "267" continuing
 SW of Hatley Wilds.  Hedge A.
 Reversed S.
 Almost entirely elm -
@@ -1873,7 +1878,8 @@ Some ash
      hawthorn - mono
 [14556-14557]
 4556
-Croydon Old Lane W. portion B.\[!!!!KLong lane grovr]
+Croydon Old Lane W. portion B.
+[!!!!Long lane grovr]
 Elm stools in NW bdy.
 nettles
 larch
@@ -1973,15 +1979,16 @@ and undisturbed.  Shooting
 hardly possible inside.
   A small rctangular
 pond surrounded by trees is
-islanded in thefield to the
+islanded in the field to the
 N.
 [14562-14563]
 3562
 Hedge to N.
-Elm - rather tall, narly
+Elm - rather tall, nearly
 straight,[????]
 few epicormics
-weak suckers\M loc. [????]
+weak suckers
+M loc. [????]
 Glechoma ab.
 Brachy syov.
 Stachys
