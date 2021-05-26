@@ -1317,9 +1317,55 @@ Paris freq.
 Pop tre R                 [!!!!]o/c[!!!!]
 500                     0     0(OX) occ     abs
 529[!!!!]large[!!!!] Carpin     std    L
+550                     0     0     freq    dom
+501 cross[SYMBOL]N.-S. rides (not ditched)
+clearing does not transgress ride
+                        0     0     abs     dom
+650                     0     0     abs     freq
+697 std hornbeam by ride L
+700                     0     0     freq    abs
+756 main cross rides (ditched
+N,S,E, not W
+group of HChestnut to NW
+800                     0     0      abs    abs
+850                     0     0      abs    abs
 
 [14304-14305]
 
+4303
+                             expand
+900                     0    (0) dom. begins abs
+950                     0 Cxo 0      dom     abs
+969     artificial              rack  L
+976 large group of dominant
+hornbeam L over M & O
+slight linea hollow
+regenerat. of ash & maple
+1000                          M Cxp 0 subdom abs
+1050                          M Cxp 0 dom    ABS
+1100                          M     0 dom    ABS
+1105    stream [DIAG]
+        190 then nums E
+
+Hawthorn in wood
+mainly oxy & hybrid
+
+Oxlips c 1.2 infl on 2
+bluebells c. 30 yds in
+1140 cowslip on ride
+1150                          M    0  ab     abs
+
+4305
+
+1186     ditch 7° to N
+1200           M   M    freq     dom
+1205  weakly suckering elm
+1240  ditch
+
+from here S along margin
+
+50    Carpin subdom
+     BM
 [14306-14307]
 
 [14308-14309]
