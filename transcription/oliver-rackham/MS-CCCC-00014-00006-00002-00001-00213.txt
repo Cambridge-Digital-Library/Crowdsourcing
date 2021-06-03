@@ -19,7 +19,7 @@ Cambridge 6569-84, 6585-6601,
   Ickworth Park 6637-42
 Clare 6584
 Felsham 6602-12
-   Geddin Gull 6602-12
+   Gedding Gull 6602-12
 Great Waldingfield 6628
 Norwich 6629-32
 Bradfield St Clare 6642-3
@@ -39,7 +39,7 @@ No evidence of DED.
   Quy Water is quite dry.
   Newmarket: no obvious DED,*
 some severe drought symptoms.
-*1 small ctree sev.
+*1 small tree sev.
 Red Lodge - few slight.
 Barton Mills - 5% sl.
 BRANDON PARK - Naturalists' Trust.
@@ -81,6 +81,14 @@ not rooting, solid, fleshy, dirty
 white, hollow below.
 L. thickish, distant, connected
 by veins, adnate-sinuate, snuff
+brown.
+  C. thinnish, whitish, brown
+skin smelling weakly of meal.
+  Cor. snuff-brown, masked
+when young, on P. margin and
+in zone 3/4 way up S.
+[Hydrocybe holiphoea]
+
 [16572-16573]
 6572
 [DIAG]
@@ -130,9 +138,10 @@ Lepiota amianthina
 g Mutinus caninus
 Xylaria polymorpha
 iLycoperdon perlatum
+iL. echinatum (long conical warts)
 Ramaria stricta
 Fomes annosus - on beech
-Leccinum - estaceoscabi
+Leccinum - estaceoscabrum
 NOT Suillus bovinus
 Oudemansiella radicata - rare
 Hypholoma fasciculare - rare
@@ -148,7 +157,7 @@ opposite Wangford Common.
 
 17. Numerous on pine brashings.
 About 5-10 mm dia.
-P. laterally attachedcor
+P. laterally attached or
 slightly dorsal, whitish, silky.
   L. rather distant, pale cinna-
 mon.
@@ -164,7 +173,7 @@ sl., 2% mod.
    Lime trees already quite
 yellow at Worlington in the more
 exposed parts.
-    Freekenham.  No DED seen.
+    Freckenham.  No DED seen.
     Fordham      "   "   "
     Burwell      "   "   "
 
@@ -228,7 +237,7 @@ Hygrocybe quieta.
 
 22. One under beech 11/2-23/4
 -1/4 (top) 1/2 (bottom)
-P. convex, umbonatr, mar-
+P. convex, umbonate, mar-
 gin everted, radially wrinkled,
 deep rose-pink, paler toward
 margin, matt, dry.
@@ -256,7 +265,7 @@ viscid.
 chrome-yellow ring near top.
 Punctate with numerous confluent
 orange-brown granules on a
-chromne-yellow ground. Above ring
+chrome-yellow ground. Above ring
 pale yellow, not punctate.
   PS. flat, adnate, chrome
 yellow. Po medium size, thickish
@@ -322,7 +331,7 @@ Bartlow: 2% slight (though
 much patchy early leaf yellow-
 ing).
 Severe frost-ice on birdbath.
-Oct. 13. sea also HAYLEY.
+Oct. 13. see also HAYLEY.
 Dahlias at Barton Mills [DIAG]
 damaged by frost.
 Brandon Park - Botany School.
@@ -341,7 +350,7 @@ Freq. under beech
 
 12. Laccaria amethydtina ibid.
 
-q3.  Russela ochroleuca. Under
+13.  Russela ochroleuca. Under
 beech.
 
 14. Leccinum scabrum.  Occasion-
@@ -423,7 +432,7 @@ Corsican!
 on a grassy ride.
 
 30. Gymnopilus sapineus. Frequent,
-confers.
+conifers.
 31. Boletus Xerobadins.  One seen
 under Corsican.
 
@@ -434,7 +443,7 @@ Corsican.
 on grass.
 6591
 34. Peniophora quercina.  Frequent
-on corsican stumps.
+on Corsican stumps.
 
 35. Polystictus abietinus. Freq.
 on brashings.
@@ -514,8 +523,8 @@ innate radial fibrils on a pale
 ground, dry, hygrophanous.
   S. crooked, tapering
 below.  Lower half white, with
-a membranous pellicle forming
-a distinct though incomplete.
+a  membranous pellicle forming
+a  distinct though incomplete.
 A. Upper half (or slightly less)
 pale lilac. Cor. near top, bright
 reddish-brown, fairly copious above
@@ -534,7 +543,7 @@ Hydrocybe torva
 almost certain.
 
 42. Boletus     [DIAG]
-eduius. Several
+edulis. Several
 seen, mainly
 under pines, always
 solitary.
@@ -564,7 +573,7 @@ yellow-buff, whitish at very
 top, with indistinct zones of
 [16598-16599]
 6598
-brown fibrilose Cor., no A., stuffed.
+brown fibrillose Cor., no A., stuffed.
 L. thin, subdistant, ventricose,
 pale cinnamon, adnate-sinuate
 with decurrent tooth.
@@ -572,12 +581,12 @@ C. medium thickness, whit-
 ish, radish smell (faint).
 [DIAG]
 Probably Phlegma-
-ciu decoloratum:
+cium decoloratum:
 HJH says Ph.
 caninum.
 14 Oct. HAYLEY WOOD.
 18 Oct. London: Linnaean Soc.
-Elm Disease suymposium.
+Elm Disease symposium.
 6599
 Oct 21.
 Tiger Hill experiment.
@@ -597,7 +606,7 @@ ized of recent years.
 Fine water-garden with a few
 old pollards.
 [16600-16601]
-660015
+6600
 Oct 23.
   BUFF WOOD, including Elm
 Disease.
@@ -606,7 +615,7 @@ Oct 26., Visit to Chelmsford.
 6601
 October 27 Cambridge to Bury.
    ++           +       -
-Ulmus gl    Ulmus csrp.
+Ulmus gl    Ulmus carp.
 Sycamore    Apple
 Ash         HCh
 Beech       Larch
@@ -624,7 +633,7 @@ Sx alba
 [16602-16603]
 6603
 Gedding Gull.
-Ravine c. 10 ft deepswith
+Ravine c. 10 ft deep with
 stream meandering a bottom.
 Nettle
 Stachys sylv
@@ -689,16 +698,8 @@ a year - has gone back c.
 20 - 30 yds since he has known
 it.
 
-A to B.  Stream falls over a
-vertical face of boulder clay
-c. 6 ft high.  The owner says
-it cuts back about a yard 
-a year - has gone back c.
-20 - 30 yds since he has known 
-it.
-
 A to B.  Narrow ravine c. 10 ft
-deep.  Cliff sides loess top
+deep.  Cliff sides, loess top
 often overhanging. Wood stools
 occasionally fallen in.  Hung
 with ivy.
@@ -728,7 +729,7 @@ substantial field boundary
 with a definite bank on the
 meadow side.  Towards the
 north it descends into the
-gull floor at F, and frm
+gull floor at F, and from
 then onwards it has a
 stronger bank (wood-like of
 the high acute type).
@@ -747,7 +748,7 @@ hazel.  Cut within the last
 6611
 20 years.  Ash stools to c. 3 ft.
 Underwood occurs on the flat
-surfaces and from B nrthwards
+surfaces and from B northwards
 in the gull itself.
   Pollards elm, a few on the
 boundary earthwork.
@@ -760,8 +761,8 @@ slopes at foot of sides of main
 gull.
 Scolopendrium 5-6 plants
 on N.W. facing slope.  Fronds
-exceptioonally large for E. England.
-Polyploidy: 5-6 large plkants
+exceptionally large for E. England.
+Polyploidy: 5-6 large plants
 on top of point at D.  On
 ground and at 
 [16612-16613]
@@ -1262,8 +1263,66 @@ other abnormalities.
 
   
 [16642-16643]
-
+66542
+  G: pond, evidently artificial,
+embanked, not obviously related
+to other features.
+  Church: isolated, some e-works
+around.
+  H: in this area there hs been
+a great deal of recent felling
+and planting of what were prob-
+ably 19th-cent. plantations.
+  Downter's Wood: in and around
+the site there are many big
+beeches, probably early 19th cent.,
+much diminished through recent
+felling and storms.
+  Launde Wood: extensively felled
+and replanted.
+Jan. 12.     ELM GREEN
+             BRADFIELD ST CLARE
+    WYKEN WOOD.
+6643
+Wyken Hall is a large house,
+ostensibly Edwardian, but incorpora-
+ting most of the structure of a 
+pre-1550 timber-framed house.
+Jan. 13.
+   BRADFIELD WOODS.
+Jan. 15.                    [DIAG]
+   MADINGLEY WOOD.
+A wild and stormy day.
+Jan. 22.
+  Wangford Warren.
+  Rotavation is moderately suc-
+cesful ion maintaining bare sand.
+  Fen part slightly wetter (see
+water-table depths in Technical Cttee
+minutes).
+Most of the fen consists now
+of very tussocky Arrhenathenum
+which in most places forms an
 [16644]
+6644
+almost pure stand; it appears
+to be difficult for other plants
+to establish in the interstices.  Plans
+were made for removing the 
+tussocks, or the tussocks plus
+litter, from experimental areas.
+  Still very little bush colon-
+isation on the fen.
+Jan. 28. Chelmsford.
 
 [back cover]
+28.10.73 Bury 2 x 44p
+8.11.73 Fri Chelmsfr. £2.55 oird rert
++ 74 day ret.
+6.11. Wed Chelmsf. £3.87 ord ret
+21.11 Nov 21 "  2.80 + 74
+23.11 Nov 22 Kennett & Bury
+(44 + 29)p x 9/10
+Thu Nov 29 Chelmsf. 2.55 + 74
+Sat. Dec. 8    "    2.06 single
 
