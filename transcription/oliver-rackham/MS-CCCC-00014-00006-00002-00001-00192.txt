@@ -45,11 +45,123 @@ Rosa [????ar]
 Senec [????]
 
 [14990-14991]
-
+4990
+Plot 1 N. hornbeam area.
+GBH in inches.
+  Hornbeam only. Some live ash &
+                 maple just outside.
+1 Hb 19,16,16,14,9,
+ D2-11/2-13/4-3
+2 Hb dead
+3 Hb 21, D13/4,21/2,12,D2, D2
+18,22,14,13,18,131/2,11/4D.
+8,14,11/4D
+4 D11/2-21/4-11/2-1, 161/2,16
+9,19,9,102
+5 111/2 only
+6 141/2 only
+7 D11/2,15
+8 D11/2-2-3/4-11/4-11/4, 211/2,
+14,9,14,12,D11/4-2
+9 51/2,151/2,20,D2-11/2-13/4,
+101/2,12,161/2,13,22
+10 Poplar dead
+4991
+D means diameter not
+girth, thus D11/2 or 11/2D;
+Dx-y-z means x,y,z arall diams.
+11 111/2,12,151/2
+12 9,111/2,151/2,107,10,18,12,
+D1-11/4-11/2-11/2-11/2
+13 1512/2, 81/2
+14 16,12,11/2
+15 14,91/2,9,11,18. D11/4-21/4-21/4
+16 91.2,9
+17 10,171/2
+18 13,93/4,12,211/2
+19 221/2,103/4D11/2-11/2
+20 20,11,13/4D,14,6,111/2,181/4,
+21,1D,91/2,81/2,181/2,9,16
+21 12
+22 121/2,81/2,61/2
+23 16,161/2,10,19,1D
+24 19,141/2,91/2,18,1D
+25 hazel, dead
+26 hazel, dead
+27 223,12D,101/2,D13/4-13/4
 [14992-14993]
-
+4992
+28 dead hazel
+[DIAG]
+Enumeration. All stools & mai-
+dens counted. Hb = hornbeam,
+Hz = hazel.
+  Stools normally measured only
+with ash and maple. Poles
+measured as girth at B.H. pro-
+vided they are alive at that
+4993
+Coppiced area
+Hornbeam 16-31 in regrowth
+from old stool
+Ash all badly grazed -
+Carpin. mostly ungrazed
+Poplar 36-58 in suckers
+Elm definitely glabra
+--------------------------
+height. Dead poles ignored.
+Dead stools counted. A
+composite stool counts as two
+(or more) if there is bare
+ground between the sections.
+  Location of plots on
+Peterken plan. The plots form
+parts of Peterken's quadrants.
+  Numbers in circles are serial
+numbers of stools.
 [14994-14995]
-
+4994
+Transition from horn-
+beam to mixed coppice.
+Plot 2.
+1 Hb 15,71/2
+2 Ash 42 x 21 x 16
+24, 14,11
+3 Hb D 13/4-11/4-21/4-3/4
+7,16,121/2,13,131/2,14
+4 Hb D2,13
+5 Hb D3/4-1-3/4-1/2,12
+141/2,221/2,D2,161/2,161/2,D
+11/2-11/2
+6 Hb 26,6,D1,181/2
+7 Dead Hz
+8 Hb D21/4-3/4-1-1-1,17
+81/2,D11/4-11/2-11/2-11/2,22,181/3
+D3/4
+9 Hb 91/2,91/2
+10 dead hazel
+11 111/2,8 Hb
+12 - 16 dead hazels
+17 maple D21/4, 9, 221/2
+18 Hb 111/2,151/2,141/2,81/2,D13/4
+19 Maple 131/2,11
+20 ash 591/2 standard
+21 maple 
+16,221/2,101/2,14
+22 dead hazel
+23 Hb D11/4-L
+24 oak 451/2, standard
+25 hazel 11/4
+26 ash 52x27x28: 81/2,21,9,
+181/2,9
+27 Hb 10,D2
+28 Hb 201/2,D21/4
+29 Ash 44x42x14:18,171/2
+16,221/2,101/2,13,111/2,19,16,71/2,16
+30 maple 13/4D
+31 Hb 13,10,81/2,12
+32 maple 10
+33 Hb 17
 [14996-14997]
 
 [14998-14999]
