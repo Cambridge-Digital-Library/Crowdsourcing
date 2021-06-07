@@ -163,11 +163,105 @@ D3/4
 32 maple 10
 33 Hb 17
 [14996-14997]
+4996
+34 dead Hb
+35 Hb 211/2,81/2,D1,71/2
+36 dead Hb
+          [D] ----->
+37 Hb 21,101/2,2,11/2,21/4
+191/2
+38 hb 161/2, D2
+39 Hb 161/2,171/2
+40 Hb D11/4 (stool 36 high)
+41 Hb 14
+42 Ash 13x26: 201/2
+43 Ash 38x37x31: 121/2, 121/2
+44 ded Hz
+45 ash 30x24x19: 12,101/2
+46 Hz D 11/4-13/4-3/4-1-2-1/4
+-11/2
+47 Hz D2-11/2-11/2
+48 ash 65x4x5: 201/2,5,71/2
+10,9,101/4,141/2,131/2 41/2
+49 dead Hz
+4997
+For Ash, stool dimensions
+are given first, followed by a
+colon.
+50 maple 16,7
+Plot 56 m x7-8 m
+Nearby ash last cut 1936
 
+  Woodland 3-storeyed
+with the large coppice nearly
+as high as the standards
+and much of the small
+coppice killed out.
+
+Peplis covers several sq. ft
+in shallow muddy water at the
+N. end of the widened main
+ride. [SYMBOL]12.
+  Nearby is the Alchemilla
+site.
 [14998-14999]
+4998
+Fragariua
+Sanicle
+Circaea
+Dryop dilat
+Galium pal [DIAG]
+(S. cross-roads)
+Polyg (pale) lapathifolium
+Juncus antic
+Cx flacca
+  sylv
+Senec erucit
 
+The wet-wood oak (p.
+4510, 4496-7) has a marked
+flux of watery fluid. [SYMBOL] 11,12.
+4999
+Plot 3 mixed coppice
+1 Hz 91/2,81/2,7,D1-3/4-3/4-1/2
+-4x1/2,71/2
+2 Hz D11/2-3/4
+3 Ash [????] 34 standard
+4 Hz1/2
+5 Hz71/2
+6 Hz 111/2,D3/4
+7 Hz 6,8,81/4,11,81/2,6,D[!!!!]
+13/4,10,8,D11/2-3/4-1/2-1/2
+8 Hz 7,71/2,D13/4
+9 Hz 81/2
+10 Cr oxy D21/4
+11 Hz 81/2,10,D13/4
+12 Hz D.13/4-13/4x8
+13 Hz 8
+14 Hz 7,7,D11/4-12'
+15 Hxz D11.2-1/2
+16 Ash 21x11: 23,22,251/2
 [15000-15001]
-
+1500
+17 dead hazel
+18 ded hzel
+19 Hz 101/2,8
+20 Hz8
+21 dead Hz
+22 hazel 11//2 [D]
+23 hazel 8,71/2,9,D1
+24 ash 12x24: 19,16
+25 hz 2,D3/4
+26 Hz 81/2,D11/4
+27 Hz D1-13/4
+28 Hz
+29 ash mdn 26
+30 dead Hz
+31 Hz 8,D11/2-11/2
+32 Sx cap mdn 81/2
+33 Hz D2
+34 Hz D13/4
+35 Hz D2
 [15002-15003]
 
 [15004-15005]
