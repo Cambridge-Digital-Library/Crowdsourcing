@@ -29,7 +29,7 @@ Phleum prat
 Ranun rep   Ranunculus repens
 [????Haleus lein]
 Dactylis
-Potent anj ansenina
+Potent anj anserina
 ---- rept
 Sanicle
 Heracl
@@ -142,6 +142,7 @@ D3/4
 10 dead hazel
 11 111/2,8 Hb
 12 - 16 dead hazels
+4995
 17 maple D21/4, 9, 221/2
 18 Hb 111/2,151/2,141/2,81/2,D13/4
 19 Maple 131/2,11
@@ -176,7 +177,7 @@ D3/4
 41 Hb 14
 42 Ash 13x26: 201/2
 43 Ash 38x37x31: 121/2, 121/2
-44 ded Hz
+44 dead Hz
 45 ash 30x24x19: 12,101/2
 46 Hz D 11/4-13/4-3/4-1-2-1/4
 -11/2
@@ -206,7 +207,7 @@ ride. [SYMBOL]12.
 site.
 [14998-14999]
 4998
-Fragariua
+Fragaria
 Sanicle
 Circaea
 Dryop dilat
@@ -242,7 +243,7 @@ Plot 3 mixed coppice
 15 Hxz D11.2-1/2
 16 Ash 21x11: 23,22,251/2
 [15000-15001]
-1500
+5000
 17 dead hazel
 18 ded hzel
 19 Hz 101/2,8
@@ -271,7 +272,7 @@ Plot 3 mixed coppice
 42 Ash 31x28:22,18,151/2
 43, 44 dead Hz 45
 46 Hz 91/2
-47 deadHz
+47 dead Hz
 48 Hz 9,6
 49 Hz D 13/4
 50 Hz 8,7,10,[????]
@@ -293,7 +294,7 @@ These last two form one stool
   43x78 m plot.
   Typical of the older mixed
 coppice, long uncut.  The hazel
-is not slf-coppicing well;
+is not self-coppicing well;
 there is a large proportion of
 dead stools.  This  area is
 three-storeyed.
@@ -349,7 +350,7 @@ this.
    and irregular boundary 
   from large hornbeam
 stools to hornbeam-poplar
--sallow scrub with smal
+-sallow scrub with small
 stools only (apart from a 
 very few outlying big stools).
 [15006-15007]
@@ -463,7 +464,7 @@ not particularly waterlogged.
 Possibly this is derived from
 an area of standards in
 bracken similar to that
-which astill exists further S.W.
+which still exists further S.W.
   The western transition
 area varies very substantially
 in species and age compo-
@@ -481,14 +482,14 @@ Hornbeam status.
   The S.W. hornbeam area,
 although much purer than
 the N.E., has a few birch
-nd poplar trees, a very 
+and poplar trees, a very 
 few ash stools near the
 transition edges, and a 
 few oaks of pioneer form.
 Traces of bracken ground
 cover. Stools generally large.
   [!!!!]This area could 
-possibly be scondsary to a
+possibly be secondary to a
 bracken glade. Soil prob-
 ably lighter than in the N.E.
 hornbeam area.
@@ -510,7 +511,7 @@ very local by roadsides in
 the Bourn Valley, and
 was not seen between the
 A14 and Hayley Wood.
-  No Pimpixella major seen
+  No Pimpinella major seen
 except around Hayley.
 5017
 Pimpinella sax. On a
@@ -538,7 +539,7 @@ any one tree.
   Caldecote: none at S. 
 end of closes.
 
-Lepista procera. Grouip of
+Lepista procera. Group of
 3-4 in Porter's Lane.
 Another group of c. 12
 Porter's Lane
@@ -548,8 +549,8 @@ Linum cath.
 Pimpin sax.
 Silanum
 
-Against Kingston Woiod
-Brachypod. pian.
+Against Kingston Wod
+Brachypod. pinn.
 5019
 Kingston Wood.
 N. entrance to Kingston Wood.
@@ -560,12 +561,12 @@ stream.
 Hayley Wood.
 Elm disease occurs in the
 Hayley Lane Hedge and in its
-northern continuation. Yelowing
+northern continuation. Yellowing
 and slight defoliation of the
 upper brnches of a few pole-
 -sized elms.
 It occurs in a severer
-form in two places on rhe E.
+form in two places on the E.
 side of Wood (see later).
 Yellowing widespread over
 perhaps 1 acre. A few trees
@@ -574,7 +575,7 @@ perhaps 1 acre. A few trees
 near the boundary completely
 defoliated (all these on land
 claimed by Mr Horsford). The
-disease is at its mst severe
+disease is at its most severe
 on the wood margin and de-
 clines inwards; it affects
 chiefly small pole-sized trees
@@ -714,7 +715,7 @@ September 3.
   Mid Suffolk conspicuously free.
   In an Ipswich park, one
 large elm (carpinif. or holl)
-apparently dead with speciufic
+apparently dead with specific
 symptoms, lopped 1-2 years
 ago. Nearby Cornish elms unattacked.
   One tree at the edge of a 
@@ -730,14 +731,15 @@ works. Some bracken.
   Castanea is the com-
 [15030-15031]
 5030
-monest sapling tree
+monest sapling tree on 
 the railway and nearby 
 scrub.
   Gulls follow the boat
 the whole distance to
 Holland.
   Populus alba and hy-
-brimonly planted from Hook
+brid are the only trees
+commonly planted from Hook
 of Holland to Rotterdam. No
 elms seen.
   Sheep graze on grass
@@ -878,8 +880,8 @@ Medicago [????]
 Pimpinella spp.
   P. major is the commonest
 umbellifer flowering now around
-Rinn. bundant in pastures
-& in medowsafter mowing.
+Rinn. abundant in pastures
+& in meadows after mowing.
 Edges of woods.
   P. saxifaga was seen 
 only around Unterlavieren-
@@ -889,7 +891,7 @@ in rather dense shade.
 abundant, often forming a
 carpet at the edges of woods.
   Alnus glutinosa is the
-commnest scrub tree along
+commonest scrub tree along
 watercourses and at the edges
 of woods.  Has probably in-
 creased in recent years. No
@@ -904,7 +906,7 @@ make a continuous [????]
 noise.  Crickets which utter
 short trills are frequent.
 Occasionally another insect
-makes a veryloud high-
+makes a very loud high-
 pitched short trill of liquid
 quality.
 
@@ -987,7 +989,7 @@ a single curve ([SYMBOL] 15,16). Boun-
 daries marked by stakes (usu-
 ally white-painted, some rotten)
 at intervsls of 50-100 yds.
-No trace df banks between
+No trace of banks between
 strip. Crops vary from strip to
 strip; about 2/3 is grass (semi-
 permanent, with numerous dicoty-
@@ -1040,7 +1042,7 @@ Cx sylv
 5045
 1. Polyporus sulfurens. A large
 drift c. 10 ft up the trunk
-of san old cherry tree, Triendl-
+of an old cherry tree, Triendl-
 hof.   [SYMBOL] 17
 Ferns.
   Bracken patchy and irre-
@@ -1138,6 +1140,7 @@ Cystopteris fragilis
 Silene rupestris
 Campanula rotundifol.
 Chaerophyllum aure
+[15050-15051]
 5050
 [SYMBOL] 38 Sphagnum
 [SYMBOL] 39 [!!!!Scapania] Philid. pulcherr
@@ -1178,7 +1181,7 @@ Vaccin. myot. dominant
 on humus soils.
 Vacc. vitis-id freq.
 Vacc ulig rare
-[15050-15051]
+[15052-15053] 
 5052
 Desch. flexu freq.
   This largely exhausts 
@@ -1199,8 +1202,8 @@ largely covered with large
 loose blocks or with organic
 debris overlying such. No
 surface water save in one place.
-[15052-15053] 
-5051
+
+5053
             Rinn
 Pinus cembra
 - mugo
@@ -1331,6 +1334,7 @@ certain.
   Relatively little change
 in the forest apart from a
 [15060-15061]
+5060
 few new roads.
   The whole area is unusually
 dry.
@@ -1399,7 +1403,7 @@ years ago (twigs starting to
 fall) but recovery with pro-
 duction of new shoots. About
 10% defoliated this year.
-3. Moderater-sized fast growing
+3. Moderate-sized fast growing
 U. glabra. Absam road. Slight
 yellowing of faster growing
 twigs at top of tree.
@@ -1420,7 +1424,7 @@ ted, but one has a Polystictus
 infection in the trunk.
 Some recovery with new
 shoots.
-7. Yoing mature tree in
+7. Young-mature tree in
 Absam road. Apparently
 dead in one season. Few
 dead leaves at end of
@@ -1490,7 +1494,8 @@ stadt!
        Ampass
 Asarum   Phaca penduliflora
 Galerbol              (+)
-Salicer viseVibrum opu
+Salicer vise
+Viburn opu
 Pulmonaria
 Trifol med.
 Betonica
@@ -1537,7 +1542,7 @@ a deep hollow way.
 fringe of deciduous trees
 (ash, cherry, a few scrubby Q.
 robur) below the conifer belt
-around Kiebberg ([SYMBOL] 10).
+around Kienberg ([SYMBOL] 10).
 Numerous deciduous trees
 line the hollow-way on the
 5071
@@ -1549,8 +1554,10 @@ which are cordata; some appear
 to show hybridization.
   Also a few medium-sized
 ash stools.  All these stools
-clesarly once coppiced, but
-certsainly not cut since 1955.
+clearly once coppiced, but
+certainly not cut since 1955.
+ 
+  Squirrels and tits still
 come to be fed in the Juden-
 stein woods.
 
@@ -1587,7 +1594,7 @@ place where the path is lost by
 erosion.
   No Pinus cembra on this
 slope (N.E. facing, 1400-1500m.).
-Dorfl in /voldertal. [SYMBOL] 2,3,4
+Dorfl in Voldertal. [SYMBOL] 2,3,4
 A summer village, built
 entirely of wood, solid cabins,
 many now used as week-end
@@ -1634,7 +1641,7 @@ with deeply transversely moulded
 timbers with the above date
 carved in contemporasry letters. [SYMBOL] 5.
 
-Gametiflrous mica
+Gametiferous mica
 [15076-15077]
 5076
 Volderwildbad.
@@ -1701,8 +1708,8 @@ through gloomy and steep
 5080
 woods.  Above Kolderer (a
 burnt-out farm on Tulferberg)
-it is well-engineered (19th vcent)
-with votive piuctues in one bad
+it is well-engineered (19th cent)
+with votive pictures in one bad
 place hewn out of the cliffs.
 Intended for vehicles.
   Tulferberg and Voldererberg
@@ -1874,7 +1881,7 @@ Common base ([SYMBOL]). 1960 m [SYMBOL] 18.
 29" 148 y. bend  21/2 1850m.
 forest zones.
 2240 m. highet trees - larch 
-s well asw P. cembra.
+as well as P. cembra.
 1940-2040: open wood of
 P. cembra only. Mosaic of
 Vaccinium myrt. and Rhodod.
@@ -1890,7 +1897,7 @@ fallen.
 and the middle age classes
 disappear.  Last veteran
 trees c. 2100 m., though
-young rees frequent above
+young trees frequent above
 this. Rhododendron and
 Vaccinium continue in
 sheltered places to c. 2200 m.
@@ -1900,7 +1907,7 @@ Juniper is abundant mixed
 with ericoids.
 
 1700-1940: closed forest of
-Pinus cewmbra doiminant; some
+Pinus cewmbra dominant; some
 spruce, very little larch. At
 lower altitudes trees become
 [15090-15091]
@@ -1914,10 +1921,10 @@ have little undergrowth. Rhodo-
 dendron usually dominant.
 Little recent logging although
 roads have become more nu-
-merous and better in the lasdt
+merous and better in the last
 few years.
 1500-1700: spruce with P.
-cembra and somelarch. Low-
+cembra and some larch. Low-
 altitude form of P. cembra
 with one rather thin trunk,
 short narrow crown.
@@ -1948,13 +1955,13 @@ the Glungezerhutte.
 5082
   The skiing route and its
 works have resulted in a 
-levelled and grsded track some
-200 yardss wide from Tulfein Alm
+levelled and graded track some
+200 yards wide from Tulfein Alm
 to Halsmeister and beyond. It
 follows the ridge and cuts
-some of the loops of the ld
+some of the loops of the old
 road.  It has been sown with
-grss under straw; some of
+grass under straw; some of
 this has become established.
   Considerable snow in the
 early morning;  most of this 
