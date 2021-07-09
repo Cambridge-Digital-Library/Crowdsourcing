@@ -596,12 +596,118 @@ procession of torches.
 trees in the Dean's Park.
 No ancient trees in the Park.
 [16260-16261]
+6260
 
+6261
+June 25. Hedgerow Trees.
+Haughley J. --->  2.5 mi. chiefly 06
+                  Length of       National
+                  section         Grid
+                                  Square
+Oak 1                    1
+Qsh 1311                 6
+Elm 121                  4
+Willow 1119221          17
+28
+Stowmarket  --->       3.5 mi.  05
+o 2                      2
+A 11                     2
+
+E 61   12        118125 37
+     numbers over
+     10
+W 11                    2
+Scots 1                 1
+Hch   2                 2
+                       46
 [16262-16263]
+6262
+Needham M  ---> 3.6 mi  15
+O 131167                19
+A 1111                   4
+E 3 3 3 1 6 6  14  2 3 8 3   23 15
+W 1151351               17
+Ash 1                    1
+Lime 4                   4
+Lomb P 1                 1
+Sy cam 1                 1
+Alder 1317              12
+Scots 11                 2
+Thorn 7                  7
+Elm 20   33             124
+                        192
+Signal-box by factory
+Claydon -->  4.9 mi 14    4
+O 1114                    7
+A 11                      2
+E 30   50   15           95
+W 8318                   20
+HCh 2                     2
+6263
+Elm Disease.
+  Needham Mkt ---> very slight.
+  Claydon to Ipswich
+slight symptoms on about
+7% of trees.  Some trees killed
+in previous years but none so
+far.
+  No further damage to the
+Cornish elms near Ipswich sta-
+tion.
+Ipswich to Colchester - as
+Claydon to Ipswich.
 
+Survey of Hedgerow Trees.
+  These are trees counted along the
+railway between successive stations:
+cf Forestry Commission roadside survey
+1972.  Width of area sampled varies
+according to visibility, but normally
+something like 250 yards.
 [16264-16265]
-
+6264
+Alder 5  20  70  40    145
+                       271
+Ipswich ---> 8.8 mi. 13
+O 3  12 141283432      43
+A 21122                 8
+E 251 30 10 8 6 near   62
+               Manningtree
+W
+Syc 1                   1
+Thorn 3                 3
+Pop hyb 20  10         30
+                       147
+Manningtree ---> 3.5 mi. 03
+O 71768412             36
+A 1                     1
+E 172                  10
+W 5                     5
+Thorn 4                 4                
+Syc 1                   1
+Thorn 3                 3
+Pophyb 19              19
+Lomb 2                  2
+                       77
 [16266-16267]
+62365
+Bracken damage in frost hollow
+
+Ardleigh -----> 4.5 mi 02
+O 112114314233           24
+A
+E 1558                   19
+W 1                       1
+Lomb 5                    5
+Birch 1                   1
+                         50
+  Barley is very hard hit by
+the weather - either lodged or
+scorched, sometimes both.  A
+field near Manningtree is
+entirely lodged apart from some
+patches which are yellow with
+green but unlodged edges.
 
 [16268-16269]
 
