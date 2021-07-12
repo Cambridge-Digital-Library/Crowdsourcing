@@ -325,7 +325,32 @@ slightly pendulous habit
 257 Querc [SYMBOL]
 267 Ash [SYMBOL]
 [15880-15881]
-
+5880
+293 ride enters
+0
+16 hedge enters
+[DIAGRAM]
+Hedge: Prun spin
+Hazel
+Maple
+Cr oxy
+Spindle
+Rosa arv
+Cr mono
+Anem
+Rosa can
+[DIAGRAM]
+5881
+Hedge 30 yds
+Dogwood   Mercury
+Cr mono    Hyphis
+Maple    Clematis
+Oak    Scroph nod
+Rosa arv
+Hazel
+Prun spin
+Rosa can
+Ash
 [15882-15883]
 
 [15884-15885]
