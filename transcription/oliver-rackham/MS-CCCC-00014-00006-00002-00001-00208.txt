@@ -689,7 +689,6 @@ Thorn 3                 3
 Pophyb 19              19
 Lomb 2                  2
                        77
-[16266-16267]
 62365
 Bracken damage in frost hollow
 
@@ -708,12 +707,162 @@ field near Manningtree is
 entirely lodged apart from some
 patches which are yellow with
 green but unlodged edges.
-
+[16266-16267]
+6266
+Haughley J---> 3.3 mi. 06
+O 211513131312211     28
+A 225111211211111123  29
+E 42111 12 316112111  38
+W 13                   4
+holly 11               2
+thorn 1                1
+Hch 1                  1
+                      103
+Elmswell ---> 4.5 mi. 96
+O 4112112213           18
+A 111                   3
+Scots  12              12
+E 30 30 5232          149
+                      182
+Thurston ---> 4.1 mi. 86
+O 351431533 13
+A 11
+6267
+E 10 2                12
+W
+larch 15              15
+thorn 1                1
+holly 1                1
+poplar  60            60
+beech 3                3
+Hch 1                  1
+                      136
+Bury St Ed ---> 3.3 mi. 86
+O 1163122              16
+A 22                    4
+E 10 12 37              32
+W
+                        52
+Risby ---> 6.4 mi 76
+O 34                     7
+A 1                      1
+E 1 10 10 1113          27
 [16268-16269]
-
+6268
+Pine 100 8 5 10        123
+Spruce 34                7
+Sycam 11                 2
+Larch 2                  2
+Poplar 1                 1
+Beech  245              11
+                        181
+Kennett ---> 4.1 mi. 66
+O
+A 111                   3
+E 2 14 79              32
+W
+thorn 815              14
+                       49
+Newmarket ---> 3.1 mi. 66
+O
+A 211                   4
+E 84                   12
+W 2                     2
+6269
+Hyb poplar 11           2
+Spruce 2                2
+Lomb 9                  9
+Sycam 1                 1
+                       32
+Dullingham ---> 2.7 mi. 55
+O
+A
+E
+W
+Scots 25               25
+Beecg 4 12             16
+Spruce 43               7
+Sycam 6                 6
+                       54
+Six-mile-bottom
+6 MB---> 3.3 55
+O
+A 84                 12
+E 40                 40
+W
 [16270-16271]
+6270
+Scots 18 + 22         40
+Beech 50 1            51
+Sycam 1                1
+Thorn 3                3
+                     147
+Fulbourn ---> 5.2 mi. 45
+O
+A 4132                10
+E 3331                10
+W
+Poplar 2               2
+Sycam 1                1
+Hch 3                  3
+                      26
+Towns omitted.
 
+COLCHESTER HIGH WOODS.
+    "      EAST WOOD.
+    "      FRIAR'S GROVE.
+    "      ANCRAM'S GROVE.
+6271
+July 4
+One Ulmus glabra by roadside
+just before New Wimpole - crown
+very thin, prob. chronic drought.
+Wimpole Avenue
+  To N. of main road crossing,
+several elms have slight to
+mod. disease symptoms.  This
+is a region with seversl trees
+dead in previous years. 2-3
+big elms within 100 yds of
+the road on rhe E. side are
+uniformly pale yellow-
+-green.
+BUFF WOOD. (DED)
+HAYLEY WOOD. (DED on pp
+165, 166-7)
 [16272]
+6272
+July 5.
+ALSA WOOD (Stansted Mount-
+fithet).
+DED p. 2,6,7,10,19,21
+Bioogy of Phallus p. 3
+Beech graffiti p. 16
+
+
+
+Richard Robinson
+50, Nursery Lane,
+South Wootton,
+King's Lynn
+Norfolk.
+
+K Lynn 4533
 
 [back cover]
+150 y
+2-3 y & 38 - 40 y
+Hy notice to A L-C
+
+3000 woods -
+40 x 150 a c - y
+
+Andrew Mallinson
+Roydon Hall,
+Ramsey,
+Harwich, Essex
+(oppositr Stow Wood)
+Ramsey (025 588) 245
+
+
 
