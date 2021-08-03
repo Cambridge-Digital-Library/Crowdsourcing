@@ -159,7 +159,7 @@ NIL (much p=like elm)
 9.46 5% [????]
 9.50 [????]
 9.52 [!!!!]5[!!!!]2 % sv [!!!!]10[!!!!] % m [!!!!]5[!!!!] 3%sl (chiefly
-p=like)
+p-like)
 9.54 2% sv 2% m 2% sl
 10.15 sl (Uc)
 10.25 nil (much Uc)
@@ -257,17 +257,17 @@ C. citrina - not lobed
 Buellia ephelia
 Lecano. disp
 L. muralis - blue gray, lobed
-L. intricata = dull gr[????], [????]
+L. intricata - dull gr[????], [????]
 into areoles, no lobes
 Polypod[????]
 Asplen. RM
 Lecidea lucida - bright yl[????]green
 patches, visible from distance,
 on hard sandstone tombstone.
-Physcia caesia = thick [????],
+Physcia caesia - thick [????],
 big black [????], on flints of
 church
-Buellia canescens = thick gray
+Buellia canescens - thick gray
 [17054-17055]
 crust, fairyring growth, on 
 various substrates
