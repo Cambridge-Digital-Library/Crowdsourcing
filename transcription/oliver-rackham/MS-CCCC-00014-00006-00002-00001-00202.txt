@@ -14,7 +14,29 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00202
 [15933]
 
 [15934-15935]
-
+[TABLE]
+ Cr mano v lm[????] Ash Pspin Elder V holl Cr Ivy Ivy Psp[????] Dogw. Lig oval Lig [????] Acer [????] Psp. [????] [????] [????]
+1E - + - + + - + x + - } No w. hedge
+2E + + - + + - + x + + } 
+3W + + + + + + - x - - Beginning of Bigger ground
+3E - + - + + - + x + - + + 
+4E + + - + - - + x - - - - 
+4W + + + - + + - x - - - - 
+5W + - - - - + - x - - - - +
+5E - + - + - - + x - - - - +
+6E + - + + + - - x - - - - - +
+6W + - - - - + - x - - - - - -
+7W + - - - - + - x - - - - - -
+7E + - - + - + - x - + - - - + 37-hedge with Pemb. Coll ground
+8E + + + + - - - x - + - - - - + 
+8W + + [!!!!]- [!!!!]- [!!!!]- + [!!!!]- - - - - - - - + + [Solan. dulcamara] 
+9W + - + - - + + - - - - - - - - - [SYMBOL] [Herai[????] augustif[????]]
+9E + + - + - - - x - - + + - - - - 
+10E + + - + - - - x - - - + - + - - 
+10W + - + - - + - - - - - - - - - -
+11W + - - - - + - x - - - - + - - -
+  16 11 6 11 6 10 6 16 3 3 2 3 3 3 2 1 
+[TABLE]
 [15936-15937]
 
 [15938-15939]
