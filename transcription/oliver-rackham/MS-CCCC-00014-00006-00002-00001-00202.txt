@@ -10,12 +10,38 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00202
 -----
 
 [cover]
+Volume 202    15933-16000
+4 June - 16 August 1972
+Cambridge 5933-56, 5958, 5962-9,
+      5982, 5993-6000
+   Grantchester Hedges 5933-9,
+      5944-56
+   Hayley Wood 5941-2
+Great Waldingfield 5957, 5971-81
+   Kentwell Park 5981
+Felsham 5958-60
+Norwich 5985-93
+   Woods in Langley, Raveningham,
+      Stockton 5985
+   Woods around Benacre and Scotterley
+      5987-9, 5991
 
 [15933]
 
+5933
+June 4.  1972  [DIAG]
+Hedges on way to Grantchester.
+37 p. lengths.
+Start at NW corner of Trinity
+Coll ground. 436573.
+Records of presence or absence of
+trees or shrubs (+) and certain
+other plants in successive 30
+yard lengths
+
 [15934-15935]
 [TABLE]
- Cr mano v lm[????] Ash Pspin Elder V holl Cr Ivy Ivy Psp[????] Dogw. Lig oval Lig [????] Acer [????] Psp. [????] [????] [????]
+ Cr mano Ulm carp Ash P spin Elder U holl Cr hyb Ivy Popcon Dogw. Lig vulg Lig oval Rosa can Acer can Pop hyb Tilia hyb 
 1E - + - + + - + x + - } No w. hedge
 2E + + - + + - + x + + } 
 3W + + + + + + - x - - Beginning of Bigger ground
@@ -30,7 +56,7 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00202
 7E + - - + - + - x - + - - - + 37-hedge with Pemb. Coll ground
 8E + + + + - - - x - + - - - - + 
 8W + + [!!!!]- [!!!!]- [!!!!]- + [!!!!]- - - - - - - - + + [Solan. dulcamara] 
-9W + - + - - + + - - - - - - - - - [SYMBOL] [Herai[????] augustif[????]]
+9W + - + - - + + - - - - - - - - - [SYMBOL] [Heracl angustifol augustif[????]]
 9E + + - + - - - x - - + + - - - - 
 10E + + - + - - - x - - - + - + - - 
 10W + - + - - + - - - - - - - - - -
@@ -38,9 +64,40 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00202
   16 11 6 11 6 10 6 16 3 3 2 3 3 3 2 1 
 [TABLE]
 [15936-15937]
-
+5936
+[TABLE]
+Cr mono U carp  Ash  P.spin Elder U holl  Ivy  Log ov Cr  hybr  Maple Hazel Lig vul Oak Dogw Rosa can Spindle Pop [!!!!] Pear Sx frg
+11E + + - + - + - + - + + + sinuous
+12E + + - + - - x + + -
+12W + - - - - x + + -
+13W + - - - + + x - - -
+13E - - - - + + x + - + ++sinuous
+14E + + - + - + x - - + + - + +sinuous
+14W + - - - - + - - - - - - - -
+15W + - - - - + - - - - - - - - - 
+15E + + - + - - x - - + + - - + + + sinuous
+16E + + - + - - x + - + - + - + + - blocking old gateway.
+16W + - - - - + x + - - - - - - - - 10 p. hedge of c. 4 sp.
+17W + - - - + + - - - - - - - - - - 
+17E + + + + - - x - + + - + - + - - + 13 p. hedge of c. 5 sp.
+18E - + - + - - x - + + - + - + -- + to allotments
+18W + - + - - + - - - - - - - - - - -
+19W + - + - - + x - - - - - - - - - - - -
+19E + + + +  - - x - - - - - - - - - - - +
+20 E - + - + - - - - - + - - - + - - - - -
+20W + - = - - + - - - - - - - - - - - - - 
+   16 9 5 9 3 12 11 5 3 9 3 3 2 6 2 1 1 1  
+[TABLE]
 [15938-15939]
-
+5938
+[TABLE]
+Cr m U carp Ash P spin Ivy Male Dogw Rosa c Lig V Vib Ct hyb Sx cin Elder
+21W + - - - - - -
+21E - + + + - + + + +  32 hedge of c. 3 sp to E.
+22E - + - x + - - - + + 
+22W + + - + - - - + - - -  
+23W + + - + - - - - + 
+ 
 [15940-15941]
 
 [15942-15943]
