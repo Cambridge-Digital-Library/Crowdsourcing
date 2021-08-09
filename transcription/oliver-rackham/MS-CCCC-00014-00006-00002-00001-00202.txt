@@ -99,7 +99,7 @@ Cr m U carp Ash P spin Ivy Male Dogw Rosa c Lig V Vib Ct hyb Sx cin Elder
 23E + + - - - + + - - - + - -
 24E + + - + - + + - -  + - - 
 24W + - - + - - - - - -
-25W + - - + - - - - - - - - Humulus, verey gappy
+25W + - - + - - - - - - - - Humulus, very gappy
 25E - + + + x + - - - - -
 26E + + + + - + - - - - + - +
 26W + + - + - - - - - gappy 
@@ -160,18 +160,74 @@ Grasshopper - warbler
 36W +   + 
 36 E & W:     gappy) end opposite little detatched bit 
            v, gappy) of hedge  & boundary of grass
+ [TABLE]
                       
                              
  5945
  June 11.
  Hedges of Cambridge-Grant-
  chester road cont.
+ 
 [15946-15947]
-
+5946
+[TABLE]
+Cr m Popin Maple Dogwood Ash Rosae Ulmus c Prunius Privet Elder  Ivy Ulm pr
+37W + - - - - - - - -  very gappy
+37E + + - + - + + - - +
+38E + + - + - + + - - +
+38W +  - - - - - - - - -
+39W +  - - - + - - - - -
+39E + + - - - - + - -  - x
+40W + - - - - - - - - - -
+41W + - - - - - - - - - -
+41E + + +  - + - + - + - -
+42E + + + + + + - - - + x
+42W + - - + - - - - - - - 
+43W + + - - - - - - - - -  )Brachypod sylv
+44E + + + + + + - + - + - x)
+44W + + - - - - - - - - - 
+45E + + + + + + - - - - Brachy sylv         )No W
+46E - + - - - - - - - + x + 234p. ditch to E)hedge
+47E - - - - - - - - - + x +   434562        )
+[TABLE]
 [15948-15949]
-
+5948
+[TABLE]
+Cr m P spin Maple Dogw Ash Rosae Ulm pr Ivy Elder Ulm c Cr hyb
+48W + + + - + - - x
+48E - - + - + - + - +
+49E + + - - + + + x -
+49W + + + -  - - - - - +
+50W + + + + - - - - + -
+50E + + +  - - - - - - -
+51E + + + - - - - - - -  28p
+51W + +  - - - - - x - - 24p
+Alongside Grantchester Footpath, from Si.e. Grantchester to Cambridge footpath, from S
+1. + - - - + + - x + -
+2. + - - - - + - x + - Solan dulc
+3. + - - - - + - x + -
+4  + - - - + + - x + -
+5. + - - - - + - x + -
+6. + + - - - - - x + - +7 ditch to E.Solan dulc
+7. + + - - + - - x + - -
+8. + - - - + + - x + - + Sol dulc 14 ditch to E. Brachy syl
+9.+ - - - + + - x + - -    "  "
+10. + + - - - - x - - + 10 p further to elm (carpinif)
+[TABLE]
 [15950-15951]
-
+5950
+Hedge E. from P at Grantchester
+[!!!!] Cr, mono
+Cr oxy - leaf habit & flower characters in-
+dicate little mono.
+Prun spin
+Elder
+Ivy
+Rosa can
+5951
+[DIAG]
+Honeysuckle grows c 20 ft high
+in the hedge at A. now in full flower.
 [15952-15953]
 
 [15954-15955]
