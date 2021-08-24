@@ -333,6 +333,7 @@ the wing while flying off.
 A mallard drake was seen
 perched on a fence in Darwin Coll.
 Ely to Noriwch:
+[TABLE]
 ++        +                   -
       Weeping Willow          Ash
       Elder                   Poplar (most)
@@ -343,6 +344,7 @@ Ely to Noriwch:
                               Sx caprea
                               Apple
                               Elms
+[TABLE]
 Irrigation of newly sown land
 on thin peat near Shippea Hill.
 Burgh Cas, 27 trusses [DIAG]
@@ -416,6 +418,7 @@ Acle Carr, 408102. Mainly
 alder, some sallow; few PRIM-
 ROSES on railway embankment.
 11 April.
+[TABLE]
 D[????]mic[????}      Daffodils       Almond
 Aubrietia             Apple Japonica
 Pear Japonica         Chionodoxa
@@ -424,6 +427,7 @@ Pansies               Purple Primula
 Deadnettle
 Myosotis
 Hyacinth
+[TABLE]
 Wood S. of Pilling Park. LION WOOD.
 Bank with [????] of [SYMBOL]
 Holly   Bramble
