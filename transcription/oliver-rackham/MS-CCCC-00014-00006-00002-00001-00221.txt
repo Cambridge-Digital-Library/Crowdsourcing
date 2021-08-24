@@ -556,6 +556,7 @@ Hatfeld (Herts.): 20%, mainly
 Alexandra Palace: 60%
 [17196-17197]
 12 July
+[TABLE]
 Fuchsia         Roses         Aubretia
 Borage          Sedum reflex  Convalla
 Opium Poppy     Coton. bull.  Pansy
@@ -566,6 +567,7 @@ Lysim, numm.    Tutsan        Geranium ibenicum
                 Thalictrum    Hyperic. andros.
                 Hebe          Kerria
                 Coton divar.
+[TABLE]
 The roses are magnificent
 despite being severely attacked
 by mildew. The rambler is almost
@@ -797,12 +799,14 @@ Another Up 181 +/- 5y.
 26 July. Camb <--> Welw G C
 1.46 + 0.73
 Old Knebworth DED
+[TABLE]
              Up   Uc
 Mod & sev.   30   5
 Slight & nil 40  25
              __  __
              70  30
-Tends to affcet bigger trees
+[TABLE]
+Tends to affeCt bigger trees
 of Up.
 Cer[????] Elms mainly Up,
 25% mod-dead.
