@@ -234,7 +234,7 @@ in the hedge at A. now in full flower.
                                 Grantchester-Coton
                                       footpath cont.
 [TABLE]
-Cr m P spinAsh Rosa c Elder Ivy Ulm carp Cr hyb
+Cr m P spin Ash Rosa c Elder Ivy Ulm carp Cr hyb
 Rhamnus Dogwood Pear Maple Vib lant Ulm g Ulm pr Lig oval
 11 + + - + + x + +
 12 + + - + + x - - Arum m
@@ -261,6 +261,7 @@ Rhamnus Dogwood Pear Maple Vib lant Ulm g Ulm pr Lig oval
 [TABLE]
 [15954-15955]
 5954
+[TABLE]
 Cr m P spin Ash Maple Ulm p Rosa c Cheny Rham Ivy Elder Ulm carp
 1E + + + - - + 
 1W + + + - - - - 
@@ -434,9 +435,9 @@ to be on one side of the trunk
 from top to bottom.  These have
 [15964-15965]
 5964
-wilted & died at intervsls over
+wilted & died at intervals over
 the last 3 weeks.  Each epicormic
-dies ar once, not progressively.
+dies at once, not progressively.
 No hooking of shoot ends this
 season.
   Scattered shoots infected
@@ -491,7 +492,7 @@ hollows very small owing to
 rabbit attack.
 
 Corynephorus.
-  On slope formoing edge of
+  On slope forming edge of
 very large old blow-out, on
 front of Carex arenaria area.
 Nearly continuous Polytrichum
@@ -531,7 +532,7 @@ Potent palustra
 Hydrocotyle
 Cx [!!!!approp] * elata. About
 6 tussocks c. 2 ft high, sparsely
-flowering. There are seversl other 
+flowering. There are several other 
 tussocks, all ruinous, scattered
 over the fen.
   Pits in three places showed
@@ -540,7 +541,7 @@ sand. At least 3 1/2ft down to
 5969
 water-table.
 Fen has evidently declined
-severely through lack of grszing
+severely through lack of grazing
 and too much drainage.
 
 [15970-15971]
@@ -622,7 +623,7 @@ Acton: infections slightly worse
 than on last visit. One tree
 pollarded with one season's growth
 all killed, About 30 other
-trees wirh up to 70% infection
+trees with up to 70% infection
 of the localized kind. Poles to
 mature trees, none large.
 
@@ -637,7 +638,7 @@ Kiln Fm
 Sparganium ramosum
            NGS
 
-Rnunculus scel
+Ranunculus scel
 
 Veronica (pale pink, racemes
 [????])  catenata Not NGS
@@ -654,7 +655,7 @@ Elms in Melford Green [SYMBOL] 4
 Trunk straight
 Bark reticulate - platey, very 
 rugged.
-Suckers e=weak.
+Suckers weak.
 Branches horizontal, slightly
 ascending, more strongly ascending
 twigs  very thick, divariate
@@ -678,7 +679,7 @@ Pollard Oaks in Kentwell Park.
 aged.
 Moderate variation in habit.
 In compartment S. of Paddock  Plan-
-tatkin, 864484
+tation, 864484
 
 [DIAG]
 
@@ -730,7 +731,7 @@ the circuit in Norwich-Southwold
   One severely affected young
 mature iree in Wrentham
 West End.  Two severely affected
-young mature trees (among others
+young mature trees (among others)
 in Yarmouth South-town. Both 
 of a carpinifolia type with very
 small leaves frequent in the 
@@ -848,10 +849,9 @@ wold.
 
 Southwold Cliffs. Abundant
 Beta, Smyrnium, Malva
-sylvestris, Tamarix, Agrop
-yron
-juncceiforme.
-no appreciable erosion.
+sylvestris, Tamarix, Agropyron
+junceiforme.
+No appreciable erosion.
 Mentha longifolia loc. ab.
 
 Hobland Hall, Bradwell. Surroun-
@@ -961,10 +961,10 @@ plantation (many failed conifers).
 ancient name is presumably
 Livermere: the medieval Livermere
 Grange (cf Munday's leaflet) must
-hav been near by.
+have been near by.
 5999
 Brandon Park
-Spindke on island in lake.
+Spindle on island in lake.
 Dryop. cf. filix-mas  var
 affinis on island.
 
