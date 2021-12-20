@@ -777,8 +777,48 @@ Long Green        100            nearly all s
 Bushley           90             s
 Ashchurch         100            s
 Teddington        95             mainly s
+[Table]
 [16852-16853]
-
+Much Cowarne Wood N.E. of Hereford
+Fine mixed coppice. Oak (some 
+dead); ash > maple; much birch
+& aspen
+Bushley Park W of Tewkesbury
+A few huge oaks, mostly very 
+stag-headed but stable, in grassland.
+Mistletoe on hybrid poplar
+at Alderton.
+Coombe Green Common (E.of
+Malvern Hills) is unenclosed
+heath.
+Tibble Stone, Teddington
+Apparently a sarsen boulder, with
+a natural hole.
+Deddington is built largely with
+blocks of a brown sandstone.
+[Table]
+Little Wahbourne    60    s
+Toddington          40    s
+Condicote           ?0    walls
+Oddington           20    s
+Adlestrop           10    both
+Salford             5     both
+Ch Norton           10    s,w
+S???ford            5     sfm
+Barford St M        2     s
+Deddington          0     s
+Aynho               3     s
+Croughton           0     s,w
+Astwick             2     s
+Mixbury             8     s
+Finmere            10     s
+Tingwick           10     s
+Buckley            20
+Foscott            20     s
+Leckhampstead      15     s
+Wicken             5      s
+[Table]
+many pc
 [16854-16855]
 
 [16856-16857]
