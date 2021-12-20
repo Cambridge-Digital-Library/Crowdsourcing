@@ -734,7 +734,49 @@ Willow spile-basket with hazel
 handle and rim sold at Presteigne for
 £1.90
 [16850-16851]
-
+[Table]
+Hedges      1    2    3    4    5    6
+Hawth       +    +    +    +         +
+Ash         +                        +
+Hz               +    +    +    +    +
+Dogwo            +    +    +         +
+Map              +                   +
+Rose             +    +
+P spin                +         +
+Elder                      +
+Elm p                      +    +
+Holly                      +         +
+Sycam                            +
+Merc             x         x
+Glech                 x
+Fragaria              x
+Sx cin                           +
+                346  345  344  343  331  328
+                570  570  571  574  576  582
+                (3)  (5)  (5)  (6)  (5)  (7)
+ [Table]
+1 is road - widening
+August 19 
+[Table]            DED std       Hedges
+Lyonshall          25%           mxd
+Pembridge          50            mxd
+Hardwick           35            mxd
+Eardisland         70            mxd
+Leominster         80            mainly mxd 
+Bodenham           50            mainly simple
+Maund Bryan        40            both
+Felton             90            both
+Capon Frome        100           mainly simple
+Castle Froome      c70           mixed
+Bosbury            80            both
+Staplow                          mxd
+Eastnor            70            mxd
+Birts Morton      100            both
+Pendolk           100            mainly s
+Long Green        100            nearly all s
+Bushley           90             s
+Ashchurch         100            s
+Teddington        95             mainly s
 [16852-16853]
 
 [16854-16855]
