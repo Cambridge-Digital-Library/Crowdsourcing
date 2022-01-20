@@ -24,7 +24,7 @@ Achanalt 8973-9037
    An Cabar 8994-9006
    Sgurr nan Clach Geala 9023-32
 Urchfont 9038-49
-   Breach Hanging 9041-02, 9045-7
+   Breach Hanging Wood 9041-02, 9045-7
 Great Waldingfield 9054-7
 
 [18953]
@@ -112,11 +112,11 @@ of Langmere. No rabbit activity
 noticed.
 8957
 14 July. Part II class
-Burwell elm avenue (in midde of villagr) is un-
+Burwell elm avenue (in middle of villagr) is un-
 touched by DED.
 
-Grimes =Graves
-   Crassuala v. flourishing - 2" high
+Grimes Graves
+   Crassula v. flourishing - 2" high
 in places.
   Viburnum opulus freq. flourishing
 on mines.
@@ -135,18 +135,19 @@ of water. Broad Phalaris zone. Some
 8958
 OEnanthe aquatica. No little frogs.
 Fire-engine Pool by Ringmere
-Acorus in good form
+Acors in good form
 Froglings - 1/3 " long
 Sparganium ram
 Riccia fluitan
 Ranunculus cf aquat
-Plotamog  natans
+Potamog  natans
 
 Langmere Zones.
 Phalaris flowering
    " not fl
 Agrostis zone poorly developed
-Scirpus zone absen
+Scirpus zone absent
+Holcus lanatus x Lotus [????]
 Zone is broad
 
 Leave Langmere 3.55
@@ -186,7 +187,7 @@ of D in the bottom.
 Grime's Grsves Plantation. Upturned
 trees still visible.
 Thetford Heath. Stripes very clear
-(e.g. Leotodon tarox. on deep sand)
+(e.g. Leontodon tarax. on deep sand)
 in heath and in roadside verge. An
 area has just been plowed to de-
 monstrate the underlying chalk &
@@ -246,7 +247,7 @@ half the survivors chlorotic.
   Tunnel Cement-works at
 Pitstone.
 Beeches round Ellesboro' are ex-
-ceptionally chlorotic. |some of 
+ceptionally chlorotic, some of 
 them dying.
 -----------------------------------
 4. About 50 m from 1 and 2, small
@@ -279,7 +280,7 @@ Gt Kimble one Ug mod
 8965
   Beeches at Cadsden are still
 severely chlorotic, hardly altered
-from last year. Occsional trees
+from last year. Occasional trees
 dead. Symptoms abundant in
 shallow-rendzina woods; those on
 plateau soils apparently un-
@@ -288,7 +289,7 @@ in Lodge Wood (Prestwood).
   One plant of Atropa seen in
 valley at Cadsden.
 Valley bottoms at Cadsden
-are still largely grssland;
+are still largely grassland;
 little evidence of encroaching
 trees. Arrhenatheretum.
 
@@ -300,7 +301,7 @@ Neottia: one large group
 [18966-18967]
 8966
 seen.
-  Monitropa: one plant.
+  Monotropa: one plant.
   Oudemansiella radicata:
 two seen.
   Surface is rather uneven.
@@ -317,20 +318,20 @@ patchy, much of the pine only
 dominated by ash. Sallow
 ab. despite shallow rendzina
 soil (aspect approx. N).
-Such ashes asoccur in
+Such ashes as occur in
 the rendzina beechwoods are
 8967
 mostly in good condition,
-though osme of the bigger ones]
+though some of the bigger ones
 suffer from foliage-bleaching.
-  Extensive attemopts at
+  Extensive attempts at
 replanting on plateau aoils
 further S.E.
 
 Patch of loess.
   At the top of the spur
 on which the shallow-rendzina
-woods are demonstated is
+woods are demonstrated is
 a solitary oak (Q. robur).
 Small patch (c. 10 yds across),
 of mor soil in a level break
@@ -354,7 +355,7 @@ Fragaria.
   At one place, on the edge
 of the S.E. replanted areas,
 the fall of a beech reveals
-some 2 ft of apprarently ty-
+some 2 ft of apparently ty-
 pical cwF over chalk. But
 nearby grow foxgloves.
 
@@ -370,9 +371,9 @@ ease).
 
 Chalk grass-
 land is slightly
-more bushed over tasn
+more bushed over than
 last year (when clearing
-work had veen done). Grass
+work had been done). Grass
 rather long (c. 4-5") and
 weakly tussocky, but most
 herbs survive. No Herminium
@@ -385,9 +386,9 @@ than grasses.
 [18970-18971]
 8970
 Juniper bushes in scrub are 
-old and havew apparently
-recovere3d from a phase of
-decline. One jujiper seenin
+old and have apparently
+recovered from a phase of
+decline. One juniper seen in
 ex-arable.
 
 Phytophthora. Old symptoms
@@ -402,7 +403,7 @@ survived.
 Young generaton of beeches
 still making very slow growth.
 No distinct B horizon visible
-in poidsol.
+in podsol.
   Gleying is rather indistinct.
 [18972-18973]
 8971
@@ -449,7 +450,7 @@ rough ground on the S. side of
 8973
 Beauly Firth.
   Large flock of Canada-geese
-the Beauoy salt-marshes at 
+the Beauly salt-marshes at 
 high tide.
   Blackgrass is very abundant
 wheat & barley fields in the Beauly 
@@ -458,9 +459,9 @@ area.
 along a stream below Cnoc
 Farril (Strathpeffer) very stagheaded
 top, with recovery, as tho' attacked
-DED d]severasl years ago.
+DED several years ago.
 Ash, elm, hazel, alder,[????]
-aprea) P.[????padeus] are all ab. in
+area) P.[????padeus] are all ab. in
 scrub along railway near Fodderty.
 Occasionally coppiced by railway
 men.
@@ -474,13 +475,14 @@ been snapped off about
 2/3 way up or have lost boughs.
 Broken wood is left hanging.
 Occurs chiefly with the denser
-birches - spometimes alders
+birches - sometimes alders
 also - on S. facing slope.
    Small area of arable (?
 carrots) at Garve.
 
 Old Pines of Achanalt
-1. 132 rings, fallen at leaast 16
+1. 132 rings, fallen at le
+ast 16
 prob. 30 years [1841 x 1817]
 2. c. 95 rings, felled c. 15y.
 [1869]
@@ -491,7 +493,7 @@ at c. 900 vm. Fruits eaten but full of
 pips.
 8975
   Frequent in pine plantations
-below Carn Cliaseachain.
+below Carn Chaseachain.
   Large Suillus, 
 resembling 
 S. bovinus.
@@ -508,7 +510,7 @@ not sticky.
 Suillus variegatus
 
 Eroded hollows and pans in
-thin peat on the top of Carn Clia-
+thin peat on the top of Carn Cha-
 seachain have a thin stand of
 [18976-18977]
 8976                Not NGS
@@ -520,7 +522,7 @@ fence. [Not seen elsewhere in the
 area.]
   Breutelia (probable). A single
 tuft on top of Sphagnum on
-lower slopes of Cliaseachain.
+lower slopes of Chaseachain.
   There is a classic oxbow in 
 the meadows of the Bran just W.
 of Loch Achanalt.
@@ -530,7 +532,7 @@ found in the blanket-bog above
 Badinluchie.  Molinia-lined cup with
 4 speckled olive-grey eggs. [SYMBOL]9.
 
-Furnace above Badinaluchie. [SYMBOL] 11-13.
+Furnace above Badinluchie. [SYMBOL] 11-13.
 8977
 
 [DIAG]
@@ -555,10 +557,10 @@ an Fhliuchaidhe, 258590. About
 8979
 situated at 258592, on a S. facing
 rocky hillside at a comparatively
-steep part of the valley of Altna
+steep part of the valley of Alt na
 Claise Moire just above its conflu-
 ence with A. Bad an Fhliuchaidhe.
-  furnace is a carefully condtucted
+  Furnace is a carefully constructed
 conical building, the upper part of
 which is a tumble of stones, of thin
 schist slabs. No trace of mortar or
@@ -567,7 +569,7 @@ its roof and a cavity above its
 mouth. Preserved c. 5ft high.
   In front of furnace is a rect-
 angular hut, preserved c. 4ft high.
-A roiw of boulders delimits an
+A row of boulders delimits an
 area in front of the stokehole.
 
 ------------------------------------
@@ -577,19 +579,19 @@ roofed building.   [SYMBOL] 14
 8980
 Lycopod alpinum ab. in Erica
 cin  - tetr. bog, 1000 ft.
-Stream from gulley on [????
-????], 1700 ft.
+Stream from gulley on Sguur a
+Ghlas Leafhaid, 1700 ft.
 Thymus
 Saxif. arzcid
 Alchemilla alp
 Empetrum  v. ab.
-[????]
+Chamaepenclymendum succ
 in Calluna moor
 1750 ft Arctostaphylos
 Luzula sylv
-Mela[????]  prat
+Melamp  prat
 Rubus saxat
-Betula neirna
+Betula nna
 8981
 Rowan Tree 2000ft
 4 Stems c. 6 ft high, c. 2"
@@ -600,7 +602,7 @@ Vaccin myot, Luzula sylv.
 Alchem alp ab
 *Scapania forming dense golden
 green masses on wet rox
-Cornicuolaria aculeata ab 
+Cornicularia aculeata ab 
 Preiselbeere ab.
 * Anthelia with Freillaria
 forming gray sheets on
@@ -638,7 +640,7 @@ The Cavern on Sgurr a'Mhuilinn
 [or, properly, sg. a' Oblas Leathaid]
 From Lancelot Speed. A sojourn in the
 Highlands. [No publisher, date of the 
-events is l1885]
+events is 1885]
 Saturday, November 21st. A thaw had
 set in so I thought skating in water was
 not good enough. I crossed the river
@@ -659,27 +661,27 @@ green sloe and a large rock is at B.
 N.W. and S.E.
   Go and sit on it facing west by
 south.
-  At 10 yards befoee you is the rock
+  At 10 yards before you is the rock
 B, easily recognised. Follow to the right
 to the big square stone C and go and
 sit on the other side of it, i.e. facing
-west by south, and with yout back to the
+west by south, and with your back to the
 stone. A flat stone, partly grass-grown
 affords a natural seat.
-  Right before you is the immens
+  Right before you is the immense
 cairn of loose stones, and close to you is
 the group here shown.
   Tbere are three dark holes; the middle 
-one is the cave. The opening is just lasrge
+one is the cave. The opening is just large
 enough to admit a man, and the entrance
 looks very damp and dripping. Inside,
-however, all is quite dey and the floor
+however, all is quite dry and the floor
 is covered with dry brown bones.
 8985
   Surrounded by dry bones, I lunched 
 in the cave by the candle's flckering
 gleam.
-  The two horizontal lines in rhe 
+  The two horizontal lines in the 
 sketch represent Loch Luichart as seen
 from the cave. After leaving the cave I
 went round Scour Ronach and up the
@@ -775,7 +777,7 @@ The cave is about 15 ft dia.,
 huge boulder propped up against
 others. Rather damp; has holes in
 roof between the boulders. The floor
-is nw mainly earth, but gentle
+is now mainly earth, but gentle
 probing produced several sheep
 bones and a few of rodents.
   Speed was told about the cave
@@ -2121,4 +2123,21 @@ hibition.
 [19060]
 9060
 [back cover]
-
+Achanalt 19.53 by my watch
+      c. 19.59
+         19.48 (19.40) Wed (09.50 Wed)
+         Sudb 9.35 10.00
+       19.34 offices Bury 10.20  10.55
+              12.30 Wed 13.45 [????]
+  Irene - Garve
+  
+  Sunboard
+  Setback to [????] trees
+  import licence
+  --------------------------
+  Camb -> Haver 62p ->Sudb 33p
+    Thu Tu Wed
+  Sud   7.25 8.45 12.00 12.50  15.25 16.00 16.30 [????]
+  Hav   8.35 9.35 12.oo 13.10  16.10 17.10 17.20 17.4
+  Hav   8.45 9.50 13.20 13.20  16.05 17.15
+  Camnb 9.17 10.5014.26 14.26  17.51 18.57
