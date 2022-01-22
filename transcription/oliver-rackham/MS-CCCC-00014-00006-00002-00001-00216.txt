@@ -820,6 +820,14 @@ Wicken             5      s
 [Table]
 many pc
 [16854-16855]
+[Table]
+Stoney Stratford      20   s
+Wolverton             40
+Stantonbury   still p 15  both
+Gayhurst      still p 35  both
+Ravenstone            25  mainly m
+W.Underwood           45  m>s
+Olney
 
 [16856-16857]
 
