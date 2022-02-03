@@ -321,7 +321,7 @@ The area is densely planted with
 spruce. The elm described has
 come up sparsely with the spruce
 over most of the area of the
-village. About 10[SYMBOL] dead of DED.
+village. About 10% dead of DED.
 
 [20096-20097]
 
@@ -450,13 +450,13 @@ For[SYMBOL]t de Haye. [????] no woodbank.
 [20102-20103]
 
 Elms. Doncourt aux Tepli-
-ers - 60[SYMBOL]
+ers - 60%
 After Woel: grove of elms,
 suckering, unaffected.
 Fey-en-Haye: many small
-clumps of Uc, 8[SYMBOL]
-Near Loisy 50[SYMBOL]
-Buissi[SYMBOL]res c. 10[SYMBOL]
+clumps of Uc, 8%
+Near Loisy 50%
+Buissi[SYMBOL]res c. 10%
 Most deaths of elms in Lor-
 raine are this year's.
 Mostly beech but some
@@ -592,18 +592,18 @@ front; dull and dingy interior.
 Elms.
 Champigneulles. Uc frequent,
 esp. along river and on land
-between railway & canal. 3[SYMBOL],
+between railway & canal. 3%,
 but much singeing.
 Before Toul. Uc almost continous
 between Moselle & canal. Trees
 mostly <10ft high; of bigger
-elms 5[SYMBOL] sev.-d.
-Toul. Elms freq. (Uc); 12[SYMBOL].
+elms 5% sev.-d.
+Toul. Elms freq. (Uc); 12%.
 Meuse below Pagny. Uc v. ab.
 on canal bank. Mostly small.
 Much DED singeing this year.
 Near St Aubin. Elms freq. in
-plain. 60[SYMBOL] (40[SYMBOL])
+plain. 60%(40%)
 Bar. Uc mostly small. No disease.
 Bar to [????]. Freq. disease.
 Revigny to Sermaize. Many Uc;
@@ -633,29 +633,29 @@ the [????] of the Marne gorge
 below Dormans.
 Elms.
 Farm near Heiltz. Surroun-
-ded by great elms (Uc). 70[SYMBOL]
-(30[SYMBOL]).
-Vitry. 90[SYMBOL] (70[SYMBOL] - many long
+ded by great elms (Uc). 70%
+(30%).
+Vitry. 90% (70% - many long
 dead). Uc. Inc. a huge town
 elm, dead. Elms freq.
-Loisy 85[SYMBOL] (70[SYMBOL]).
+Loisy 85% (70%).
 Chalous to Conde. Elms very
-numerous. 92[SYMBOL] (65[SYMBOL]).
+numerous. 92% (65%).
 Conde to Epernay. Uc numerous.
-95[SYMBOL] (90[SYMBOL]).
+95% (90%).
 Cumi[SYMBOL]res. Uc quite numerous,
-esp. hedgerow trees. 90[SYMBOL] (85).
+esp. hedgerow trees. 90% (85).
 Landscape of dead elms in
 places. Middlesized more af-
 fected than large.
-Dormans. Few elms - 40[SYMBOL]?
-Chateau-Th. Many elms 85[SYMBOL]
+Dormans. Few elms - 40%?
+Chateau-Th. Many elms 85%
 (60) - disease active in smaller elms.
 
 [20112-20113]
 
 Ash fruiting. Copious in the Somme
-valley; about 90[SYMBOL] of trees have
+valley; about 90% of trees have
 fruits.
 Cap Gris-Nez
 Golden-yellow prob. [DIAG]
@@ -670,7 +670,7 @@ at the first of the cliffs of
 Dover.
 Elms.
 Conchil Numerous, partly Ucg,
-partly Uc. 70[SYMBOL] (60[SYMBOL]). Survivors
+partly Uc. 70% (60%). Survivors
 all Uc.
 Nancy
 The Stanislas town is in
@@ -692,7 +692,7 @@ and urnage on cornices.
 
 29 sept. [DIAG]
 DED.
-N.E. Cambridge 40 [SYMBOL] sev.-dead
+N.E. Cambridge 40% sev.-dead
 Milton & Horningsea 85 (70)
 Waterbeach 100 (90)
 Stretham 50
@@ -769,6 +769,46 @@ many rosettes at approach to
 Thorpe Station.
 
 [20118-20119]
+
+There [!!!!] are two definite [????] trees
+in St Martin at Plea churchyard
+Acorn-crop. Light to mod-
+erate on the oaks at the
+Heartsease.
+Staghead. One oak at the
+Heartsease in dying back.
+[TABLE]
+E    M    L
+Fuschia  Roses  Spiraea sali[????]
+Phlox
+Pera[????] Sunfl  Guildweed  [!!!!]Goldenweed[!!!!]
+[!!!!]Goldenweed[!!!!]  Linaria  Mint - microphyl?
+Anemone  Cer[????]
+Aster cf al[????]
+Goldenweed
+Eup[????]
+Nasturtium
+Pink oxalis
+My Choice  Rose 1  2[SYMBOL] the same
+5 11 3[SYMBOL] King's Ransom
+[TABLE]
+[DIAG]
+[TABLE]
+6  Mid-E of back g[????]  4
+10   7 (are old rose)
+GCS  8 (W DSL [????])
+E[????] Morse   9
+Pink Peace   Old (S. border)
+  F
+[TABLE]
+3 rosettes of parsley have
+appeared through cracks in the
+concrete at the N.W. corner of
+the garage plinth. Presumably
+they suckered from the border
+c. 3ft away.
+The Fuschia is now c.
+3ft high on this year's growth.
 
 [20120-20121]
 
