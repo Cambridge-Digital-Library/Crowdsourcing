@@ -41,7 +41,7 @@ Camb-->Bristol  [????]
 
 [19453]
 
-9453[DIAG 1978]
+9453 [DIAG 1978]
 
 
 [19454-19455]
@@ -54,7 +54,7 @@ Sycamore        Lime (hyb)
 Lime (hyb)      HCh
 Beech           Birch
 Elm (Up)        Ash
-Elm |(Uc) most  Hwth
+Elm (Uc) most   Hwth
 Lilac           Elm (Ug)
 Hwth            Willow (frag)
 Elder           Walnut
@@ -182,8 +182,10 @@ Big Ucg, blown down
 Mediunm size Uc x g (Dutch??) 3  Unaff.
 2 small-med. same, unaff.  4. 5
 1 large same  )              6
-1 large same  ) all unaff.   7
-1 small same  House n9. 100
+1 small same  ) all unaff.   
+1 large same  ) rather pendulous 8
+                weak suckering
+House no.9. 100
 Group of similar ) rather pendulus 8
 1 large same  ) weak suckering 
 House no. 100
@@ -195,7 +197,7 @@ field fence.
 1 "  -    ", dead this year       )  9
 5 med., dead, prob affected last  )
 year                              )
-Opp Clarkson Rd, one large Up.
+Opp Clarkson Rd, one v.large Up.
 felled ?2 yr ago after infection, suckers
 unaffected.
 [19464-19465]
@@ -232,7 +234,7 @@ sl. affected   10
 ----------------------------------------
 W. side cont.
 2 med g x c different clone, unaff.
-[!!!!opp Burrells]then start playingfield
+[!!!!opp Burrells] then start oif playing field
 Opp Burrell's Field lane
 2 big Up, attacked last year)now d. 29
 Big Ucg, same               )
@@ -287,7 +289,7 @@ severe                   45       46
         West side
 Ucg, ? holl, pollarded long ago
 2 med, 1 small, 2 med, 1 small
--med, 1 mned  -  unaff. 48
+-med, 1 med  -  unaff. 48
 Rugby Ground
 
 
@@ -316,11 +318,11 @@ premature yellow.
 elm hedge trimmed, unaff       57
 1 med.-large Huntingdon, unaff. 58
 1 large cg. (not Hunt) in boundary 59
-of Newnham Coll., unbaff.
+of Newnham Coll., unaff.
 Last house before Barton rd.
 1 ?Us (like that in West Rd) small-
 med, unaff   60
-2 csmallk same, 1 sl, 1 unff. 61
+2 small same, 1 sl, 1 unff. 61
 [19470-19471] 
 9670
 9 Nov. Elms along Queens' Road
@@ -328,10 +330,10 @@ East
 ?big Up in NW corner of Clare,
 with 4 polesized suckers - slight
 or no infection       1
-Grret Hostel Lane
+Garret Hostel Lane
 
 
-St Joyn's Wilderness - see yster-
+St John's Wilderness - see yester-
 day. 10
 St John's Coll. after gate  [SYMBOL] 23
 3 large 20 22 23 cg unaff - Huntingdon
@@ -341,13 +343,13 @@ from Garrett Hostel Lane northward
               West
 Burrell's Walk
 v. large Up along Burrell's Walk
-Very large Up, Trin felow's Gsrden
+Very large Up, Trin fellow's Gsrden
 felled last winter after severe infection.
-v. large Up along Bjurrell's Walk
+v. large Up along Burrell's Walk
 40% attacked             )
 Trin Fellows' Garden     )  2
 small? Huntingdon 3    )
-2 medium Hiuntingdons  ) unaffd.
+2 medium Huntingdons  ) unaffd.
 sm. - med Wheatley 4 slight at top 5
 sm - med. Hunt. 10% attacked 6
 sm - med. Wheatley 10% at top 7
@@ -366,7 +368,7 @@ St John's Field cont.
 1 small Up unaff. )
 1 small Up dead   )   16
 1 large Up 60%    )
-1 s mall Up nil   )
+1 small Up nil   )
 1 sm.-med Up 20%  )
 1 "     "  "  5%  )
 1 large Uh unaff  17
@@ -393,7 +395,7 @@ direction sign
 1 large "     "      "    ) 
 1 large "     "      " (attacked
 last year)                )
-1med Up same              ) 
+1 med Up same             )
 bus shelter
 1  med Up nearly dead    34
 4 small Up nearly dead [!!!!35]   )
@@ -418,7 +420,7 @@ corner
 Madingley Road, S. side
 5 [!!!!Ucg] small - 1 sm-med Ucg
 unaff                   1
-1 v. larger Ucg, mod
+1 v. large Ucg, mod
 weakly suckering        2
 tk sinuous, bk ruggedly retic.
 branches narrow-angle, sinuous
@@ -448,10 +450,10 @@ hedge of No. 5 Up, c. 12 ft high
 unaff                             9
 in front of No. 9 all Up
 [19476-19477]
-0476
-cont. 1 sm-med, attscked last
+9476
+cont. 1 sm-med, attacked last
 year, dead                  )
-3 smnall, same              )  10
+3 small, same               )  10
 thicket of 18 small, of which
 10 dead, 3 sev, 5 unaff        11
 Grange Road
@@ -462,8 +464,8 @@ Adams Road, N. side
   ( (1 prob holl, felled 1 year)
   (1 felled 2 y, 75 rings
 1 (1 same
-  (1 mod 1 sevf 1 mod 1 sev
-  (gap (hedge minly Up, unaffected)
+  (1 mod 1 sev 1 mod 1 sev
+  (gap (hedge mainly Up, unaffected)
   (1 sl-mod gate 1 sl 1 near ded
   (1 unaff
 Garden of 17: 3 small (2) Ucg unaff
@@ -473,7 +475,7 @@ Next garden (after lane to
 1 tree [!!!!] attacked 3
 S. side no. 8 one large Wheatley,
 90%    4
-Rlou d corner of Wilberforce Rd,
+Round corner of Wilberforce Rd,
 one v. large Ucg unaff    5
 Sylvester
 [!!!!Herschel] Road E. side
@@ -486,7 +488,7 @@ W. side
 1 large Uc, nearly dead  2
 1 small " , unaff.       3
 E. side
-1 mod Usa, near-dead (attacked
+1 mod Us, near-dead (attacked
 last year)    4
 1 cg, small, mod   5
 [19478-19479]
@@ -603,7 +605,7 @@ tact.
   Around Buckingham ashes
 are in better condition. Many
 young ones.
-  About 3% of upstsnding elms
+  About 3% of upstanding elms
 in Buckingham are alive - appar-
 ently a Uc minority. Many
 live Up suckers.
@@ -629,13 +631,13 @@ oak, no sign of ancient woodland.
 
 Elms. Apparently none left alive
 in the Oxford area; many dead
-1 1/;2 years. A few Up survive in
+1 1/2 years. A few Up survive in
 E. Ilsley and Beedon.
 
 Pen wood, Highclere. (On 1st ed.)
 Strong acute banks both sides of 
-road. Fringe alongroad is
-]oak with few suppressed hazels.
+road. Fringe along road is
+oak with few suppressed hazels.
 Some oak stubs in bank. Rest 
 is larch & pine c. 40 y growth.
 Bracken. Prob. pure sand.
@@ -656,7 +658,7 @@ On steep slopes of valley, app.
 chalk. Intact. Ash coppice, many
 oaks.
 
-Faccon=mbe & Doily Woods. On
+Faccombe & Doily Woods. On
 steep slopes, app. chalk. Prob.
 orig. ash & hazel, now much
 [19486-19487]
@@ -665,10 +667,10 @@ beech (origin not seen). Beech in
 poor condition.
 
 Chalk scrub. Very good in
-cutting of A30c on Thorny Down
+cutting of A30 on Thorny Down
 2 miles E. of Figsbury Ring. Several
 big yews and a small patch
-of juniper. Much overrum by
+of juniper. Much overrun by
 clematis. This appears to be
 an old cutting. Rhamnus.
 Several score junipers.
@@ -771,7 +773,7 @@ what colder. - still no frost.
 17 Nov.
             HAYLEY WOOD
 19 Nov
-Tilia vulgaris. Much old coppie
+Tilia vulgaris. Much old coppice
 in belt along Ermine Street S.
 of Longstowe station.
 [TABLE]
@@ -836,10 +838,10 @@ holl, all unaf.              2
 1 med-large  U holl, unaf   4
 1 med. holl, mod            5
 
-Cobbett's corner green, d]from s.
+Cobbett's corner green, from S.
 6 (2 med. Up almost dead
   (1 "    "  dead, aff last year?
-7 1 v. large Up, severec - affected '76 or '77
+7 1 v. large Up, severe - affected '76 or '77
 8, 9 2 med holl., prob. unaf
 10 1 v. large holl., prob. unaf.
 11 1 small holl., unaf
@@ -854,7 +856,7 @@ Brook. then hedge  with many
 holl - say 25 middlesized and
 20 small,
 9495
-of which 1 mddlesized appears to
+of which 1 middlesized appears to
 be dead and 2 severe. 1 small dead,
 3 small mod.
 
@@ -884,8 +886,8 @@ pollarded c. 4 y, mod-sev.
 of Barton Rd: 3 middlesized & 1 
 large Hunt, all healthy.
 S.W. corner of this field (Gonville &
-Caius): 5small Up, all died '77.
-med-largre Uc, sl. or none
+Caius): 5 small Up, all died '77.
+med-large Uc, sl. or none
 
 25 Nov.
   Severe frost last night - the
@@ -912,7 +914,7 @@ starting to freeze on Sheep's Green.
 30 Nov. 
 Temperature in Cambridge
 said to have fallen to 15oF last
-nigh: the coldest since 1963.
+night: the coldest since 1963.
 River frozen over outside
 Darwin Coll., thick enough to
 bear ducks with ease but not
@@ -943,11 +945,11 @@ Small snow-cornices persist
 al;ong the road N. of Lavenham.
 6 Dec.     LAVENDER COTTAGE
 Many oaks  GT WALDINGFIELD
-are still in full leaf. One big oak\
+are still in full leaf. One big oak
 in Gt Waldingfield churchyard has
 all its leaves green, apparently
 undamaged by frost. Some can
-br detached but most are still
+be detached but most are still
 firmly attached.
 7 Dec.
 [TABLE]
@@ -967,6 +969,7 @@ Apple (most)   Japan Cherry        Sycamore
 [TABLE]
 10 Dec.                 [DIAG]
 Plants affected by frost
+[TABLE]
 Sycamore residual leaves killed
 Robinia          do
 Plane            do
@@ -986,6 +989,7 @@ Prunus cerarif   most leaves
                 remain, severe
 Hyb. lime       Residual, dead
 Ligust. vulg. v. slight
+[TABLE]
             HAYLEY WOOD.
 15 Dec.
   Heavy rain all day.
@@ -996,7 +1000,7 @@ Ligust. vulg. v. slight
 hoar-frost. Frost rmained un-
 melted all day to the tops of
 the trees: temperature in the
-sahde must have been well below
+shade must have been well below
 freezing.
 19 Dec.
   Another brilliant cold day.
@@ -1027,7 +1031,7 @@ Rose N. border     Rambler       Rose near gate
                      F           [????]   
 9503
   Frost has apparently not been
-very severe. Fuchia is unaffected.
+very severe. Fuchsia is unaffected.
 Several roses in this and the neigh-
 bours' garden are in full flower.
 Chrysanthemum segetum severely
@@ -1053,7 +1057,7 @@ forming in thin layer.
 31 Dec.
   Blizzard for much of the day.
 Snowfall slow, no more than 2"
-deep on The level. Intense frost,
+deep on the level. Intense frost,
 especially in evening when the
 sky cleared. Frozen condensation
 on the windows of unoccupied
@@ -1093,7 +1097,7 @@ along the river to Cambridge.
 2 Jan.
   Frozen condensation on my 
 windows.
-Keeping-room extrensive behind
+Keeping-room extensive behind
 shutters.
 Bedroom: one half of shutters closed,
 small amount of ice behind
@@ -1107,9 +1111,9 @@ window-seats.
 9507
 frozen over, not yet under brid-
 ges. Mill pools solidly frozen,
-and bricks throw on to the ice
+and bricks thrown on to the ice
 have not gone through. The
-ducks congregte chiefly under
+ducks congregate chiefly under
 Garret Hostel Bridge. No skating
 or walking on the ice yet.
   Weather fine and brilliant
@@ -1117,7 +1121,7 @@ No hoar frost. Snow remains
 undiminished.
   Slight freezing inside windows.
 4 Jan.
-  Frost continues. My bath-outlt
+  Frost continues. My bath-outlet
 was blocked for a short while.
 5 Jan.
   Frost continues. Cam  backwaters
@@ -1190,9 +1194,9 @@ heavy rain at night.
   Remains of snowdrifts in
 9511
 hedge bottoms and sheltered pla-
-ces, increasinfg S.W. from Csm-
+ces, increasing S.W. from Csm-
 bridge.
-  Considerble holloways out of
+  Considerable holloways out of
 Hitchin to the S.E., apparently
 in greensand.
   The Lepidium hedge outside
@@ -1208,7 +1212,7 @@ suckers.
   One of several big yews in
 Gt Milton churchyard, possibly
 100-150 years old, is in very
-threadbare conditn and dying  
+threadbare condition and dying  
 [19512-19513]
 9512
 back.  The others sre in good con-
@@ -1261,21 +1265,21 @@ drifts in Cockfield and around
 the Bradfield Woods.
 BRADFIELD WOODS.
 17 Jan.                [DIAG]
-Rainy day; the in
-turned to snow S. of Knbworth,
-and thin snow lay n the grpund
+Rainy day; the rain
+turned to snow S. of Knebworth,
+and thin snow layo n the grpund
 by evening all the way from London
-to Bristol. About 2in. of snow at
+to Bristol. About 2 in. of snow at
 Wootton-under-Edge.
 18 Jan.              CLAREMONT
 Durdham             MERLIN HAVEN
 Down, Bristol, is   WOOTTON-U-EDGE
 a plateau of mown grassland, said
-formerly yo have had furze.
-  Clifton Down, an extensikon of Durd-
+formerly to have had furze.
+  Clifton Down, an extension of Durd-
 ham, is hilly with rock outcrops and
 9515
-has small p[atches of furse and
+has small patches of furze and
 thorn scrub. Formerly said to have
 had Erica tetralix.
 
