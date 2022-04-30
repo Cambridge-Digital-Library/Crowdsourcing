@@ -10,8 +10,19 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00258
 ----
 
 [cover]
+Volume 258 19937-20008
+18-28 August 1979
+MAVROMMATI 9937-0003
+Thisbe etc. 9937-54
+Thespial and Listi 9961-80
+Haliartos and Megarevma 9981-92
+Pinewoods of Attica 1-3
+Crawley 4
+Cambridge 5-8
 
 [19937]
+MAYPOMMATI
+
 
 [19938-19939]
 
