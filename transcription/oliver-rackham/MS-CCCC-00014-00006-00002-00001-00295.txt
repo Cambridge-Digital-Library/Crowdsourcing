@@ -13,12 +13,12 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00295
 295                   12901 -23004
 11 October 1982 - 9 February 1983
 Cambridge 2901-6,2921-2,2922-40,2941-59,2961-2,2967-70,2979-80,2982-8,2994-6
-Brandon Park (fungi) 2901-5   Black poplars2912,2941
-Whepstead woods2913           Cambridge elms2922-36
-Armllaria(84HL, Norwich2945   Timber prices2984-5
-Hadleigh (Suffolk)2909-16
-Oxford2916-21
-Oxon woods2963-20 2989-91     Woodstock Park 3917-9
+Brandon Park (fungi) 2901-5   Black poplars 2912,2941
+Whepstead woods2913            Cambridge elms 2922-36
+Armllaria(64 HL, Norwich) 2945   Timber prices 2984-5
+Hadleigh (Suffolk) 2909-16
+Oxford 2916-21, 2991-4
+  Oxon woods 2963-20 2989-91   Woodstock Park 2917-9
 Ipswich2922
 Long Crendon (Bucks)2940-1  Anomolous elm ringwidth
 Keele 2959-61                                  2940
@@ -57,22 +57,23 @@ Aylesbury 1937
 Brandon Park cont.         11
 40. Marasmius oreades.  OCTOBER
 Occasional on lawn;       1982
-most of the fsiry-rings are not
+most of the fairy-rings are not
 now fruiting, and the toadstools
 are small, despite the wet
 season.
 
 41. Nolanea sericea. Occasional
-on lawn. P. mid-grewy, rsdially
+on lawn. P. mid-grey, radially
 silky; L. and S. also grey. Looks
 remarkably like a smallish Tricko-
 loma terreum. Also a blackish form.
 
-42. Stropharia aeruginosa. Occa-\sional, edges of lawn.
+42. Stropharia aeruginosa. Occa-
+sional, edges of lawn.
 
-44. Coprinus comasus ) still occ-
-45. C. atromentsrius ) ur in
-their usuaol place at the end
+44. Coprinus comatus ) still occ-
+45. C. atramerius ) ur in
+their usual place at the end
 of the lake, less abundant
 [22902-22903]
 2902
@@ -104,15 +105,15 @@ Russula.
 53. Polyporus perennis. Occasional
 rides; not a good year for it.
 
-54. Lactarius deliccosus. Once, coni-
+54. Lactarius delicciosus. Once, coni-
 fers (mainly larch).
 
-55. Siullus elegans. Frequent, esp. in
+55. Suillus elegans. Frequent, esp. in
 the neighbourhood of larches, but also
 under pine up to c. 100 yds away.
 
-56. S. aeruginal=scens. Small troop
-just outside the canoopy of a larch.
+56. S. aeruginascens. Small troop
+just outside the canopy of a larch.
 (These larch fungi are all with older
 larches, of c. 100y.)
 
@@ -122,20 +123,21 @@ larches, of c. 100y.)
 groups, grassy rides.
 
 58. Hygrophorus virgineus. Ivory-white,
-small troops loc. ab. in planttion\ides.
+small troops loc. ab. in plantation
+rides.
 
 59. Hygrophoropsis aurantiaca. Freq.
 in pine plantations.
 
-60 [!!!!] Sparasis crispa. One, c.
+60 [!!!!] Sparassis crispa. One, c.
 6" dia., pines.
 
-61. Lactsrius rufus.
+61. Lactarius rufus.
 [!!!!Amanita muscaria] Freq., pines,
 less common than usual.
 
-62. Phallus impdicus. One group
-pines} presumably en d of season; no
+62. Phallus impudicus. One group
+pines; presumably end of season; no
 eggs.
 
 TRICHOLOMA RUTICANS was
@@ -149,8 +151,8 @@ in lower plantations, Corsican Pine.
 cibarius | (c. 2" dia.), regular
 funnel shape. Golden P.; gills
 very shallow, pale orange.
-Cantharellus amerthystinus.
-Probble - see Rea.
+Cantharellus amethystinus.
+Probable - see Rea.
 
 65. Marasmius epiphyllus. Rare,
 pine.
@@ -164,9 +166,8 @@ pine, less common than other
 2906
 [????Boleti]
 
-68.
-Peridermium pini.
-Corsicsan Pine at a crossroads;
+68.Peridermium pini. Attacking
+Corsican Pine at a crossroads;
 moves downwards branch by 
 branch.
 
@@ -181,7 +182,7 @@ Roff zone.
 71. C. vermicularius. Similar to the 
 above, but white. With it near
 heather. Also on lawn in front of
-Basndon Park House.
+Brandon Park House.
 2907
 72. C. inaequalis. Probably this
 sp. with argillacea on rides -
@@ -207,7 +208,7 @@ S. with strigose base.
 2908
 Tricholoma. P. expanded-convex,
 S. clavate. Entirely pinkish-fawn.
-Trichoooma irinum.
+Tricholoma irinum.
 
 46. [!!!!]
 
@@ -251,14 +252,14 @@ Railway. Much damage done to
 [22910-22911]
 1910
 vegetation on S. side between
-Elmswell & Bury is consequence of
+Elmswell & Bury in consequence of
 repairs to track & ballast.
 
 Verbascum pulverulentum. Many
 hundreds of rosettes by railway
 at Bury.
 
-Identifying Bradfield fungi
+Identifying Bradfield fungi.
 
 14 Oct.       [DIAG]
   Identifying Bradfield fungi and
@@ -288,30 +289,30 @@ roadside near 861576. One at
 back of houses alongside Haw-
 stead Green, 863584.
 
-Field withg many Trees on E
+Field with many Trees on E
 side of road 400 yds SSE of
 [22912-22913]
 2912
-Norton church, 865,602. About
+Norton church, 865602. About
 15 huge pollard oaks in a
 pasture, crowns almost touching.
 
-LAWSHSLL FRITH.
+LAWSHALL FRITH.
 ALPHETON WOOD.
 
-Cage's Wood, Whepstead.Intact.
+Cage's Wood, Whepstead. Intact.
 Grove by Lawshall School. Intact;
 many old conifers; does not look
 ancient.
 Dutmoss Woods. Intact.
-Nunn's Grove, Hswstead. Intact;
+Nunn's Grove, Hawstead. Intact;
 many timber trees.
 19 Oct.
   To London to fetch Jenny from
 Victoria Station.
 20 Oct.
   With Jenny making a cake, preparing
-for and holdong a dinner party in
+for and holding a dinner party in
 2913
 her honour. Bacon Room. Graeme &
 Wendy Lawson, Lucia Nixon.
@@ -332,7 +333,7 @@ Saw Jenny off on th 6.50 a.m.
 to Liverpool Street - she was to fly 
 from Gatwick to Houston.
   River Csm is in high spate;
-an overflow over the bank by Cu-a
+an overflow over the bank by Cru-
 [22914-22915]
 2914
 soe's Island.
@@ -348,7 +349,7 @@ Ucxg.
   Odsey - many Ucxg. little dis-
 ease.
   Hitchin. No large elms left
-alive. Msny suckers of Up and
+alive. Many suckers of Up and
 Ucg up to c. 20 ft high - no dis-
 ease seen.
   Oxford. No elms of any kind seen
@@ -366,7 +367,7 @@ Birch silver
 Sycamore
 Elm (p)
 Elm (g)
-Mapkle
+Maple
 Hawthorn
 Ash
 Elder
@@ -395,7 +396,7 @@ on today's excursion.
   Burleigh Wood, Cassington
          & Bladon.
   Woodbank is now clearly
-visible round N. and E. bounda-
+visible round N. and E. bound-
 aries.
   Small area of aspen.
   Interior successfully conif-
@@ -416,7 +417,7 @@ Surprisingly less wet than on
 previous visits, despite recent
 rains.
    Ancient oaks unchanged.
-   Many dead oaks in rthe 
+   Many dead oaks in the 
 High Lodge area & below. These
 appear to be at least 30 years
 dead. Not pollards; probably of
@@ -494,7 +495,7 @@ to W. of the village.
 Rewley House.
   The River Thames is much in
 flood.
-Elms. Hedges ast Thame full
+Elms. Hedges at Thame full
 of Up suckers; no disease.
 
 Evensong in College Chapel.
@@ -503,7 +504,7 @@ Evensong in College Chapel.
 dendrochronology project; Knap-
 well Wood Committee.
 26 Oct.
-  Corerspondence; College Committee
+  Correspondence; College Committee
 on Butterflies; lecture to National
 Trust in Ipswich on ancient
 [22922-22923]
@@ -517,7 +518,7 @@ other woods)
 of carrot fly).
 28 Oct.
 CAMBRIDGE ELMS.
-west Road.
+West Road.
 (1). intact
 opp (1) intact
 (3) both "Grange Road" unaf.
@@ -540,7 +541,7 @@ suckers of (17) and (18) in hedge.
 (1),(2) affected this year & felled.
 (3),(4) unaf.
 (5) felled, suckers
-(6) attacked this year,  ow 40%
+(6) attacked this year,  now 40%
 (in King's) multiple infections
 (8) of the 10 last year, 4 are mod.
 (7) one sl., one mod., 5 sev., others
@@ -562,7 +563,7 @@ W. side of Queens' Road
 (2) c. 60%, diffuse
 (2a)Up, c. 15 ft) nil
 (1a) (same) nil
-(3), (4) possibly singed at top,. but
+(3), (4) possibly singed at top, but
 extending
 (5) 20% at top
 (6), (7) unaf.
@@ -627,11 +628,11 @@ healthy
 (2) felled - no great age.
 Many Uh suckers around (1)
 (3) felled, sl. suckering
-(5) (6) one helthty sucker
+(5) (6) one healthy sucker
 (7) suckers c. 10 ft
 (8) One remains c. 30%
 (9) now about 18 ft; 5/6 of hedge
-affectedf at top.
+affected at top.
 (10) (11) cut down, except for one c. 12 ft
 which is alive to top.
 Orchestor: felled
@@ -671,7 +672,7 @@ one topped because of
 telegraph wires, one felled?
 (3) felled, suckers c. 5 ft 
 (4) growth continues
-(5) v, sl.
+(5) v. sl.
     Sylvester Road
 (1) occ. suckers to c. 3 ft.
 (2) (3) gone (building site)
@@ -690,11 +691,11 @@ Robinson College N. to S.
 (c) to (h) standing
 Burrell's Walk
 (1) 70%
-(2) ll unaf.
+(2) all unaf.
 (3) dead
 Felled area; many UH suckers
 to c. 10 ft, unaf. One planted
-beech survives others dead.
+beech survives, others dead.
 Surviving stools of Ucg along
 stream: 1 dead, 2 sev.
 (15) both dead, suckers c. 6 ft.
@@ -712,7 +713,7 @@ rest mod. - this year's infection.
 Rifle-range Road hedge suckers
 c. 10 ft; no disease
 (49) hedge trimmed; in one place
-let grow to c. 12 ft, nd here sl.
+let grow to c. 12 ft, and here sl.
 singed at top.
 (50) several one-twig infections this
 summer but not progressing.
@@ -721,7 +722,7 @@ and rapidly growing.
 (53) 1 as (50) 1 unaf.
 (55) felled) suckers  3 ft
 (56)       )
-(57) unf. -  few stems let grow
+(57) unaf. -  few stems let grow
 [22932-22933]
 2932
 to c. 12 ft
@@ -736,7 +737,8 @@ Barton Road
     (b) (c) (d) felled or partly so
 
 Ridley-hall Road
-(6) siuckers c. 8 ft, no disease
+(6) s
+suckers c. 8 ft, no disease
 (3) felled
 
 Calculating Domesday Devon
@@ -765,17 +767,18 @@ Parker's Piece SW
 this year
 (2) 5%
 [22934-22935]
+2934
 (3) 90%
 (4) 15% - sl. epicormic infection
-(5) ()5, as (1), large Pleurotus
-from old branch scsr
+(5) 90%, as (1), large Pleurotus
+from old branch scar
 (6) (?) healthy
 (8) healthy
 (9) appears healthy, but early
 leaf-fall, ?epicormic infection
 (10) appears healthy but early 
 leaf-fall
-(11) prob.sl. epicormic; early leaf-fall
+(11) prob. sl. epicormic; early leaf-fall
 (12) sl. epicormic infection, early
 leaf-fall, v. large Polyporus squa-
 mosus
@@ -795,8 +798,8 @@ of recently-amputated bough
 (5) dead, except for basal epicormics
 (6) 25%
 (7) 90%
-(8) epi. affected, genersl easr;y lf-fall
-(9) (10() healtty
+(8) epi. affected, general early lf-fall
+(9) (10() healthy
 Parker's Piece NE
 (1) 70%
 (2) no visible symptoms,local
@@ -811,7 +814,7 @@ Ucg healthy in N.E. corner of
 the college.
 Coton. A large Uc at the end
 of the Evanses' garden is sl.-mod.;
-the last big elm left slive in the
+the last big elm left alive in the
 E. part of the village.
    Enormous crop of apples
 at Coton
@@ -824,7 +827,7 @@ Evanses.
 1 Nov.              Photocopies 30 x 5p
 Preparing Part II lectures
 Looking for houses
-Correspondence.hyb poplar
+Correspondence.
 2 Nov.
 [TABLE]
 Lombardy    Slv birch (most)  Cherry
@@ -846,8 +849,8 @@ HATFIELD FOREST.
 Anne Mcjurney & relatives
 - dinner party
 3 Nov.
-  WADDELLS WOOD
-  2938TRUNDLEY WOOD
+  WADGELLS WOOD
+  TRUNDLEY WOOD
 and groves in the Thurlows
 4 Nov.
 Part II lecture introduction to
@@ -888,7 +891,7 @@ Sycamore        Elm c            Birch silv
 Elder           Hawthorn
 Elm p           Birch silv
 Hawthorn (most) Hyb poplar
-Sx brlew        Ash (few)
+Sx baby         Ash (few)
 Ash (few)       Lombardy
                 Sx alba
 [TABLE]
@@ -907,9 +910,9 @@ Plank 2. 1.4,1.1,.3,.4,.6,.5,1.2,.9,.8,
 .7,/5, .5,.5,.8,.8,.7,.6,.6,.5,.5,.0 1/2,
 .0 1/2,.1 1/2,.1 1/2,.5,.2,.2 1/2,.3 1/2,.3,.7,.6,.6
 7 Nov           OLD CROWN
-Elms. Many Up LONG CREDON
+Elms. Many Up LONG CRENDON
 at Long Crendon,  BUCKS
-hame, Dinton
+Thame, Dinton
 are standing dead - most have
 lost twigs & bark and the bran-
 ches are falling off.
@@ -918,13 +921,13 @@ Ammonites. Used as decorative
 features in walls at Long Cren-
 don and Stone.
 2941
-Ayesbury Poplar.  Frequent in
+Aylesbury Poplar.  Frequent in
 marshland ditches around
 Aylesbury. Most are overgrown
 pollards, perhaps c. 80 years
 old. Resemble P. nigra.
 Trunk typically somewhat sinu-
-ous, markedy leaning.
+ous, markedly leaning.
   Branches strongly arching,
 with numerous erect water-
 shoots.
@@ -941,15 +944,15 @@ cular kinds of woodland history,
 *this on 7 Nov
 [22942-22943]
 2942
-tree ocmmunities, gregariousness.
+tree communities, gregariousness.
 Reading travellers in Boeotia.
 9 Nov.
 Travellers in Boeotia.
 10 Nov.
 Ivy. Today & yeaterday there
 have been many visitors to the 
-nectar of the icy flowers in the
-Rovinia trees in Leckhampton
+nectar of the ivy flowers on the
+Robinia trees in Leckhampton
 Lane: bees, flies in large num-
 bers. Most of the flowers are
 over, but they appear to yield nec-
@@ -958,7 +961,7 @@ have gone.
  Wasps' nest in Leckhampton
 House wall shows no sign of ac-
 tivity.
-Small flies and other insects
+   Small flies and other insects
 are still abundant: weather is
 warm and sunny and there has 
 2943
@@ -967,7 +970,7 @@ apparently not been a frost.
   Talk on fungi - Radio Cambridge-
 shire.
 11 Nov.
-Past II lecture: (8 Nov.) tre
+Part II lecture: (8 Nov.) tree
 communities, classification of wood-
 land vegetation, mosaic sizes.
   (11 Nov) floras of woods of differ-
@@ -989,9 +992,9 @@ in Applied Biology.
 landscape to Eastern Conference of
 Countyside Organizations, Cam-
 bridge.
-Prelecting (Congregation).
-Revising Boeotia paper.
-[????Squeres] meeting.
+  Praelecting (Congregation).
+  Revising Boeotia paper.
+ N[????Squeres] meeting.
 Meteors.
 
 [DIAG]
@@ -1000,9 +1003,9 @@ Meteors.
 S.W. Both traversed about 1o
 2945
 of arc; faintly bluish. Also two
-flashes in sky, one in n., one in
+flashes in sky, one in N., one in
 E., not necessarily meteors.
-  Sky very clesr; Milky Way
+  Sky very clear; Milky Way
 visible.
 14 Nv.
 Hayley Wood - north side
@@ -1015,7 +1018,7 @@ Privet   Sx cin <-------->Sx cin
          Birch blk        Wild pear
          Hedge Haw
          Wood Haw
-         [TABLE]
+[TABLE]
 HAYLEY WOOD
 Fine sunrise - heavy rain 
 in late morning & for most of day.
@@ -1161,6 +1164,7 @@ The N.E. end of Midsummer
 Common is partly under water.
 Horses & cattle still out on the
 commons.
+
 Landslips. Several in railway
 cuttings in the Dullingham-New-
 market area, mostly in sand
@@ -1196,13 +1200,13 @@ Bunce books.
 & wildwood.
   Review of Peterken & Bunce
 books finished.
-  Hard frost in evning.
+  Hard frost in evening.
 28 Nov. 
   Hard frost, the first noticeable
 frost of the season in Cambridge,
 ice on pools.
   The river was in spate after
-the latest heavy rin buthas
+the latest heavy rain but has
 rapidly subsided.
   College Chapel morning &
 evening.
@@ -1219,7 +1223,7 @@ Part II lecture - wood pasture,
 Greece & Crete &c.
 30 Nov.
 Mapping of Alpheton &
-Lawshsll Woods; writing of
+Lawshall Woods; writing of
 Bentley woods (history).
 1 Dec.
   Writing Bentley woods.
@@ -1255,7 +1259,7 @@ Trundley woods.
 woods. Photographing scenes
 in Cambridge snd Fen Ditton.
 2957
-Elms. Fen Ditton nearly all elms]
+Elms. Fen Ditton nearly all elms
 died last year.
 9 Dec.
 Batch of accounts of woods
@@ -1313,7 +1317,7 @@ shallow water at the Peterboro'
 end.
   River Chater (Rutland) runs
 very high and brown.
-Empingham Rservoir is a
+  Empingham Rservoir is a
 few inches below normally full.
 Cannock Chase. A long plateau,
 the slopes covered with conifer
@@ -1343,11 +1347,11 @@ Accommodaion 10.93        2961
 Train 14.20  Taxi 3.50
 21 Dec.                     THE VILLA
 Keele Park                   KEELE
-sit of the Univer-          STAFFS
+site of the Univer-          STAFFS
 sity.
 New Red Sandstone, evidently
 acid soils, rhododendrons.
-  Park with some rees in late
+  Park with some trees in late
 middle age; oaks (one or two
 probable xs), yews.
   Much sycamore.
@@ -1364,8 +1368,8 @@ photograhs.
 [22962-22963]
 2962
 Getting things for Cbristmas.
-Cretan air photograhs.
-The second day of continuous 
+Cretan air photographs.
+  The second day of continuous 
 frost. Ice on Cam backwaters and
 detached pools.
 24 Dec.
@@ -1373,14 +1377,14 @@ Further grubbng of poplar plan-
 tation on Lakenheath Fen.
 There has been much ice
 on the Brundall fens, even under
-tres, where flooded vby a high
+trees, where flooded by a high
 tide.
 Pollard Oaks. A few huge
 trees, to c. 4 ft dia., by roadside 
 on L. side of road S.E. of Herringfleet
-Hsll, 484986.
+Hall, 484986.
 Alexanders. Now abundantly
-in leaf, unaffeced by recent
+in leaf, unaffected by recent
 frosts - which have severely
 bitten many of the old nettles.
 2963
@@ -1389,7 +1393,7 @@ mouth & Gorleston but it has now
 melted.
 
 Fritton Lake Woods in Ashby.
-Mostly CP plantstions. Some older
+Mostly CP plantations. Some older
 pines: also chesnut and sycamore
 plantations mostly 1- or 2-
 cuts.  Occasional big beeches inc.
@@ -1398,12 +1402,12 @@ Much bracken; brambles chiefly
 under sycamore. No sign of
 old woodland.
 
-Hdges in Lothingland are
+Hedges in Lothingland are
 mainly pure hawthorn or E. Ang-
 lian elm. Some mixed hedges on
 the Somerleyton - Ashby road.
 
-Oaks. Not visually stagheaded.
+Oaks. Not usually stagheaded.
 [22964-22965]
 2964
 in Lothingland.
@@ -1436,16 +1440,16 @@ wind-pruned.
   Strong cold-front with heavy
 showers and rainbows.
 28 Dec.
-Strumpshaw Marches. Large areas
+  Strumpshaw Marches. Large areas
 of alder, most of it at least once
-cut. Several sykes and old
+cut. Several dykes and old
 meanders have recently been
 dredged.
 
 Meters Electricity  05098.8 low
                     19054.9 nrm
              Gas 1834.14
-  Pruned some of ther roses in
+  Pruned some of the roses in
 the front S. border.
 [22966-22967]
 2966
