@@ -411,16 +411,132 @@ sockets for timbers.
 [DIAG]
 [DIAG]
 No base - triangle
-Arched [????]braces to pjrlins.
+Arched windbraces to purlins.
 [DIAG]
 [23024-23025]
+3024
+Broached
+shep-chamfer   [DIAG]
+3 bays each f 6 rafter-spacings
+2 w=end frames at each [????] bay
+from end; common rafters lean
+against collar to form a hip.
+Span 11§ x 23 1/2
+Side-purlins scarfed at each
+pair of princ. rafters.
+[DIAG]
 
+[DIAG] ogee arrow-slit
+Sir Thomas Plunkett
+2025
+[DIAG 1573] chapel of Sir John
+Plunkett
+
+[DIAG] doorhead "arch"
+Typical section.
+  Tower is of 
+dark-grey
+limestone and         [DIAG]
+schist, tbe
+former being
+used for the
+more complex work. Walls about
+4 ft thick. Strongly sloping aprons at
+base.
+Numerous loops in ground
+floor and a few elsewhere. All are
+simple rectangles save for the
 [23026-23027]
+3026
+Rose in flower Trinity College.
 
+Arbutus - a few flowers have survived
+the frost; in garden Glendalough.
+--------------------------------------
+one on p. 3024, which is pierced
+through the [????] of one of the 
+inner angles of a corner tower.
+  Windows are biggish, rectangular
+with lintels each of 4-6 miscellan-
+eous timbers. All appear to be later
+insertions. Those on the top floor,
+which are smaller, may preserve
+jambs of original windows.
+  Several doorways to exterior,
+including one in a corner tower
+at 1st-floor level, which may be 
+original (but altered); remains
+of corbels for platform.
+  Of the internal doorways,
+a few of those from rooms to
+3027
+Elms cont.
+Bray cont. one Ug in which severe
+disease.
+No elms in the mountains.
+-----------------------------------
+corner-turrets may be
+original: 2- centred, with
+simple chamfer on one         [DIAG]
+side and rebate for door
+on the other.
+Fireplaces in
+all 3 principal rooms and several
+of the corner-turret rooms. Original
+ones are rectangular, with massive
+lintel and simple chamfer. Straight
+though slanting chimneys are in
+thickness of wall.
+  Internal walls are plastered
+& whitewshed.
+  Roofs of corner-turrets have
+a kind of corbel-vault, with
 [23028-23029]
+3028
+diagonal stones acting as lintels
+across the corners and then
+others bridging the
+angles between these  [DIAG]
+until the remaining
+gap is reduced
+enough for a capstone.
+Wide left-handed stair
+in one of the corner towers, with
+no newel; stairs are supported
+beneth by a variant of the
+above corbelling.
 
+Roof. 3 bays, with hipped ends
+having large gablets above the
+collars.
+  Principal trusses are of archbraced
+construction, with doubled collars; the
+part of the roof above the tower
+collar is, in effect, an independent
+3029
+construction of crown-purlin type.
+Arched windbraces to purlins, which
+are set with faces horizontal and
+vertical; there is therefore a complex
+45o joint at the top of each
+windbrace.
+  Simple chamfers, but a rather
+complex broach-stop.
+  21'6" span x about 26 ft long.
+  Slate-covered. Wide parapet-
+gutter paved with great overlap-
+ping sloping and very slippery
+flags of limestone. Parapet
+gutter seems not to have given
+trouble.
+Very slender construction of good-
+quality timber. No wane; impossible
+to estimate how many trees.
+Recently severely "restored";
+all common rafters and about
 [23030-23031]
-
+3030
+1/4 of main timbers are modern.
 [23032-23033]
 
 [23034-23035]
