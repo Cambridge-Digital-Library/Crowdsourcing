@@ -1080,18 +1080,7 @@ along railway, much of which was
 sallow. Prob ash-hazel.
 
 |Breedon Hill. Much scruffy sec. wood
-(ash, etc) invading steep pa
-
-
-
-
-
-
-
-
-
-
-stures.
+(ash, etc) invading steep pastures.
 Big wood on S.W. slope mainly
 ash, is intact.
 
@@ -1320,7 +1309,7 @@ newtake at A.         [DIAG]
 stone-faced
 earthbank,
 [23068-23069]
-3063
+3068
          [DIAG]
 some 6 ft high, forming a barrier
 between Walkhampton Common and
@@ -1330,7 +1319,7 @@ made  of semi-ashlar granite
 blocks, evidently not, in the main,
 formed from the local clitter, which
 anyway is not extensive. The
-3061
+3069
          PRINCETOWN
 
 [DIAG]
@@ -1350,7 +1339,7 @@ quent than vertical.
 E. and S.E. of here are rather
 extensive newtakes with straight
 stone walls. Several small planta-
-tions. Most of the newtskes are
+tions. Most of the newtakes are
 almost indistinguishable from the
 moor, but there are possible traces of
 past improvements.
@@ -1362,7 +1351,7 @@ Moorland vegetation.
 3071
 (1) Callune moor - rather strong
 tussock-&-pan; Calluna dom.
-Molinia v. b. Erica tetralix freq.
+Molinia v. ab. Erica tetralix freq.
 Potent. erecta occ. Pans wet, with
 freq Sphag. rubellum freq. on hummocks.
 Sph. palustre occ. halfway from
@@ -1380,7 +1369,7 @@ Rhytidie frietrus.
 Rhacomitrium.
 [23072-23073]
 3072
-(3) Molinictum. More than half
+(3) Molinietum. More than half
 the area. Sloping, apparently not
 very wet. No tussock struc-
 ture other than that of the
@@ -1388,7 +1377,7 @@ Molidia itself.  This is not
 very tussocky; it resembles the
 less well-developed Tall Heath
 of the Lizard. Much Carex flacca.
-Occ. Taxus squaarriosus.
+Occ. Juncus squarriosus.
 
 (4) Small mire in valley bottom
 (broadening out below into a bigger
@@ -1404,7 +1393,7 @@ coarse quartz sand or fine gravel,
 evidently weathered out of granite.
   Callinetum has been burnt
 in places.
-  Grazing variable most scree
+  Grazing variable; most scree
 near road and on Callunetum
 elsewhere. Calluna & Vaccinium
 are probably reduced by grazing.
@@ -1415,8 +1404,8 @@ Plantations.
 (2) Tor Royal 600730 etc. Spruce,
 up to 1450 ft. Rather gappy, trees
 at edges very wind-pruned.
-(3) Princetown, upto 1610 ft. Mainly
-beech; some ash and syvamore; few
+(3) Princetown, up  to 1610 ft. Mainly
+beech; some ash and sycamore; few
 spruce. Lawson and rowan also seen
 in town. Occasional thorn. Some--->p.30763074
 --------------------------------
@@ -1451,9 +1440,9 @@ Welltoun.)
 places. All these grow perfectly
 well, if somewhat slowly. Ash &
 3077
-         sycamore & Corsican
-         reach c. 1500 ft.
-         Beech is the highest
+               sycamore & Corsican
+ [DIAG contd] reach c. 1500 ft.
+              Beech is the highest
    of all. Beeches to c. 25 ft
    high (1600 ft), c. 45 ft (1450 ft
    ft), c 2 ft dia. The
@@ -1478,7 +1467,7 @@ little or no clitter. Tors rather mas-
 sive & slabby.
 Hollow Tor: a curious little upstan-
 ding outcrop on a hillside.
-Graat Mis Tor: large tor, clitter
+Great Mis Tor: large tor, clitter
 chiefly to W. Little Mis Tor is a 
 small subsidiary outcrop, rather
 tall, with a great overhang.
@@ -1499,7 +1488,7 @@ dense clitters, the latter arranged
 in rows resembling stone-stripes.
 
 Rendlestone. A presumably 19th-cent.
-hamlet, including a diminuitive
+hamlet, including a diminutive
 longhouse of excellent granite 
 ashlar. The walls around here
 are of fine granite blocks squared
@@ -1532,7 +1521,7 @@ around Dennithorne, Whitchurch.
 
 Plaster down. Large, fairly level
 common, much grazed by sheep.
-ainly grassland but some bracken
+Mainly grassland but some bracken
 & furze.
 
 Primrose. Uncommon, seen in flower
@@ -1551,7 +1540,7 @@ Alder. Rare; Huckworthy Bridge,
 a large young tree at Welltown.
 
 Secondary wood. A small aban-
-doned field ar Welltown, rather
+doned field at Welltoun, rather
 flushed, has frequent oak and
 occ. hazel.
 
@@ -1559,16 +1548,16 @@ Lanes. Most lanes in the area are
 holloways about 10 ft wide. To the
 [23082-23083]
 3082
-E. and S.E. of Welltown are narrow
+E. and S.E. of Welltoun are narrow
 "packhorse" lanes, beautifully
 paved ih schist set on edge.
 
 Frog-spawn. Great massses in
-pools at Welltown. Some almost
+pools at Welltoun. Some almost
 hatched.
 
 Buzzards. Three seen above 
-Welltown.
+Welltoun.
 
 1 March.
 Buzzard sitting on wall near
@@ -1591,7 +1580,7 @@ Reaves - seen from Coombestone Tor. On SW side
      
 all reaves on this slope have the
 bank to the W. and ditch to the E. They
-definitely end st the edge of s zone
+definitely end at the edge of a zone
 of continuous bracken (occ. furze).
 Woods are at present much lower than
 this; they are prob. slowly extending
@@ -1602,8 +1591,8 @@ Poorly-defined upper edges.
 [DIAG]
 
 3085
-Brackeny clitter below Comvbestus
-Foir. Hawthorn bushes inc topiary form.
+Brackeny clitter below Combestus
+Tor. Hawthorn bushes inc topiary form.
 
 Occ rowan & holly.
 
@@ -1624,7 +1613,7 @@ out with many irregularities.
 [DIAG]
 
 G - reave mapped by Gawne & Cox
-N - wearthwork, parrt of reave system cut
+N -earthwork, parrt of reave system cut
 in G & C
 --- earthwork consisting of bank only.
 3087
@@ -1644,7 +1633,7 @@ Strong floor with moulded prinx.
 & com joists; mouldings do not
 intersect.   Holne New Bridge
 [DIAG]
-9 wide inc parapets 8' between
+9' wide inc parapets 8' between
 3089
 Alder - ringer Dart at New Bridge.
 Luzul sylv = abundant on south
@@ -1653,13 +1642,13 @@ Frangula - stool with stems 4" thick; one
 5 1/2". Row of stools along N. side
 of river - a little higher than the
 alder zone. These are biggish trees
-C. 15 ft high, with multiple stems.
-The S. side of thriver here is a 
+c. 15 ft high, with multiple stems.
+The S. side of the river here is a 
 wood of oak & planted trees, densely
 carpeted with well-grown Luzula
 sylvatica, inaccessible to sheep.
 N. side is a carpark & public
-[DIAG] place, short grass
+[DIAG]   place, short grass
          evidently severely 
      S.  grazed, open 
          to the moor.
@@ -1670,7 +1659,7 @@ N. side is a carpark & public
 Reave in Short Heath - slight
 [????] to E.  
                heather, Molinia
-Ulex gallii, Agrostis setace co-.dom
+Ulex gallii, Agrostis setace co-dom
 slight [????] to w. for reave nearer
 Y in Yar.
   These reaves are in Short and
@@ -1682,11 +1671,11 @@ bracken and clitter. No definite
 cross banks seen.
    The reaves identified are A,B,C,
 D,E of Gawne & Cox. They are 
-banks about 20 ft wide, some wiyh
+banks about 20 ft wide, some with
 faint ditches.
 Reave E is intersected by an
-earthen bank, in places wiy=th slight
-externasl ditch. This is a little more
+earthen bank, in places with slight
+external ditch. This is a little more
 massive than fhe reave and the
 3091
 
@@ -1696,8 +1685,8 @@ intersection establishes that it is
 later than the reave.
   No sign of the Stone River on the 
 1" map.
-  The reavea are intersected by
-mny other banks at different angles.
+  The reaves are intersected by
+many other banks at different angles.
 
 Other Reaves.
   N. side of R. Dart, W. of Sharpitor.
@@ -1713,10 +1702,10 @@ roughly the same level. There is no
 terminator bank visible - but
 it is possible that such a bank
 would have been destroyed by soil
-creep on rhe steep slope. The
+creep on the steep slope. The
 ending of the banks is very slow -
 they end in low, now very trodden-
--down bracken wellabove the
+-down bracken well above the
 woods.
   N.W. of Venford Reservoir, approx.
 680707. Very clear, as on Gawne &
@@ -1727,36 +1716,36 @@ of Leeden Tor in Walkhampton. Not
 in G & C.
 [DIAG]
 Two reaves on the S.W. side of
-Peek Hill above Welltown.
+Peek Hill above Welltoun.
        Moorland Vegetation
-Comberstone Tor - much dense but
+Combestone Tor - much dense but
 short bracken on thin peaty soil.
 Molinia & Agrostis setacea.
 Yar & Comdon Tors - mainly Mixed
 & Short Heaths, not vey well differen-
 tiated. Strong tussock structure -
 big hummocks of Ulex gallii (not
-sdeen elsewhere) mixed in places
+seen elsewhere) mixed in places
 with Calluna. Between tussocks is
 [23094-23095]
 3094
 Agrostis setacea with weak Mo-
 linia. Thin peaty soil.
-Yenneden down: large flat
+Yenneden Down: large flat
 area probably of mineral (schist)
 soil. Almost pure Agrostis setacea.
 Patches of bracken on slopes.
 Many large old furze-bushes,
 with stems to c. 4" thick; also
 remains of others that are dead &
-rottn. No young furze. One
+rotten. No young furze. One
 young rowan has grown up in
 the protection of furzes now dead.
 
 Two Bridges. Old bridge (bypassed)
 very like Huccaby.
 
-Dunnebridge Pound & Sherbertson
+Dunnebridge Pound & Sherberton
 Common. Old intakes with massive
 well-built semi-ashlar walls and
 ancient houses.
@@ -1797,7 +1786,7 @@ at the roadside. They are well
 embedded in the ground and
 3097
 seem not to be  recent importation.
-They woud make ony a small tor.
+They would make ony a small tor.
   Nearby at A is a granite post
 inscribed PC WW 1917, as near
 Princetown.
@@ -1810,7 +1799,7 @@ vertical face c. 5 ft high; this may
 be a Corn-ditch.
   Yennadon Down has no trace
 of tor or clitter; on its summit
-is an uninscribed granite oost.
+is an uninscribed granite post.
   Warm cloudy day, even at 1350
 ft a coat was unnecessary. There 
 is no snow on the highest tops.
@@ -1821,7 +1810,7 @@ is no snow on the highest tops.
 3099
 Reave etc. on Leedon Tor.
 The reave is a bank c. 12 ft wide
-ith a slight ditch either side. It
+with a slight ditch either side. It
 is almost straight except for a
 slight bend at (A) and a little
 sinuosity where it crosses morass (B).
@@ -1838,10 +1827,10 @@ has a small but dense striped
 clitter on the S.E. side. Among this
 clitter is part of an enclosure with
 a bank of stones rather stronger
-than rhe reave. |A number of
+than rhe reave. A number of
 [23100-23101]
 3100
-inner wnclosures and hutcirces
+inner enclosures and hu tcircles
 can be discerned among the clitter.
 
 Vegetation between road & Leeden
@@ -1853,23 +1842,23 @@ Rather wet, peaty soil; Sphag-
 num occ. Ulex gallii on boul-
 ders. Calluna occ. Vaccinium
 vir. Juncus squarosus rare.
-Shallow morass wirh a stream.
+Shallow morass with a stream.
 Much Sphagnum palustre & plumul.
 Juncus spp. Taller Molinia.
 This is rather softer but is never-
 heless much grazed.
 
-Grazing on Daertmor. Everywhere
-there are signs of adequate ro ex-
+Grazing on Dartmoor. Everywhere
+there are signs of adequate to ex-
 3101
-cessive grzing. Frequent sheep
+cessive grazing. Frequent sheep
 seen. Great numbers of [????ponies]
-whch are of various breeds & colours.
+which are of various breeds & colours.
 Herds of black cattle in a few 
 places towards the edge of the 
 moor.
 Much rabbit dung in places
-(e.g. Yaennadon Down) but few
+(e.g. Yennadon Down) but few
 holes and no rabbits seen.
 
 Other tors. Black Tor is a small
@@ -1895,7 +1884,7 @@ expansion of the banks of an
 holloway. A big oak, some 3 ft
 thick, has fallen by the overturning
 of the schist boulder whereon it is
-rooted. the top was caught in
+rooted. The top was caught in
 a large holly & held fast. The oak
 has been in this position many years;
 grown round by the holly, and with
@@ -1953,11 +1942,11 @@ the S. end of Leckhampton garden.
   Primroses have buds clearly 
 visible.
 Chinodoxa flowering.
-Snowdrops still in ful flower.
+Snowdrops still in full flower.
 Crocus tomas. & sativus flowering in
 Leckhampton in N. aspect.
 4 March.
-Barrow Bottom plantatin. Much
+Barrow Bottom plantation. Much
 work going on - felling the conifers
 (except along railway) and some of
 the dead elms.
@@ -1972,7 +1961,7 @@ NEW GROVE KILNGROVE)
 Elms.
 Fulbourn 70%
 6 Mile Bottom 5 (5)
-Dullingham railay 80 (75) - sur-
+Dullingham railway 80 (75) - sur-
 vivors are mostly a minority of Ucg.
 Newmarket 4 (1)
 Gt Barton 50 (50)
@@ -1983,7 +1972,7 @@ Bury St Edmund's 30
 Flock of some thousands of lapwings
 at Gt Stokeley.
 --------------------------------------
-dead magnificent and very typical
+dead; magnificent and very typical
 old Boxworth alive.
 Stibbington 25?
 Wansford slight?
@@ -1999,12 +1988,12 @@ Lolworth Square 85
 rest of Lolworth 15 - elms well thickening
 N. Boxworth ?5
 Trinity Foot 90
-Fen Stnton 50 (50)- few recent
-deaths. survivors (mainly Uc) heavily fl.
+Fen Stanton 50 (50)- few recent
+deaths, survivors (mainly Uc) heavily fl.
 Galley Hill to Godmanchester 25 (20)
 Godmanchester 30 (25)
 stukeleys 30
-Alconbury Hill 45 (35) - remaining lems
+Alconbury Hill 45 (35) - remaining elms
 mostly big - figures include large
 numbers alive in Hermitage Wood
 Sawtry 20 (15)
@@ -2017,11 +2006,11 @@ Stilton 25 (20) - mostly young elms
  Cornwall file        & MUTTON
 [????Binvos]        auctioneers, Wadebridge
 
-Wansford Bridge. Main bridgr of
-the o;d A1. Great medievsl bridger
-of 12xarches (originally at lrast 14).
+Wansford Bridge. Main bridge of
+the old A1. Great medieval bridge
+of 12 arches (originally at least 14).
 Arches from north.
-1,2: silted up, judt the top of  tri-
+1,2: silted up, just the top of tri-
 angular arch visible.
 3 - 10: on land, round arches, some
 with soffit of brick or ashlar and
@@ -2045,7 +2034,7 @@ M G Ng Z R        A O U E I
 
 Garden 301/2 p. x 142 ftr  Boiler 4
 Tingles in min roof             years
-Much repaointing
+Much repainting
 Poor flashing over bay
 Ceiling 8'5 1/2" upstairs
 Ceiling in poor condition over back
