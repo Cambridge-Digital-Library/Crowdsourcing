@@ -13,15 +13,16 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00135
 Volume 135  10261-10332
    19-28 April 1968
       Cambridge
-      Buff Wood 274-6
-      Gardening 277-8
-      Cockayne Hatley Wood 279-299,
-         304-5
-      Hayley Wood 300-4
-      Hildersham Wood 306-8
-      Linton Rivey Wood 309-316
-     Hadstock Wood 317-320
-     Bourn Wood 321-332
+         Gamlingay Wood 361-273
+         Buff Wood 274-6
+         Gardening 277-8
+         Cockayne Hatley Wood 279-299,
+            304-5
+         Hayley Wood 300-4
+         Hildersham Wood 306-8
+         Linton Rivey Wood 309-316
+         Hadstock Wood 317-320
+         Bourn Wood 321-332
 
 [Inside front cover]
 Huntingdon -> Brampton
@@ -57,21 +58,21 @@ S. part of Merton Bank:
 [DIAG]
 
 [10262-10263]
-
+262
 [TABLE]
-O H P B M I u V C F
-Mertonage Bank southwards. S C 142 [SYMBOL}
+O  H  P  B  M  I  u  V  C  F
+Mertonage Bank southwards. S C 142°
 50W 
-- + - + (+) + - - - O   Desch [SYMBOL]
-5[????] 
-- + [!!!!]+[!!!!] [SYMBOL] + - - - -    30, 145 [SYMBOL]
+-  +  - (+) + - - -     O   Desch√
+                            30, 145°
+50E 
+-  +  √  + - - - -    
 100 E
-- - + + + - - - - - Desch [SYMBOL]
+- -   +  +  + - - - - -      Desch√
 100 W
-- (+) + [SYMBOL] + - - c -  86 beg. of long[????]e
-150 W
-[SYMBOL] + - - + - - - o  
-150 E
+-  (+) + √ + - - c -         86 beg. of 
+                             long curve
+150 W 
 + (+) - + - - - - - - Desch [SYMBOL] 10, 180 [SYMBOL]
 200 E
 [SYMBOL] - -  + + - - - M  Galeob
