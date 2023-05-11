@@ -82,7 +82,7 @@ Mertonage Bank southwards. S C 142°
 200 W
 √ - - -  + - - - H         Vh
 250E
-- - - - -√ - - - M         Cal ap
+- - - - -√ - - - M         Gal ap
    
 250 W
 - - - √ √   - - -         Conop
@@ -97,7 +97,7 @@ CD inside wood
 DR.
 [!!!!]      √ +
 [TABLE]
-
+263
 36 bends to 162° 510/316 = 1.61
 
 20 elms beg in W (suckers only)
@@ -161,7 +161,7 @@ good large & small coppice - much poplar
 3 to V. Then line-planted with poplars
 
 
-Elm Stool 60 x 34 58 to edge (V)
+Elm stool 60 x 34 58 to edge (V)
 VV 150 ± 3 + 58 = 205
 
 [10266-10267]
@@ -179,29 +179,29 @@ VWO
 - - -   + - √-        O
 WX 50
 - - + + √ - - - - 
-- - - [SYMBOL] [SYMBOL] - - - M  Frag.
-+ - + [SYMBOL] [SYMBOL] - - - -
-- - + [SYMBOL] + - - - -
-- + + [SYMBOL] [SYMBOL] - - - M
+- - - √ √    - - ---- M  Frag.
++ - + √ √ - - - -
+- - + √ + - - - -
+- + + √ √ - = = - - - M
 XV 50
-+ - - (+) (+) - - - O  Desch [SYMBOL]
-[SYMBOL] - - - - - - begins M
-[SYMBOL] - - - + - - - H
-+ - - - - - - - O [SYMBOL]
-+ - - - (+) - - - M [SYMBOL]
++ - - (+) (+) - - - O  Desch √
+√ - - - - - - begins M
+√ - - - + - - - H
++ - - - - - - - O √
++ - - - (+) - - - M √
 + - - - - - - - O +
-[SYMBOL] - - - - - - - -
+√ - - - - - - - -
 [TABLE]
-  
+267  
 56/368 = 153
  
 No bank on SW side (or slight)
 Pole at 36
 Nettles 3 1/2 ft   18 to W
 Bank to N
-20 miles leave wood
+20 wires leave wood
 Bank to N  10 to X
-To E. planted with larch & spruce; s[????]ll[????]
+To E. planted with larch & spruce; sallow
 14 ride
 
 [10268-10269]
@@ -214,24 +214,26 @@ Habit suggests glabra but fallen leaves and epicormics are
 all carpinit
 Stool near SW corner 98 X 30, 
 10 poles, largest 40" round [SYMBOL].
+269
 Twigs [DIAG]
 Non-suckering
 UP (fast)
 OU [!!!!]26T[!!!!] UR 900 [!!!!]1270[!!!!] / 420 = 21.4
-125 T 341 [SYMBOL]
+125 T 341°
 298 S
 420 R
 450 prim on either side
 pines to N. oak to S. bracken
-558Q racks 150[SYMBOL] & 330[SYMBOL] no Prim
-[!!!!]6[!!!!] 16 P narrow ride 158[SYMBOL], wide ditched
-ride 334[SYMBOL]
+558Q racks 150° & 330° no Prim
+716[!!!!] 16 P narrow ride 158°, wide ditched
+                               ride 334°
 PC! no bracken
 50 M either side
 78 PH
-221 county b[!!!!]k
+221 county bank
 
 [10270-10271]
+270
 Hazelcroft Bank evenly
 ditched on both sides
 grafs snake
@@ -239,89 +241,95 @@ Hazelcroft: planted with
 pine, appears to have been 
 entirely Hazel.
 Ash only on bank.
-Few birch. One ash stool
-Anem [SYMBOL] in S. part of 
-Some p. Hazelcroft.
-M to W of ride. No oak stumps.
+Few birch.        One ash stool
+Anem √            in S. part of 
+Some p.           Hazelcroft.
+M to W of ride.   No oak stumps.
 O to S of PO.
 OD' extinct
 NE extinct
-MJ FP(H) S. E. through
-100 FP intact section.
-150FO This is good
-
-200 FO (H)  3-storeyed wood
-250 F   through most
-300 O   standards have
-350 M on bank   gone.
+MJ FP(H)        S. E. through
+100 FP          intact section.
+150FO           This is good
+271
+200 FO (H)      3-storeyed wood
+250 F           though most
+300 O           standards have
+350 M on bank      gone.
 -
-47 J  Outside wood on
-384 G    S. side. 
+47 J            Outside wood on
+384 G           S. side. 
 465 F   FB 1090/527 = 2.02
 500 E
 (m[!!!!]n)
 668 bdy oak
-677D
+677 D
 742 C
-(M)
+      (M)
 992 topographical point B
-The original status of 
+
+   The original status of 
 the loam area is not clear.
-Adamoon (p. 370) says shrubs
+Adamson (p. 370) says shrubs
 were sparse and (Pl. 12) shows
 
 [10272-10273]
+272
 no ash. Most of it has 
 been replanted for many
 years but there is no sign
 of any old coppice. Pine
 does well here but fails
 on most parts of the clay.
-Much birch has come
+  Much birch has come
 in in "intact" areas, especially
 near the loam. All pendula.
-The service tree has a 
-spreading habit. It is sure-
+  The service tree has a 
+spreading habit. It is sur-
 rounded by a ring of young
 trees, up to c. 2 in. diam.,
+very uneven-aged.  they
 occur up to c. 5 yards outside
 the tree's canopy. This is in
 a strip of "intact" woodland
 consisting mainly of hazel
 coppice.
-Campanula trachelium, Pim-
+  Campanula trachelium, Pim-
+273
 pinella magna, Conopodium, and Galeobdolon
 were seen only on and near the 
 Mertonage Bank.
-Ground is rather wet,
+  Ground is rather wet,
 especially in felled areas
 where there is standing water.
-Adamoon's societies (except
+  Adamson's societies (except
 Fragaria) are still very
-evident. On the day, Mer-
+evident. On the clay, Mer-
 curialis corresponds to V-VI;
 Spiraea to II-III-IV; Spir-
 aea-Carex to I. Spiraea-Des-
 champsia is a variant of II
 still very prominent where
-Adamoon described it.
-Primroses are associated
+Adamson described it.
+  Primroses are associated
 particularly with the Mertonage
 Bank and perhaps with parts
 of the main ride.
-Paris is rare.
-Birch apparently all pendula.
+  Paris is rare.
+  Birch apparently all pendula.
 
 [10274-10275]
+274
 April 20.
 Buff Wood (Bot. Garden Syndicate)
 Northern Lane
 Dactylorchis f.
-Orchi. mascula
+Orchis mascula
 Platanthera
 Listera
+
 Primrose - Oxlip hybrid rare in 
-hornbeam area of LAne.
+hornbeam area of Lane.
 R & F does not extend S of
 cross ditch except a few yards
 1868 pond area
@@ -330,39 +338,53 @@ Primroses round wet hollow
 Nettles c. 6ft high
 Helleborus rare
 Other 1868 area
+275
 One infl on the one hybrid
 Primula [!!!!]lat[!!!!] veris x vulg.
 Ranunc. auricomus quite
 abundant in this compartment.
 Brachypodium sylvacticum
 dom.
-The ridge-[????]-furrow in the
+  The ridge-&-furrow in the
 Lane was discovered by David
 Coombe. 4 furrows evenly
 spaced. They end to the N.E. at the 
 cross ditch and to the S.W.
-peter out about loft beyond
+peter out about 10 ft beyond
 the cross ride. A careful
 search of the S.W. half of the
 Lane failed to find any. [SYMBOL].
 The ridges are marked by
 abundant primroses and
 by big poplars in rows.
-A small blind ditch was
+  A small blind ditch was
 
 [10276-10277]
 found in the unridged N.
 end of the Lane. 
 [DIAG]
-Coppicing has reached the
+  Coppicing has reached the
 S. end of the hornbeam area.
-Maple bleeds very copiously 
+  Maple bleeds very copiously 
 when coppiced.
-Nickey is reported from Norwich
+  Nickey is reported from Norwich
 to have been put outside on April
 19.
 
 [10276a-10277a]
+276
+found in the unridged N.
+end of the Lane.
+[DIAG]
+
+Coppicing has reached the
+S. end of the hornbeam area.
+ Maple bleeds very copiously
+when coppiced.
+  Nickey is reported from Norwich
+to have been put outside on April
+19.
+
 April 21. See p. 339.
 April 22.
 [DIAG]
