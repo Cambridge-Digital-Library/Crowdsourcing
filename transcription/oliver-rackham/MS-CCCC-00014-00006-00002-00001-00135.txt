@@ -672,46 +672,240 @@ North from here:  28/216 = 1.76
 38   "   9
 47   "
 [10292-10293]
+292
+ 57 furrows    10
+ 67    "       10
+ 79    "        8
+ 90    "       11
+100    "       10
+111    "        9
+120    "       11
+131    "
+c. 150 edge of wood.
+These furrows probably
+parallel to S. edge.
 
+Cross ride E.[W]  46/241 = 1.91
+ 3  furrow 
+11    "    8
+21    "   10
+31    "   10
+42    "   11
+50 PM 12
+54 furrow
+293
+ 66  furrows  12
+ 78    "      12
+ 88    "      11
+101    "      12  100 M (P)
+111    "      12° path changes from 108° to 264°    
+134    "      13
+147    "      14 150 M B
+161    "      13
+174    "      14 
+188    "      12
+200    "      12 BM (P)
+212    "      11
+223    "
+241 ride, 58 N. o/T
+
+TS
+  0 MB (P)/0
+ 50 BM (P)/H
+100 BM(P)/H
+165 rack
 [10294-10295]
+294
+SN 37 1/2 / 212 = 1.76
+ 37 332°                 [DIAG]
 
+ 50 FPB
+100 FPB
+111
+150 BP                    [DIAG]
+162                       [DIAG]
+200 FBP
+312 ride
+41/243 = 1.69
+NM 27                      [DIAG]
+ 50 M(P)
+ 85
+100 M (P)
+150 PBM
+200 FB
+243
+255 ride
+
+295  
+      41/202 = 2.01
+MH   0 BP
+    50 ride moves S. into
+      bank.
+    B to S, P to N
+    100 B to S, P to N/H
+    150 B(P)
+    15 gn p to N 364°
+    202 ride
+ HIJ - 27 wires
+ OP
+ 50 P/O
+ 100 P/o
+ 132 P cowslip hyb. [DIAG]
+ 150 BP
+ 200 (P)
+ 250 MP
+ 263 rack
+ There are cowslips in the ride.
 [10296-10297]
-
+296
+Gc 172° 645/334 = 1.93
+  0 E. side of ride
+ 14 W   "   "   "
+ 59 P to N. PM to S(Ivy)
+ 88 wires over
+100 FP (Ivy)
+147 ditch  365° sl. bank
+150 BP (Ivy)       to W
+200 PF (Ivy)
+250 BM Ivy
+               [DIAG]
+300 MP Ivy
+ 
+ 297
+ 69 + 372 = 441   33/441 = 1.86
+ 31 gn p to E.
+ 50° P (B) I
+ also PC? hybrid hairs
+ [SYMBOL]     straight
+ elm to W,  no l. c. 
+ 69 T junct    [DIAG]
+ 
+ turn left
+ 0 at J   P
+ 50 P (elm) ivy
+ 96
+ 100 P (ivy)
+ 150 elm    ivy B
+ 169 gn p
+ 290 N
+ c. 230 Bank
 [10298-10299]
+298
+N from here
+50 ivy B
+   elm end
+100 P (ivy)
+152 ditch banked
+both sides 101°
+200 PB M
+250 PB
+300 BP
+350 MPB
+372 exit   116 S. of NW corner.
+
+Primula hybrids.
+1. [SYMBOL] In ride HI. Two plants
+clearly primrose - cowslip: infl.
+of cowslip type, flowers medium
+size and deep yellow, leaves
+intermdeiate, hairs on Scape crisped with
+hooked ends. Both parents within a
+few yards,
+
+299
+
+2. [SYMBOL] North of ride GC. Teo
+plants. infl. nearly as tall as
+cxowslip, secund. Scape hairs
+long, flexuous, though not as
+long as in primrose, not hooked.
+Corolla largish deep yellow
+with buff markings, no or slight folds.
+Leaves oxlip shape.
+  The two plants differ in the
+size & colour of the corolla and
+the presence of folds. Both
+were collevted. The area is
+a primrose area under a
+wood of Ulmus carpinifolia
+small poles, and small stools
+mainly maple. Ivy frequent
+on ground. Perhaps a replan-
+iing but can hardly br less
+than 100 years old.
+  M. Keith-Lucas says these
+are both nearly pure dowslip.
 
 [10300-10301]
+300, 
+Hayley Wood, Cuckoos heard 
+Fenced plot.
+Nipt. [DIAG] 116
 
+N&L
+
+EL
+
+EXS
+
+Open or later. [DIAG]  82
+             Total 198
+  Most nipt infl taken high, a
+few low. Many individual fls.
+have the corolla peckt, or npit
+off above the calyx.
+301
+here and at Cockayne Hatley Wood.
+Control III (near fen ced)
+Nipt [DIAG] 104
+N & LI  1
+
+El
+
+EXS
+
+Open or later. [DIAG]  51
+Total 156
+End of leqf once seen to be 
+bitten off.
 [10302-10303]
+302
 Control I
-Nipt [SYMBOL]
-77
+Nipt [DIAG]
+    77
 N&L
 El
 EXS
-Open or later [SYMBOL]
-22
-Total 99
+Open or later [DIAG]
+             22
+         Total 99
+    
+16 paces WSW of this plot
+is a water hole surrounded
+by very many deer foot
+marks.
 
+303
 [TABLE]
-++ + -
-Hawthorn U.glab.(young) Elm
-Wood Hawth Lime Ash
-Lilac Larch Ulmus glabra
-Sycamore Apple Oak
-Larch Plum Aspen
-Elder Saphing Ash Whitebeam
-HCh Vib[????]um. op.
+++            +                   -
+Hawthorn    U.glab.(young)        Elm
+Wood Hawth  Lime                  Ash
+Lilac       Larch                 Ulmus glabra
+Sycamore    Apple                 Oak
+Larch       Plum                  Aspen
+Elder       Sapling Ash           Whitebeam
+HCh         Viburn. op.
 Salix frag. Crab
-[????] la[????]t Birch
-Prunus Piss. Pr[????]p[????]h[????]s it.
+[????]      Birch
+Prunus Piss.[????]
 [TABLE]
 
-Oxplis are now almost 
+  Oxlips are now almost 
 at their best. A few bluebells
 are open in Hayley and CH.
-Another hot and sticky
+  Another hot and sticky
 day.
-No fresh deer tracks
+  No fresh deer tracks
 around the plots. The fenced
 plot was examined carefully
 [10304-10305]
