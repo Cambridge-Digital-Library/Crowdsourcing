@@ -1264,16 +1264,16 @@ April 28. Bourne Wood.
 [TABLE]
 O  H  P  B  M   I  u  U  C
 On wood bank from SW corner
-Fence    +   √        √          large ash stool
-50       √   +        √           48 wood dirch
-100      √   +        √   
+Fence    +   √        √          
+50       √   +        √         
+100      √   +        √          
 160      √   +        √
 +        √   √        √
 +        √   √        √
 250
-√        √            √
+√        √            √         
 300
-√        √   +        √
+√        √   +        √         
 350      √            √
 [380]
 ++       √   √     √  √
@@ -1289,6 +1289,28 @@ O        √   √        √
              √    +  +      Crab
  [TABLE]
 323         122/398 = 3.06
+
+O   H   P   B   M   I   u   U   C
+o fence  large ash stool
+50       48 wood ditch 
+100      conop on bank
+250   [DIAG]
+300      almost pure elm wood, Mitrophora
+         no coppice
+         48 field bdy
+350+     13 ditch 345° few maple & hazel on bank 
+[380]
+++       29 (336°), 40 furrows
+400
++        3-layered: med. ash & hazel stools 5,              ditch 334°  +++-
+         25? furrows 35?  43
+450       birch 3 furrows  13   24
+          32  49   68/177 = 3.84
+500        9, 18, 27, 47 furrows
+550       8, furr0ws  25 ditch   336°  BM
+0         28 1/2/90 = 3.16
+          29 ditch 263°     40 ridw  288°
+
 [10324-10325]
 
 [10326-10327]
