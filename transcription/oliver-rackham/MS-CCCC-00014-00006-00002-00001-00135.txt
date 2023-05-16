@@ -1312,14 +1312,72 @@ o fence  large ash stool
           29 ditch 263°     40 ridw  288°
 
 [10324-10325]
+324
+O   H   P   B   M  I   u  U   C
+            +   √         +
+                √         √
+E from  here
+40              √     +
+90              √     +
+A westwarde
+50              √     +
+100             √     +           F+
+150             +                 F√
+CD 166°
+0     √     +             √ 
+50√         +             √
+ √          +             √
+ W from drainage grip
+ 50√                      √
+ W from C
+ 50√        +    +              250°
+ 100√            +        √
+ 150√            +        √
+ 200+                 +   √
+ wood ditch   316 road fence
+ 
+ 325
+ 
+ 34 field     44/135  =  3.26
+ 21 side along belt   40 fence
+ 8, 18, 26, 33, 44, 53 furr
+ 13, 25, 36 furr c.  45 hedge
+ 36 furr 
+ 
+ 
+ 36 cross ditch 52 edge of wood
+ 
+                  BM over bank
+ 12 drainage grip
+ 64 submarginal ditch
+ 35M
 
-[10326-10327]
+[10326-10327] 
+326
 
+[DIAG]
+
+AB 0 ditch 6 furr  14 f
+    c. 65 line of ditch
+Mean angle of R & F system
+South side 336°
+North side 158°
+North ditcdh  164°, 336°
+Mean 156 + 158 + 164 + 156
+     --------------------  = 158 1/2
+               4
+               
+327
+               
+               [DIAG]
+               
 [10328-10329]
+328
 Western wood.
-The earthworks show
-conclusively that this is the medieval Bourne Wood.
-Structure is an apparently
+  The earthworks show
+conclusively that this is the
+medieval Bourne Wood.
+  Structure is an apparently
 even-aged stand of pole
 elms (probably from suckers)
 with occasional sycamore. Elm
@@ -1335,63 +1393,68 @@ ture originally was 3-stor-
 ied is shown by the few
 stools surviving, almost en-
 tirely on banks.
-The wood is rather dry
+
+329
+
+  The wood is rather dry
 except in pockets by the
 banks.
-Oxlips dominant over the
+  Oxlips dominant over the
 E. and N. parts of the in-
-terior. small plants rather
+terior. Small plants rather
 widely spaced with Poa trivi-
-als between. Other woodland
+alis between. Other woodland
 species local, mainly on banks.
-The interior is rather
+  The interior is rather
 impenetrable except on the E.
 because very densely overgrown
-with big brables. Most of
+with big brambles. Most of
 the W. part has no O, B, or
 M. Oxlip very rare W. of 
 the murder bank.
-A very few l. c. stools
+  A very few l. c. stools
 occur W. of the murder
 bank.
-Ivy rare.
+  Ivy rare.
 
 [10330-10331]
 
-This particular elm grows
+330
+  This particular elm grows
 fairly closely and suckers
 weakly.
-Hawthorn remarkably
+  Hawthorn remarkably
 rare.
-No primrose or hybrids.
+  No primrose or hybrids.
 The surrounding bank is
 very massive and imposing
 and lacks drainage gaps
 except one on the E. To the
-En. it now forms the edge
+W. it now forms the edge
 of the wood. The wood
 beyond this has been cleared.
-The ditch has been cleared
-out but the bank not seri-
+The ditch has been cleaned
+out, but the bank not seri-
 iously damaged.
 
 Middle wood.
 Entirely R. & F. probably of
 one system. The W [!!!!]E[!!!!]. (and S. ?.)
+331
 boundaries have been found,
 the N. perhaps (where the
 strip beyond the present sub-
 marginal ditch appears to
 have no R. & F. ). On the E.
 it continues into the Handle.
-To the N. and B. W. the
+  To the N. and N. W. the
 wood abuts on very recently
 cleared land and the boun-
 dary ditches are modern.
-Despite the R. & F. the
+  Despite the R. & F. the
 structure is much better preser-
 ved than in the old wood.
-Elm is restructed though
+Elm is restricted though
 usually dominant where it
 occurs. Small numbers of
 oak standards. Many ash
@@ -1400,21 +1463,22 @@ size from one to another of
 the areas defined by secon-
 
 [10332]
+332
 dary ditches. Hazel regular,
 dense in places.
-Much scrub particularly
+  Much scrub particularly
 along the ride and in the S.
 Hawthorn & blackthorn. 
-Rather dry. No water
+  Rather dry. No water
 at present in the furrows;
 ride rather wetter.
-Ground vegetation much
+  Ground vegetation much
 drier than in the old wood,
 from which it is very sharply
 cut off at the ditch. Oxlip
 is almost absent S. of the
 ride.
-One primrose-oxlip hybrid
+  One primrose-oxlip hybrid
 is all that was seen of the
 Meyer & Meyer primrose
 population. This is shown
@@ -1424,10 +1488,10 @@ was probablly lost in felling.
 
 [back cover]
 The bef. Easter 21 deer in glade
-Low Sundary 10 deer in
+Low Sunday 10 deer in
 pond ride
-Cuckoos wed. after low Sun.
-CH [SYMBOL] Hy
+Cuckoos Wed. after low Sun.
+CH & Hy
 Train Camb [SYMBOL] Hunt. M [SYMBOL]
 Camb. 745 940
 Hitchin 838 1018
