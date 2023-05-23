@@ -11,16 +11,16 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00151
 
 [cover]
 Volume 151 11393-11468
-1 Oct. - 12. Nov. 1968
-Cambridge 1393-1461, 1463-8
-Hayley Wood 1394-1403, 1435-46,
-1453-4
-Brandon Park (fungi) 1405-31
-Buff Wood 1450-2, 1457-61
-Norwich 1462
+1 Oct. - 12 Nov. 1968
+  Cambridge 1393-1461, 1463-8
+    Hayley Wood 1394-1403, 1435-46,
+       1453-4
+    Brandon Park (fungi) 1405-31
+    Buff Wood 1450-2, 1457-61
+  Norwich 1462
 [inside front cover]
-1921--50
-[TABLE]
+         [TABLE]
+         1921--50
           J      F
 Camb.    38.9    39.5
 Oxf.     39.5    40.1 [????](39.6)[????] 208 1
@@ -48,40 +48,39 @@ Leeds     38.7   39.3
           [38.9]  [39.6]   (39.1)
 [TABLE]
 [11393]
-   1
-  9   6
-    8
-October 1.
-The Caryopteris is flowering
+1393   [DIAG 1968]
+ October 1.
+  The Caryopteris is flowering
 in the Sarcophagus.
-The Ipomoeae are flowering
+  The Ipomoeae are flowering
 well but have not made much
 growth.
-The gourds are growing 
+  The gourds are growing 
 vigorously and have produced
 a few small fruit.
-The Caryopteris is well
+  The Caryopteris is well
 established and in flower.
-Tropaeolum canariensis
+  Tropaeolum canariense
 (several plants in one tub)
 has grown c.5ft high and is
 now flowering.
-Cobaea scandeus has grown
+  Cobaea scandeus has grown
 about 6ft high (from a bought
 plant) and flowered freely.
 [11394-11395]
+1394
 October 9.
 Hayley Wood (W.H.Palmer).
-Juncus effusus [!!!!]appears to[!!!!] and con-
+Juncus effusus [!!!!] and con-
 glomeratus appear to be totally
 absent from the area to be 
 cut this winter.
-A deer was seen in the
+  A deer was seen in the
 middle of the [????] N.W ride,
 and in the middle of the N.E.
 ride. Apparently an isolated
 animal in each case.
-Ptilidium pulcherrimum
+  Ptilidium pulcherrimum
 flourishes in both its sites.
 
 1. PLeurotus sapidus. Fallen ash.
@@ -89,6 +88,7 @@ flourishes in both its sites.
 2. Chlorociboria aeruginosa. A
 sporophore on branch of ash,
 boundary between the 1968 and
+1395
 1969 coppice plots.
 
 3. Coprinus micaceus.
@@ -96,23 +96,25 @@ boundary between the 1968 and
 4. Coprinus disseminatus.
 
 [11396-11397]
+1396
 5. On a rotten hazel branch
 in the Triangle, patches c. 4 in.
 long.
-Effused. Subiculum white,
+  Effused. Subiculum white,
 margin indefinite.
-P.S. pale yellow, discol-
-ouring buff, regular. PO. about
+  P.S. pale yellow, discol-
+ouring buff, regular. Po. about
 3 to the mm, smallish, angular,
 thick-walled, slight daedali-
 form tendency. P short.
-C. none.
-Closely adnate.
+    C. none.
+    Closely adnate.
 
 Physisporus mucidus?
 [indeterminate]
 
 [11398-11399]
+1398
 6. Several on an ash
 branch at the S. end of the
 Triangle. Dorsolaterally at-
@@ -121,20 +123,21 @@ P. persistently dirty white.
 tomentose, humid, nearly
 flat, margin narrowly incur-
 ved. 
-L. thin, subcrowded, un-
-equal, & narrow, radiating
+  L. thin, subcrowded, un-
+equal, narrow, radiating
 from a central point, cream,
 becoming snuff-brown slowly
 when old.
-C. thin, white, odourless,
+  C. thin, white, odourless,
 no gelatinous layer.
-Sp. honey-coloured sub
+  Sp. honey-coloured sub
 micr., broadly ellipsoidal (to
-13/8 x as long, as wide),
+13/8 x as long as wide),
 smooth sub 1/6, often asym-
+1399
 [DIAG]
 metric.
-Probably Crepidotus variabilis,
+  Probably Crepidotus variabilis,
 but C. inhonestus not ruled
 out.
 
@@ -142,23 +145,24 @@ out.
 ride opposite the coppice plots,
 1 3/4 high. A tufted slender 
 [11400-11401]
+1400
 Clavaria branched at the 
 top.
-Trunk slender, irregular,
+  Trunk slender, irregular,
 not flattened. Branches di-
 chotomizing, obtuse, sinuses
 obtuse, not flattened. Bright
 egg yellow with reddish tinge
 below and blackish base.
-[DIAG]
+                   [DIAG]
 Probably
 Clavaria
 corniculata.
-[DIAG]
+1401
 8. A few in a group on
 the great elm log by the
 Triangle entrance. 4 - 2- 3/8.
-P. slightly convex, bright
+  P. slightly convex, bright
 golden yellow in the middle
 and at edges, rather 
 abruptly demarcated in col-
@@ -175,25 +179,27 @@ transparent tough gelatinous
 layer which is full of small
 spherical granules sub micr.
 [11402-11403]
-S. eccentric, straight,
+1402
+  S. eccentric, straight,
 equal, dirty lemon yellow at
-base, whitish with pale briwn
+base, whitish with pale brown
 streaks above, not readily de-
 tachable, matt, smooth, humid,
 hollow, flesh aqueous.
-L. thick, tough, distant,
+  L. thick, tough, distant,
 connected by shallow veins,
 pale tawny brown, Sp. visible
 as a pink pruina, broad,
 adnexed-sinuate, Facial cyst.
 rare, inflated, ovoid.
-C. thin, concolorous, very
+  C. thin, concolorous, very
 tough and slippery, aqueous.
-Sp. apparently pink (but
+  Sp. apparently pink (but
 could be white), globose, coarse-
 ly warted.
 
-Almst certainly a [!!!!]Pleurotas[!!!!] Pluteus.
+Almost certainly a [!!!!]Pleurotas[!!!!] Pluteus.
+1403
 [DIAG]
 Cyst. make
 it [!!!!]te[!!!!] lutescens
@@ -202,6 +208,7 @@ Balance of
 characters
 favours the latter.
 [11404-11405]
+1405
 October 12. Brandon Park.
 1. rowanella speciosa. Several
 in a stubble field near Fordham.
@@ -210,19 +217,19 @@ in a stubble field near Fordham.
 only a few old ones seen.
 
 3. Amanita citrina. Mainly in
-a cleating near oaks. Generally
+a clearing near oaks. Generally
 freq. A. phalloides not seen.
 
 4. Mycena epipterygia. Abundant
 in several  places.
 
-5. Spinellus. On the [illegible]
+5. Spinellus. On the above.
 Abundant on this and other Myce-
 nas.
-Lactarius subdulcis.
+* Lactarius subdulcis.
 
 [11406-11407]
-
+1406
 6. Amanita rubescens. Very abun-
 dant under pines.
 
@@ -240,26 +247,60 @@ abundant under pine, but less
 frequent than some years.
 
 11. Fomes annosus. Occasional.
-Lactar. ruf. [SYMBOL]
-Pholiota mutabilis [SYMBOL]
-Fomes annosus [SYMBOL]
-Cystoderma amiant. [SYMBOL]
-Polypor. [????] [SYMBOL]
-[????] [SYMBOL] rutila [SYMBOL]
-Russula ochrol. [SYMBOL]
-Lactar. turp. [SYMBOL]
-Boletus [????] [SYMBOL]
-[????] ten. [SYMBOL]
-Trichol. terr. [SYMBOL]
-argyr. [SYMBOL]
-Boletus bor. [SYMBOL]
-[????] argil. [SYMBOL]
-[????] [????] [SYMBOL]
+1407
+Lactar. ruf. √
+Pholiota mutabilis √
+Fomes annosus √
+Cystoderma amiant √
+Polypor. peren √
+[????] [SYMBOL] rutila √
+Russula ochrol. √
+Lactar. turp. √
+Boletus col √
+[????] ten. √
+Trichol. terr. √
+        argyr √
+Boletus bor √
+Clavaria angil. √
+Hydnum [????] √
+Paxill. invol √
+Xeric. pad. √
+[????] [????] √
+Calocera cornea √
 [11408-11409]
-Paxill. invol. [SYMBOL]
-Xeric. pad. [SYMBOL]
-[????] [????] [SYMBOL]
-[????] [????] [SYMBOL]
+1408
+Laccaria [????] √
+P0lystict [????] √
+Helvella lacum √
+
+12. Several in small groups
+in grassy places with birch &
+pine. 1 3/4 - 2 1/4 - 3//16.
+P. nearly flat, foxy brown,
+with small granular concolorous
+scales in concentric rings,
+matt, dry, margin plane, slightly
+appendiculate.
+  S. equal, concolorous,
+paler above & below, stuffed,
+semicartilaginous, matt, dry.
+A. about 5/6 way up, ascending
+and broken into scales, with
+scales below, whitish. S. with
+small granular acales above
+1409
+the A. and larger fibrous ones
+below. Whole S. very like that
+of Cystoderma amiantina in
+ring & scales.
+  L. thin, white, broad, adnexed,
+unequal. Sp. white.
+  C. thin, white, fleshy, almost
+odourless.
+
+[DIAG]   Certainly
+        Cystoderma
+        granulosum.
 [11410-11411]
 
 [11412-11413]
