@@ -10,20 +10,20 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00179
 -----
 
 [cover]
-Volume 179 1345-13668
+Volume 179 13545-13668
 30 August - 20 September 1970
-Great Waldingfield 3345-59
-Park & High Woods 3545-56
-Todhills 3560-73
-Housesteads Wood 3566-8
-Cambridge 3573-3601
-Hayley Wood 3574-87
-Bradfield Woods 3588-98
-RATTENBERG 3601-11
-BRANDSTATT in MALTATAL 3612-68
-Schlüsselhütten 3612-68
-Tandlalm 3637-48
-Gmünd 3649-60
+   Great Waldingfield 3345-59
+      Park & High Woods 3545-56
+  Todhills 3560-73
+     Housesteads Wood 3566-8
+  Cambridge 3573-3601
+     Hayley Wood 3574-87
+     Bradfield Woods 3588-98
+   RATTENBERG 3601-11
+   BRANDSTATT in MALTATAL 3612-68
+     Schlüsselhütten 3612-68
+     Tandlalm 3637-48
+     Gmünd 3649-60
 [inside cover]
 17.9 P. Cernbr[????] birch
 weather Sambuc spp.
@@ -35,10 +35,13 @@ beech Abies Mud maize
 20.9 severe maize dis. sheepe
 Waterfall 14 1/2 x 28ft
 = 390ft
+
+
 Aust. Ex 12.44 -> Gm. 14.05
-Tavern Ex 1442 -> Gm. 1555
+Tauern Ex 1442 -> Gm. 1555
 Ausland 3.50 (+25 for each extra 20g)
-20g
+        
+          20g
 Postkarten 25
 [13545]
 3545
@@ -53,7 +56,7 @@ Park Wood & High Wood cont.
 Cherry stump at 205
 rather uniform 23" 82y
 64ft high
-The boundary between Great
+  The boundary between Great
 Waldingfield, Newton, and Ed-
 wardstone runs through the
 fields N.W. of the woods,
@@ -71,12 +74,12 @@ N. end of Park Wood
 Middle of S. bdy is
 hornbeam under oaks
 scattered lime stools
-Ivy on S. track but not
+Ivy on S. bank but not
 N.E.
 [DIAG]
-huge lime starts in W.
+huge lime stools in W.
 part of S. bdy
-Tilia from this wood is
+  Tilia from this wood is
 definitely cordata: small long-
 -stalked leaves glaucous under-
 neath and with rusty axillary
@@ -84,39 +87,39 @@ hairs, infl. patent to ascending,
 no ribs on fruit.
 3549
 [TABLE]
-High  Park
-Oak + +
-Ash + +
-Maple + +
-Hazel + +
-Lime + +
-Ulmus carp. + [!!!!]+[!!!!]
-U. glabra x carp. +
-U. procera + +
-Cherry +
-Holly + +
-Hornbeam + +
-Cratae. mono. + +
-" oxy + +
-Ivy + +
-Ulmus glabra +
-Elder + +
-Apple +
-Castanea + +
+                        High  Park
+Oak                       +    +
+Ash                       +    +
+Maple                     +    +
+Hazel                     +    +
+Lime                      +    +
+Ulmus carp.               +   [!!!!]
+U. glabra x carp.         +
+U. procera                +    +
+Cherry                    +
+Holly                     +    +
+Hornbeam                  +    +
+Cratae. mono.             +)   +
+" oxy.                    +)
+Ivy                       +    +
+Ulmus glabra              +
+Elder                     +    +
+Apple                     +
+Castanea                  +    +
 [TABLE]
 [13550-13551]
 3550
 [TABLE]
-High Park
-Betula verrucosa + +
-Blackthorn +
-[!!!!]Privet[!!!!] Spindle + +
-Dogwood +
-Sallow +
-Betula pubescens +
-23+1 14
+                           High Park
+Betula verrucosa            +    +
+Blackthorn                  +
+[!!!!]Privet[!!!!] Spindle  +    +
+Dogwood                     +
+Sallow                      +
+Betula pubescens            +
+                          23+1   14
 [TABLE]
-These woods are best taken
+  These woods are best taken
 together. The differences between
 them appear to be mainly
 geological and do not exactly
@@ -151,7 +154,7 @@ reverse, evidently a former
 glade or laund. It is ap-
 proached by a drift-way with
 fairly regular banks but puz-
-sling changes of orientation.
+zling changes of orientation.
 The bank on the High Wood side
 tends to be the more massive.
 [!!!!]3.[!!!!] 2. No other internal evidence
@@ -178,7 +181,7 @@ tion, especially as there is
 also a lime pollard. To the
 E. the Tilia abut on acid
 woodland; to the W. it abuts,
-and probably transgressed
+and probably transgresses
 slightly, on calcareous. Some
 [!!!!]8[!!!!] huge stools*; population unevenaged.
 8. Hornbeam dominant in
@@ -213,25 +216,21 @@ especially on earthworks.
 3555
 15. Bluebell unusually common
 for Suffolk.
-16. [TABLE] Ancient woodland
-indicators:
-Tilia
-Mercury
-Maple
-Milium
-Campanula trach.
-Luzula pilosa
-Cratageus oxy.
+16. 
 [TABLE]
+     Ancient woodland  Sec. woodland
+        indicators:      indicators:
+        Tilia            Castanea
+        Mercury          Anthriscus-
+        Maple               marginasl 
+        Milium
+        Campanula trach.
+        Luzula pilosa
+        Cratageus oxy.
 [TABLE]
-Sec. woodland
-indicators:
-Castanea
-Anthriscus -
-marginal
-[TABLE]
+
 17. Elm invasion of both calcar-
-ous and acid woodland, the
+eous and acid woodland, the
 latter very unusual.
 18. Large stools of ash, lime,
 hornbeam. The largest lime stools
@@ -252,10 +251,101 @@ the lime, which appears to
 have a "natural" distribution
 and population structure.
 3557
+Juncus articulatus in rersevoir
+at Hole Fsrm, Great Waldingfield.
+Grows in about 2 ft of water
+and forms an extensive
+submerged system with flow-
+ing-submerged rhizomes.
+  At Hole Farm there are
+two giant black-poplars
+about 4 ft dia, with leaning 
+trunks and great curving
+main branches. Bark rugged
+and bossed. One is rather
+thin in the crown.
+  Along the Box above Brook
+House are some old meadows
+with ancient hedges. Some
+encroachment of scrub. Alders
+along stresm.
 [13558-13559]
+3558
+August 31.
+  Tilia cordata is frequent
+at avenham. Seven large
+trees in the churchyard: glaucous
+leaves undernesth, bark more
+rugged than the hybrid and
+stems fluted rather like horn-
+beam, epicormics much fewer
+than in T. europea. There
+are also some pollards along
+with the hybrid in the streets.
 
+------------------------------------
+  Stallington Wood, Edwardstone,
+is intact.
+  Brook House and Hole
+Farm sre both hall houses.
+Hole Fsrm is a remarkably long
+3559
+building with a Georgian
+front.
+  A huge Ulmus glabra tree
+by the road from Hole Farm
+to the village.
+  This road has a atretch
+of mixed hedge which on
+approaching the village suddenly
+changes to pure elm.
+  There is a large active 
+gravel pit beside Stallington
+Wood.
+  Several large timber-framed
+]houses at Upsher Green, includ-
+ing some late examples.
 [13560-13561]
-
+3560
+September 1.    [DIAG]
+  Corn being cut with a binder
+at Downham, Isle of Ely.
+  Grazing goes on on the
+Ouse Washes.
+  Great quantities of Impatiens
+glandulifera on a dried-up
+stream bed at York.
+  Betula [!!!!] verruessa ap-
+pears to be the predomiant spe-
+cies in the S. Yorkshire secondary
+woods.
+  The railway from Darlington to
+Bishop Auckland passes through
+hilly sandstone country, mostly
+late enclosure and permanent
+pasture. Darlington North Road sta-
+tion, which still operates, is an aston-
+ishing example of railway dereliction
+& decay.
+3561              CLARENCE HOUSE
+                    TODHILLS
+September 2.
+Between Tow Law and the
+Derwent valley at Consett is
+mainly enclosed improved
+grassland with some stretches
+of open moor (mainly Ulex
+& Sarothamnus, not much
+ericoid). Sparse woods and
+belts and tracks of scattered
+trees mostly Pinus sylvestris,
+beech & sycamore. The sup-
+posed wood between Oxen Law
+and the road is open heath,
+mainly Calluna, with scattered
+beeches and sycamores.
+  Comparatively little bracken
+in this area.
 [13562-13563]
 
 [13564-13565]
