@@ -10,31 +10,51 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00183
 -----
 
 [cover]
-
-Steventon - [????] building
+ Volume 183          14025-14124
+27 January - 19 March 1971
+Bangor 4025-59
+   Coed cymerau 4027-40
+   Coed Gors-wen 4048-52
+   Other Merioeth woods 4025-6,
+      4041-3, 4052-4, 4056-7.
+Cambridge 4060-72, 4073-4224
+   London Jock 4060
+   Hayley Wood 4061-5, 4080-3,
+      4114-6, 4123-4
+   Madingley Wood 4066-9
+   Ketteringham Smeeth 4071-2
+   Wangford Warren 4073-80, 4084-5
+   Bradfield Woods 4086-91, 4106-14,
+      4118-21
+Tiger Hill 4092-4104
+Norwich 4072-3
+[Inside cover]
+Steventon - Cruck building
 
 [14025]
 
-27 JAN. 1971 WAVERLEY HOTEL BANGOR
+27 JAN. 1971     WAVERLEY 
+                  HOTEL 
+                 BANGOR
 
 Dolgarrog N.N.R.
-Woods on steep slopes &
+  Woods on steep slopes &
 cliffs of Ordovician.  Mainly
 oak with much beech
 and some other exotics.
 Holly appearing.  Much of
 the hillside between the Afon
 Porth-llwyd and A. Ddu.
-At the bottom of Affon Port-
--llwyd is a great [????] of
+  At the bottom of Afon Porth-
+-llwyd is a great cone of
 gravel & boulders brought down
 in a dam disaster earlier
-this century which destroyd
+this century which destroyed
 Dolgarrog.  Being colonized by
 birch.
 
 [14026-14027]
-
+4026
 Oak woods at Pont-y-pant.
 Unconiferized woods con-
 sisting of an evenaged stand
@@ -42,105 +62,107 @@ of Quercus petraea with
 bracken under.  No under-
 -storey.
 Dolwyddelan Castle.
-A square tower with remains
+  A square tower with remains
 of other buildings, said to be
 built by the Welsh against the
 English.
-Above Roman Bridge Halt
+  Above Roman Bridge Halt
 is a vast tract of pine and
 spruce woodland, growing fast
 and straight except along the
 side exposed to the S.W.
+4027
 Coed Cymerau
 "The meeting of waters".
 Will Jones, Warden of the
 Maentwrog Reserves.
-Tainfall about 80 in.
-Upper Cambrian & lower
+  Rainfall about 80 in.
+  Upper Cambrian & lower
 Ordovician.
-Whole Vale of Ffestiniog
-is an SSI.
-99-year lease of 65 ac. from
+  Whole Vale of Ffestiniog
+is an SSSI.
+  99-year lease of 65 ac. from
 FI.
-Most trees 115-120 years.
-Said to be some tendency to
+  Most trees 115-120 years.
+  Said to be some tendency to
 grow in straight lines (air photo).
-No evidence at all of
+  No evidence at all of
 coppicing.
-No oak seedlings get
+  No oak seedlings get
 beyond 2 years.
-
 [14028-14029]
-
+4028
 Traps for acorns, acorn
-cups, caterpillar [????], cater-
+cups, caterpillar frass, cater-
 pillars.  Now run for 7 years.
 The 3 earlier years (published
 in J.Ecol.) show a large excess
 of acorn cups over acorns, but
 this is reversed in the next
 3 years.
-Small mammal traps set
+  Small mammal traps set
 bi-monthly for 7 years.
-Considerable trouble with
+  Considerable trouble with
 habituation to traps.  Cyclic
 fluctuations in numbers,
 different species in anti-phase.
-Rabbits are unknown on
+  Rabbits are unknown on
 the reserve since myxomatosis.
+4029
 Ivy freq. up scattered trees.  No
 carpet.
 Rowan & birch regeneration.
-Glade. Erica[????]Mili[????]ia
-[????].  Surrounded by bracken.
-Invasion of B[????]ila [????].
-A wet hollow of
+
+Glade. Erica ret. Molinia
+bog.  Surrounded by bracken.
+Invasion of Betula pub.
+  A wet hollow of
 natural origin.
 Expts on oak seedling survival.
-Area with a second fence to
+  Area with a second fence to
 make it more secure against
 sheep.
-Treatments including
+  Treatments including
 mpuse cages, mouse cages open
 at the top, mouse cages let
 into the ground, various
 types of natural shade, nu-
-
 [14030-14031]
-
+4030
 trients.
-Acrons left in different
+  Acorns left in different
 positions on the litter.  Survival
 recorded and eventually
-dry wieght of seedling.
-Without mouse predation,
-acorns survuve best between
+dry weight of seedling.
+  Without mouse predation,
+acorns survive best between
 the litter and the soil;
 if mice are present they do
 best when buried in the soil.
-ANother set of experi-
-ments on the extent od defo-
+  Another set of experi-
+ments on the extent of defo-
 liation by caterpillars, and con-
 sequent effects on growth, in
 different densities of shade.
-A few tress were felled to
+  A few tress were felled to
 open the canopy; the stumps
 coppice slowly (now c. 2 ft high).
+4031
 Oak saplings up to 8ft
 high inside the sheep
 fence.  Others of similar age
 outside c. 1 ft high, browzed
 recently.  Few in both cases.
-The reserve boundaries
+  The reserve boundaries
 are mainly artificial, stoutly
 fenced against sheep.  (one
 was found in the reserve
 during the visit.)
-The wood on the S.W.
+  The wood on the S.W.
 and N.W. aspects is very
-similar; tress rather larger
+similar; trees rather larger
 and less dense on the S.W.
-Slopes c. 20[SYMBOL]-40[SYMBOL], well
+Slopes c. 20°-40°, well
 drained and not flushed,
 except in the bog.
 Soils thin with little
@@ -150,9 +172,9 @@ Soils thin with little
 [DIAG]
 
 [14034-14035]
-
+4034
 accumulation of litter.
-Quercus petraea (no robur)
+  Quercus petraea (no robur)
 the dominant, and almost
 the exclusive, tree.  Canopy
 c. 80%.  Trees c. 30 ft
@@ -164,81 +186,84 @@ evenaged population.  Totally
 uncoppiced.  No felling. A
 few dead trees thro' self-sup
 pression on the N.W. aspect.
-No oak regeneration
+  No oak regeneration
 except inside and near
 the inner enclosure.
-Ash and sycamore
+  Ash and sycamore
 very rare, mature trees only.
 One pine.
-Birch (pubescens) rare
+4035
+  Birch (pubescens) rare
 except round the bog.  Mainly
 middle-aged.
-Rowan frequent as
+  Rowan frequent as
 saplings and young trees,
 especially under oak canopy
 gaps.  Hazel rare.
-No other trees or shrubs
+  No other trees or shrubs
 seen.
-Ground vegetation:
+  Ground vegetation:
 Bracken sparse and patchy;
 round the edges of the bog
 up to 5ft high.
 Erica cinerea loc. ab.
-Milinia generally present
+Molinia generally present
 and often dominant, but
 cover seldom >40%.
 Bryophytes frequently dom-
 inant.  The most frequent
-
 [14036-14037]
-
+4036
 include:
 Sphagnum (green), loc.
 dom. (blanket bog).
-M[????]ium h[????]ium
-Polytrich. co[????].
-Dicran. scop. & majus
-Rhytidia. triq.
-Sc[????]pania spp
-Te[????]ium frq,
+  Mnium hornum
+  Polytrich. comm.
+  Dicran. scop. & majus
+  Rhytidia. triq.
+  Scapania spp
+
+Teucrium frq,
 Deschampsia flex. loc. ab.
-Luzula syW. not seen
-Woods on other aspects
+Luzula sylv. not seen
+
+  Woods on other aspects
 are rather different (see
 map).  The quality of the
 S.E. facing wood is attributed
 to insolation and shelter.
 The dense bryophytes of the
+4037  
 N.E. facing slope are attri-
 buted to steepness and
 consequent lack of litter.
-The grazed woods
+  The grazed woods
 around Parc Cymerau-isaf
 are not very different
 except in the height of the
 ground vegetation.
-Bracken is much taller
+  Bracken is much taller
 and denser on the slopes
 S.E. of the wood and suppresses
 all tree growth save birch.
-A curious woodland type,
+
+  A curious woodland type,
 tho' common in the district.
 The poverty of understorey and
 ground vegetation are [!!!!] attri-
 butable to acid soil, little
-
 [14038-14039]
-
+4038
 litter accumulation, and the 
 sheep grazing which was con-
 tinuous until the area was
 fenced in 1963.
-the present oak popula-
+  The present oak popula-
 tion results from seed estab-
 lishment over a relatively
 short period in the mid-19th
 cent.
-In the field, this looks
+  In the field, this looks
 very like secondary woodland,
 either planted or established
 naturally from a few older
@@ -246,49 +271,52 @@ trees at a time when grazing
 pressure was reduced.  The
 ground vegetation, as now seen,
 is more characteristic of moor-
-land than of woodlands and and
+land than of woodlands and
 contains no definite woodland
+4039
 plants.
-Dr Dale regards it as
+  Dr Dale regards it as
 probably primary woodland,
 the age-structure being
 attributed to supposed logging
 of the older trees, particularly
-during World War 1.  The
+during World War I.  The
 stumps &c. are presumed to
 rot down and disappear com-
 pletely.
-The povery of the tree
+  The poverty of the tree
 composition, even on the most
 inaccessible slopes, is difficult
 to reconcile with primary
 woodland.
-The rain is said to contain
-appreciable C[????] - and SO4 -- when
+
+  The rain is said to contain
+appreciable Cl- - and SO4 -- when
 the wind is in appropriate
-
 [14040-14041]
-
+4040
 directions.  Tress covered with
 an abundant epiphyte layer,
 but not luxuriant and appar-
 ently lacking Ushea, Lobaria, tc.
-Cladonia squamosa and
+  Cladonia squamosa and
 impexa are abundant on the
 ground.
-The mnargins of the wood
+  The margins of the wood
 with heathland are ill-defined
 and there is no marginal
 scrub.
-The river flows in a deep
+
+  The river flows in a deep
 gorge with cliffs on the S.W.
 side.  Great rounded boulders
 covered with bryophytes.
+4041
 Ffestiniog Valley.
-The bottom of the valley
+  The bottom of the valley
 is grazing land, usually good
 quality and improved.
-The wooded sides are
+  The wooded sides are
 mainly Quercus petraea,
 structurally like Coed Cymerau
 with little undergrowth.  Ground
@@ -299,13 +327,12 @@ Ffestiniog, between the Ffes-
 tiniog Railway and the valley
 floor) is an N.N.R.  Somewhat
 base-richer than Cymerau.
-Coed Ceunant is between
+  Coed Ceunant is between
 the Maentwrog and Ceunant
 side-valleys, facing mainly
 N.W. Complex, including old
-
 [14042-14043]
-
+4042
 conifer and beech plantations
 among the oak.  Rhododendron
 is a serious problem, dealt
@@ -316,15 +343,16 @@ is distrusted.  The reserve has
 recently been extended to include
 the heathland on Pen-y-foel
 and now totals about 1,000 ac.
-Coed Caefali is another
+  Coed Caefali is another
 oak wood with large bracken
 areas.
-Penrhyndeudraeth is consid-
+  Penrhyndeudraeth is consid-
 erably suburbanized.
-A steam train was working
+  A steam train was working
 on the Ffestiniog Railway on the 
 Portmadoc dam.
-The road on the Portmadoc
+  The road on the Portmadoc
+4043
 dam is subject to a 6d toll.
 There is a considerable
 area of salt marshes inside
