@@ -15,7 +15,7 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00183
 Bangor 4025-59
    Coed cymerau 4027-40
    Coed Gors-wen 4048-52
-   Other Merioeth woods 4025-6,
+   Other Merioneth woods 4025-6,
       4041-3, 4052-4, 4056-7.
 Cambridge 4060-72, 4073-4224
    London Jock 4060
@@ -123,7 +123,7 @@ Expts on oak seedling survival.
 make it more secure against
 sheep.
   Treatments including
-mpuse cages, mouse cages open
+mouse cages, mouse cages open
 at the top, mouse cages let
 into the ground, various
 types of natural shade, nu-
@@ -155,7 +155,7 @@ outside c. 1 ft high, browzed
 recently.  Few in both cases.
   The reserve boundaries
 are mainly artificial, stoutly
-fenced against sheep.  (one
+fenced against sheep.  (One
 was found in the reserve
 during the visit.)
   The wood on the S.W.
@@ -250,7 +250,7 @@ all tree growth save birch.
   A curious woodland type,
 tho' common in the district.
 The poverty of understorey and
-ground vegetation are [!!!!] attri-
+ground vegetation are [!!!!part!!!] attri-
 butable to acid soil, little
 [14038-14039]
 4038
@@ -369,7 +369,7 @@ climbers.  Work has recently been
 done to provide paths for the
 climbers to get at the rocks.
 This is believed to arouse
-greater respect anong visitors
+greater respect among visitors
 for the wood.
 [14044-14045]
 4044
@@ -394,7 +394,7 @@ Blackthorn
 Hazel
 4045
   But pure hawthorn hedges are
-frequent and pure blakthorn
+frequent and pure blackthorn
 occasional.
   Vaynol Park is the seat
 of the second historical family
@@ -459,7 +459,7 @@ miles inland by paddle steamers
 until quite recently.
   The church of Henryd
 (771736) is quite isolated.  It is
-a Cictorian building replacing
+a Victorian building replacing
 the isolated chapel at over 1,000ft
 at Garnedd-wen.
 
@@ -508,12 +508,12 @@ usually have mixed hedges
 including hazel.
   The Middle Wood is an-
 cient and probably primary:
-1. Large are apparently
+1. Large area apparently
 without internal walls.
 2. Very wet and much
 dissected by streams.
 4051
-3. Comparitively rich tree &
+3. Comparatively rich tree &
 shrub flora (for Wales).
 4. Range of ages of oak
 with a few very old trees.
@@ -527,7 +527,7 @@ clearly ancient.  The N. and
 W. are probably secondary
 and related to adjoining
 fields.  The remainder
-(apart from the "cattle pond"
+(apart from the "cattle pound")
 could be primary, but this
 is not certain.
   Bridges made of round
@@ -537,13 +537,13 @@ logs (mainly sycamore) get
 very slippery.  Driving in staples
 is recommended as a re-
 medy (W.M.).
-Pen-y-gaer, Llanbedr-y-
+  Pen-y-gaer, Llanbedr-y-
 -cennin, is a conspicuous
 hill-fort on an abrupt moun-
 tain.  Said to be surrounded
 with chevaux-de-frise of sharp
 stones.
-The woods on the W. slope
+  The woods on the W. slope
 from Pont Dolgarrog to around
 Betws-y-coed are mature
 4053
@@ -571,7 +571,7 @@ plantations are mostly very
 dark but in places a moss
 flora recalling the Alpine
 spruce woods can be seen.
-The Blaenau Ffestiniog
+  The Blaenau Ffestiniog
 railway still operates, perhaps
 because of Trawsfynydd power
 station.
@@ -637,7 +637,7 @@ country and was rather
 surprised to learn that sur-
 veying had been patchy.
   
-Hazels in the hedges at
+  Hazels in the hedges at
 Penrhos-garnedd, Pentir, are
 just on the point of anthesis.
   Hedgerow oaks in Pen-
@@ -718,7 +718,7 @@ to within 3 in. of the surface
 or nearer.
   All the black-holes and 
 hollows in the neighbourhood 
-of the coppice plts are
+of the coppice plots are
 full; most of the Triangle
 wood-bank ditch and the
 railway ditches; and hollows
@@ -741,9 +741,10 @@ abundant on a few poles.
 3. Merulius corium.  Fruit bodies
 on a few poles.
 4. Mycena or Oriphalia sp.
-A tiny all-white [DIAG]
+   tiny all-white [DIAG]
 one in immense
 numbers on some 
+4063
 [exclude  fromm list]
 poles near the bottom of the
 stack.  About 1 cm high.
@@ -779,14 +780,14 @@ mically, has fallen over,
 the root mat being about
 9 in. thick.
   A member of the party
-found a dispersed skeleton
+found a dispersed skeleton,
 probably of a deer, about
 6 ridges from the N.W.
 corner of the Triangle.
 4065
   The log stack referred
 to sheltered an ash stool
-whose atems are now c.
+whose stems are now c.
 9 ft high.
 February 1.
   The river is high and
@@ -809,22 +810,22 @@ have been sawn off at a
 uniform height without regard
 to branching.
 5 Feb.
-Madingley Wood.
+  Madingley Wood.
 Many mercury infls now
 viaible. Few erect.
   Considerable proportion of
 tall sallow in the SW
 field.
-Tremella foliacea. On ash
+  Tremella foliacea. On ash
 twig.
-Steven Screen in large
+  Steven Screen in large
 clearing. Logs 2 x 2 dead,
 Mar. 61, just rotted thro'.
   1 coltsfoot in large 
 clearing, petals just visible.
 4067
 Large Clearing.  Recommendations.
-Remove fallen ash carefully
+  Remove fallen ash carefully
 leaving hazel that it has
 fallen onto.
   Fell large cankered ash to
@@ -901,7 +902,7 @@ rhizoids which adhere to each
 other but not to the pot.
 They appear to be very effici-
 ent at trapping dust and
-the solids in rain solashes,
+the solids in rain splashes,
   Luzula sylvatica is grow-
 4071
 ing actively.
@@ -913,8 +914,8 @@ is a small area of oak-
 -birch coppice with oak stools
 up to c. 4 ft dia.  Both spp
 are large coppice. Apparently
-part of th eEccles Hall park
-(1st, ed. 1 in.)
+part of th Eccles Hall park
+(1st ed. 1 in.)
   Several small closes of dere-
 lict fen (tall reed &c.) by
 the Bays River S. of Wymond-
@@ -1017,7 +1018,7 @@ ford side. about 1 1/2 ft high,
 broad. Turns a right angle in
 §133.
 Φ. Cephaliziella *
-Hard peaty earth . Rack
+Hard peaty earth. Rack
 in §132. HLKW
 ᙭ Campylopus pyriformis
 Large patches on peaty rack.
@@ -1038,20 +1039,20 @@ once cut. Grid ref. 771820.
 4079
 w. Thuidium tamarisc.
 Local.
-⍺⍺. Rhytidium nigosum. Lpocal
+⍺⍺. Rhytidium nigosum. Local
 Broom-house Farm.
 ⍺β. [!!!!Barbeila Hornschiana!!!!]
 Local.
 
-Warrwn Bnks.
+Warren Banks.
   A similar bank to the Laken-
 heath Warren Bank runs parallel
 to it c. 40 yards away on 
-thw Lakenheath side.
+the Lakenheath side.
   The boundary of the Com-
 mission property on Wangford
 Warren is a low acute bank.
-  Oak saplingd frequent in the
+  Oak saplings frequent in the
 Wangford plantations.
 [14080-14081]
 4080
@@ -1097,15 +1098,16 @@ entrance. Just inside wood.
 Reliant.
   Cutting c. 3/4 full of tyres.
 Bank of tyres c. 6 ft high
-between cutting l& Mr. C's
+between cutting l & Mr. C's
 concrete road. Almost
 unbroken as far as Little
-[DIAG]             Hound.
-{hoto
+                 Hound.
+[DIAG]           
+Photo.
 Hazel catkins anthesis now.
 February 18.
   HAYLEY LANE NEW 
-HEDGE plantrd (G. McBride)
+HEDGE planted (G. McBride)
 Hawthorns 18" apart in two
 [DIAG]
 [14084-14085]
@@ -1129,7 +1131,7 @@ Birch in Middle Fell
 Oak in front Fell 7 ft
 in first year from stool. Leaves
 up to 9 3/4" x 4 5/8"
-Fumariaabundant in bonfire
+Fumaria abundant in bonfire
 sites in 1970 coppice. New
 record.
 8047
@@ -1150,8 +1152,8 @@ record.
       ash maidens
        promoted.
   Wood rather dry. Very
-little surfsace water (hollows in
-Front Fell). Dkitchrs sluggiash.
+little surface water (hollows in
+Front Fell). Ditches sluggiash.
 [14088-14089]
 4088
   32 oaks taken to the
@@ -1164,7 +1166,7 @@ and taken by Colin Ranson.
 area newly coppiced is a 
 large oak struck by light-
 ning. A strip of bark
-running veticlaly down
+running vetically down
 was detached; width
 about 3 in. at top of tree,
 9 in. at bottom. In the
@@ -1197,22 +1199,22 @@ green under the ground.
 Coppicing of Front Fell only
 slightly advanced.
 
-February 30.
+February 20.
 Felsham Hall Wood Oaks.
-Completer account in
+Complete account-  in-
 cluding those dealt with
 yesterday.
-Estsblished 43+32 = 75
-Radicle but  no plumule,
+ Estsblished 43+32 = 75
+ Radicle but  no plumule,
 cotel. still alive.   [DIAG 4]
-Nouse eaten           [DIAG 1]
+ Mouse eaten           [DIAG 1]
 Seed not found        [DIAG 8]
-Rotted prob. before radicle
+ Rotted prob. before radicle
 4091
 appearance            [DIAG 1]
-Rotted after radicle emerged [DIAG 1]
-Rotted after plumule emerged [DIAG 1]
-Shoot formed normally but
+ Rotted after radicle emerged [DIAG 1]
+ Rotted after plumule emerged [DIAG 1]
+ Shoot formed normally but
 broken off [DIAG 1]
 Total not estsblished 14.
 Total 89.
@@ -1251,17 +1253,17 @@ Tallest felled elm
 Wet wood throughout trunk
 and into branches. Wet
 core of c. 1/16 - 1/2 dia.
-with foxy astains along
+with foxy stains along
 annual rings outside.
 
 Pollard oak GBH at waist
 16ft 5in. Stands on the
 steeply sloping valley side
 with no trace of a boun-
-dary earthwork. Just tp
+dary earthwork. Just to
 the W. ia a large pit (said
 to be for sand for the bricks)
-but this dpes not affect the
+but this opes not affect the
 oak. Rhododendrons have 
 been planted on the aides of
 this pit.
@@ -1305,7 +1307,7 @@ of wet-wood.
             Suckers very
 Topography  numerous, form-
 of pond.    ing a dense
- [DIAG]     thicket yo c.
+ [DIAG]     thicket to c.
             20ft high.
             They arise as
             short laterals
@@ -1315,16 +1317,16 @@ of pond.    ing a dense
             horizontally for
 4097
 [DIAG]
- few in. turn upwards.
-This proximal portion of the
+a few in. turn upwards.
+The proximal portion of the
 root becomes much thicker
 and there is a sudden
 reduction in thickness of
 a root bearing an estab-
 lished sucker (fig. above).
-The sucker-brsring organs
+The sucker-bearing organs
 are certainly roots. Consist
-mainly of huge vessels  visible
+mainly of huge vessels visible
 with the naked eye. No
 annual rings. no pith: proto-
 xylem apparently visible.
@@ -1359,9 +1361,9 @@ bell & sparse bracken.
 
 Valley.
   The head of the little val-
-ley is an area od moist
+ley is an area of moist
 rather heavy soil with some
-merdury. Continuous elm
+mercury. Continuous elm
 (but a dead ash in the 
 N.W. bsnk nearby).
   South of this is a large
@@ -1376,7 +1378,7 @@ of the valley appears natural.
   Bluebells occur almost
 throughout the woods in
 great abundance, even under
-bsacken.
+bracken.
   Red campion very abundant
 in bracken-free woods.
   Mercury rare, so far
@@ -1396,15 +1398,15 @@ became impassable because
 a great oak was felled im-
 moveably across it.
 
-Hazel catkins are now
+  Hazel catkins are now
 past pollen-shedding.
 
-Several oaks of c. 3-6
+  Several oaks of c. 3-6
 years old and up to 18 in.
 high were dug up on the
 main heath of Tiger Hill.
 Thick litter grading into mor,
-the total dften c. 6 in. thick.
+the total often c. 6 in. thick.
 Flint pavement close under-
 neath.  Roots in the
 mor are infrequent. At least
@@ -1424,15 +1426,15 @@ crumb structure, few bleached
 sand grains, dark grayish
 brown.
 3.9, 3.8 1/2, 3.8 1/2.
-N.B. this was very xlose to
+N.B. this was very close to
 the big felled elms!
 
 C. Heavy pale brown clay
-[!!!!with gleying!!!] with some stones\
+[!!!!with gleying!!!] with some stones
 4.2, 4.2 1/2, 4.3.
 [14104-14105]
 4104
-D. Very heqvy dark brown 
+D. Very heavy dark brown 
 clay with some gleying.
 5.4, 5.4, 5.5 1/2, [add .1/2]
 5.5
@@ -1469,10 +1471,11 @@ Total 35 + 36 + 37 + 36
 [Total failures 7]
 [14106-14107]
 4106
-Feb. 26.Elm flowers almost
+Feb. 26.
+  Elm flowers almost at
 anthesis (Trumpington)
 Fwb. 27.
-Hayley Wood acorns III
+ Hayley Wood acorns III
 (Feb. 21-28 1970)
  11 failures (8 due to decay
 or destruction of the collar;
@@ -1517,7 +1520,7 @@ abundant in big alder stools,
 forming a dense carpet to the 
 almost complete exclusion of other
 species. Also on other stools
-and occasionally on thw ground.
+and occasionally on the ground.
 
 [SYMBOL] Thuidium tamariscinum. The
 commonest ground-carpet spe-
@@ -1551,7 +1554,7 @@ S.E. corner, HLKW.
 
 [SYMBOL] Sphagnum subsecundum var.
 auriculatum. Apparently the
-same quantity as intrhe 
+same quantity as in the 
 spring.
 
 [SYMBOL] Fullaria dilatata. On rough
@@ -1609,7 +1612,7 @@ angle Ride.
 2. Some work on the deer
 fence stile.
 3. Planting oaks in the
-4115reat glade.
+5reat glade.
 4. Rabbit-fencing the nursery:
 a square of c. 32 ft side.
 Oaks planted on an 18 in. grid.
@@ -1633,10 +1636,10 @@ layer.
 March 1.
   A strikingly warm dry day.
 March 2.
-  Several sharp ahowers of
+  Several sharp showers of
 snow.
 March 3.
-  More snow showere, with
+  More snow showers, with
 transient lying.
 March 4.
   More slight snow.
@@ -1655,12 +1658,12 @@ March 7.
 March 10.
   Lathraea clandestina in full
 flower in the Botanical  Gardens.
-  Despite he mild winter
+  Despite the mild winter
 Sequoia sempervirens shows
 severe browning.
   Leptopteris has the trans-
 parent leaves of other filmy
-ferns wo=ith big scattered spor-
+ferns with big scattered spor-
 angia on normal pinnules.
   In Dicksonia the pinnae 
 are circinate as well as the
@@ -1681,7 +1684,7 @@ ploughing has newly reached
 the silt in many fields.
 Numerous small bog trees
 have been brought up.
-Poplars in the Bryant &
+  Poplars in the Bryant &
 May plantations in Lakenheath
 Fen are considerably smaller
 where they grow on [????]
@@ -1710,7 +1713,7 @@ leaves.
 occur in groups on a low
 mound c. 4 ft dia. composed
 apparently of mor and rotten
-wood. This is probbaly the
+wood. This is probably the
 remains of a very old stool.
   Male hazel catkins
 have finished shedding pollen,
@@ -1729,7 +1732,7 @@ the fork of an ash pole
 was found a group of adults
 (black with 2 red spots) and
 c. 12 dead nympha.
-  A suppreassed oak c. 2 ft
+  A suppressed oak c. 2 ft
 high in the 2 Acres still has
 numerous partly-green leaves.
 
@@ -1762,32 +1765,32 @@ Cxton Gibbet.
          inside.
 [DIAG]
 4123
-Horizontal has been much [????]
+Horizontal has been much [????scarfed]
 and it is doubtful if any of
 it is original.
          Excursion of Hist. Ecol.Group
 Hayley   with  Francis Rose & O. Gilbert.
 Lec. conizaeoides)  maples,
-Lepraria incane  ) edge of Triangl
+Lepraria incane  ) edge of Triangle
 Schismatomma decolorans
-1st pollrd in [SYMBOL triangle] hedge. Old
-shded bark.
+1st pollard in [SYMBOL triangle] hedge. Old
+shaded bark.
 [14124]
 4124
 sterile.
 Great pollard. S. corner of Triangle.
-Leparia candelaris -yellow
+Leparia candelaris - yellow
 powdery. In E. England an in-
 dicator of old woodland.
 Schistomatomma decol.) c. 6 ft up
 Parmelia sulcata     ) crown of
           glabratulac) tree
-Lecnora expallous
-Opegrapha ly=yncea - moribund
+Lechnora expallous
+Opegrapha lyncea - moribund
          -----------
-Chaenitheca femaginea -
+Chaenotheca femaginea -
 big elm on E. edge of wood
-Lecanora expellans         another
+Lecanora expallens         another
 Arthonia spadicea           big elm
 (shaded bark)
 [back cover]
