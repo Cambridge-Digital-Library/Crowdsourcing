@@ -13,18 +13,19 @@ https://cudl.lib.cam.ac.uk/view/MS-CCCC-00014-00006-00002-00001-00199
 Volume 199             15637-15756
 18 March - 13 April 1972
 Cambridge 5637-61, 5663-77
-Hatfield Forest 5637-46
-Hayley Wood 5647-55, 5656-61,
-Longleat Woods 5674
-Powderham Park 5675
-Woods in S.E. Devon 5676-7
+   Hatfield Forest 5637-46
+   Hayley Wood 5647-55, 5656-61,
+       5663,74
+   Longleat Woods 5674
+   Powderham Park 5675
+   Woods in S.E. Devon 5676-7
 Stanton 5661-2
 Coverack 5677-5756
-Fowey Valley woods 5677-8
-Kilter Hazel Grove 5688-91, 5696
-Trelowarren Mill Wood 5701-3
-5711-2
-Gwendreath Elm Grove 5739-41
+   Fowey Valley woods 5677-8
+   Kilter Hazel Grove 5688-91, 5696
+   Trelowarren Mill Wood 5701-3
+      5711-2
+   Gwendreath Elm Grove 5739-41
 
 [5637]
 Hatfield Forest contd. [DIAG]
@@ -33,26 +34,27 @@ Alder Wood
 apart from a tiny area of Hamptons.
 The Boundary runs through the
 alder area.
-Structure variable.  Standards
+  Structure variable.  Standards
 mainly alder (some recently pro-
-rooted as in Bradfield, some over-
-grown coppice). Ash & oak cod[????],
+moted as in Bradfield, some over-
+grown coppice). Ash & oak codom,
 with alder in some places. Cover
 of standards variable. Alder stds to
 c. 1ft dia.
-Large coppice sparse, mainly 
+  Large coppice sparse, mainly 
 Hornbeam.
-Small coppice continuous to
+  Small coppice continuous to
 sparse.  Alder dominant, mixed in
 places with hazel.
 [5638-5639]
-Poles variable ash & birch.
-Coppice structure good, little
+5638
+  Poles variable ash & birch.
+  Coppice structure good, little
 scrub.  Vigorous regrowth after cutting.
-Ground vegetation mainly
-Deschampsia -mercury.
+  Ground vegetation mainly
+Deschampsia-mercury.
 
-Compariosn with Bradfield:
+  Comparison with Bradfield:
 1. Boundaries fairly sharp in both
 cases.
 2. In both cases on high ground
@@ -62,16 +64,18 @@ natural streams.
 4. In Hatfield alder behaves more
 as small coppice.
 5. Stools much smaller in Hatfield
-with no accumulation of decayed wood.
+with no accumulation of decayed 
+wood.
 6. [!!!!] Structure generally similar
 in both cases with alder both as
+5639
 coppice and as promoted stan-
 dards.
 7. Alder forms a higher proportion
 of both layers at Hatfield than
-in most of bradfield.
+in most of Bradfield.
 
-General Features of hatfield Forest.
+General features of Hatfield Forest.
 1. Coppices tend to be on plateaus
 above 300ft.
 2. [!!!!] Frequent natural hollows
@@ -84,14 +88,156 @@ of acidification (e.g. no bracken).
 4. Coppices apparently all em-
 banked from launds and from
 each other, but not from the
-Forest boundary.  Banks [????]dially
+Forest boundary.  Banks usually
 [5640-5641]
+5640
+sinuous or curving. Corners roun-
+ded. The following are straight:
+Spittlemore to Street
+4 sides of Elgin
+E. side of Hangman's 
+5. List of trees & shrubs:
+Oak                   Exotic: Q. cerris
+Ash                           Pinus nigra
+Maple                         Aesculus
+Elm - carpinif.               Castanea
+Hornbeam                      Beech
+Alder                         Larch
+Birch - pub.                  Sycamore
+      - verr.
+Hazel
+Hawthorn - mono . only
+Sallow - cap.
+Aspen - local, not in W. coppices
+Blackthorn
+Elder
+5641
+?Pinus sylv.
+Dogwood
+Cherry (only in W. coppices)
+Clematis
+Rhamnus
+Rosa can.
+     arv.
+Salix alba
+Lonicera
+(23)
 
+6. No boundary pollards (absence
+significasnt).
+7. Two curious very large ponds
+in  the N.E. coppices.
+8. Most coppice boundaries carry
+remains of iron fences and some
+have remains of planted hawthrn
+hedges.
+9. Woodland structure extremely
 [5642-5643]
-
+5642
+variable over short distances. Prob-
+ably originally 2- or 3-layered but
+areas converterd to poles or scrub.
+10. Plateau alder wood - 4th or 
+5th known example.
+11. Elms uniformly scattered
+through the coppices with a slight
+concentration around margins
+(both coppice-coppice and coppice
+-laurel). Mainly suckering
+but in places (e.g. N. side of Street)
+they coppice quite extensively.
+Invasion slow, low density, with
+little effect on other trees. Massive
+invasion leading to a pure stand
+occurs in the N. of Hamplon's & 
+Street and (to a lesser extent)
+the W. of Hangman's. Elms rarely
+occur as emergents, except along
+the whole S.W. side of Spittlemore.
+5642
+Such an elm distribution is
+not known anywhere else.
+12. Maple much more bundant 
+than ash. [!!!!] The latter seldom forms
+an appreciable part of the large
+coppice.
+13. Hornbeam with a definite S.
+and E. distribution, but usually
+not forming well-defined patches.
+14. Clematis very abundant, espe-
+cially round margins of coppices.
+15. Cherry local, mainly marginal.
+16. Aspen very local.
+17. Hornbeam provides the only
+large stools, and these are few.
+18. Coppice regrowth generally
+about as good as Hayley 1965.
+19. Grazing in coppices.
+20. Deschampsia dominates most
+of the ground vegetation.
 [5644-5645]
+5644
+21. No bluebells seen.
+22. No Primula seen (oxlip said to
+occur).
+23. Mercury widely distributed but
+seldom dominant.
+24. Rhamnus.
+25. Few ancient woodland plants.
 
+        History
+  Internal evidence for ancient
+woodland is poor. The argument
+must rest on the boundaries.
+  All the coppice blocks are typo-
+logically the same, except Elgins
+which has slighter straight banks
+and internal pollards.
+Boundary with railway.
+  The N. boundary of Street
+coppice is a nearly straight
+bank which does not coincide
+5645
+with the railway fence but meets
+it at s very acute angle. This
+narrow gore contains one pollard
+oak. Fencing it does not make
+sense by itself: the gore must
+have been cur off by the railway
+from a larger area. Taken
+with Chapman & Andre, this
+means that the srea between
+the coppices and the road was
+a laund. C. & A. show [!!!!] park-
+land in this area, with buildings
+only on the N. side of the road.
+  The coppice bank continues
+along the railway into Hampton's
+Coppice but there stops. The
+railway is on an embankment at
+this point and probaly took a
+small strip from the coppice.
+  The existence of a roadside
 [5646-5647]
+5646
+laund implies that the N.E. cop-
+pices were defined at a time
+when roadside launds were required.
+Suggested sequence:
+1. Embanking of coppice blocks
+(except Elgin).
+2. Making of curved or sinuous
+internal boundaries (e.g. Hamptons),
+which runs through alder area.
+3. Making of straight internal
+boundaries.
+4. Making of 8 WantzWays and
+other ride systems.
+5. Embanking of Elgin's.
+Poverty of ground vegetation due
+to secondsry woodland, or hevy
+grazaing at times, or both.
+
 
 [5648-5649]
 
