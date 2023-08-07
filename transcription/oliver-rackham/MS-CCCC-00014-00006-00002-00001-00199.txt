@@ -1363,10 +1363,10 @@ in spacing and depth. [SYMBOL] 29.
 [5708-5709]
 5708
 Carleon.
-  Old close with rwmains of Prunus
+  Old close with remains of Prunus
 scrub.
 Allium Babingtonii
-Merccury
+Mercury
 Arum
 Sparse bluebells
 Bracken dom.
@@ -1394,13 +1394,81 @@ limpets.
 
 [!!!!Extremely low tide on this
 visit!!!!]
-
 [5710-5711]
-
+5710
+elms.
+Poltesco - intermediate in valley
+Cornish towards Praze, Dutch
+towards Treworder.
+Challick - Dutch
+Trevothen - Cornish & inter.
+Trelanvean - Cornish
+[!!!!Giulby!!!!]
+5711
+(1) stream mud  7.2 7.0 6.9
+     (7.05)
+(2) lower Chrysosplenium 5.5 1/2,
+5.8 1/2, 5.8 1/2, 5.9
+     (5.79)
+(3) middle Chrysospl. 5.7 1/2,
+5.7, 5.5, 5.8, (subtract 0.1
+because of discrepancy between
+buffers)
+   (5.59)
+(4) top chrysospl.5.6, 5.5 1/2, 5.5 1/2, 5.5 (add 0.01)
+    (5.69) 
+(5) bottom of slope
+4.9 1/2, 4.9 1/2, 5.0 1/2, 5.0 (add 0.07)
+   (5.06)
+(6) middle slope
+4.9 1/2, 5.1, 5.2, 5.1 1/2 (add 0.07)
+   (5.17)
+(7) slope under leat
+5.3, 5.3, 5.6 5.5  (add 0.1)
+   (5.52)
 [5712-5713]
-
+5712
+[DIAG]
+Position of soil pHs taken
+in Trelewarren Mill Wood.
+5713
+April 9.
+Elms   √= seen close to
+Cowyjack         holl & str
+Trelernvean      str only   √
+Tollawkahow      holl.      √
+Roscrowgey       str        √
+Kernewas         holl.
+Chybilly        str & holl  √
+Halliggye       str & holl  √
+Tovithian       inter?      √  
+Kestlemerris    none
+Dry Tee         none
+Bray`s Cot      holl.
+Treleague       inter?
+St Ruen         all 3
+Brogan          holl & ikntee
+S 8    H  9    I 5   Total 17
 [5714-5715]
+5714
 
+[DIAG]
+
+Halliggye Fogou.
+  A is the "normal" entrance,
+through a holein the side
+and roof of the structure. B
+is another hole caused by
+local collapse. There is no proper
+5715
+entrance.
+  C shows thew= roofing of the
+main tunnel, with long bridging
+slabs which - at least in some
+cases - have second-order slabs
+ar right angles to them
+forming an upper laywr.
+  Bearings are magnetic.
 [5716-5717]
 
 [5718-5719]
