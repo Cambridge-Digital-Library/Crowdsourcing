@@ -33,7 +33,7 @@ rusticated
 with Suffolk Trust Technical Committee.
 [16186-16187]
 6186
-REGDRAVE FEN
+REDGRAVE FEN
 Middle- Little Fen- Ditch
 No water movement. 
 Green, turbid, flecks of froth
@@ -306,18 +306,31 @@ March 31       EDGBASTON
          (1)   (2)   (3)  Hedges in
 Hazel     +     +         Besley. 
 Holly     +               
-Tili cor  +
-Ro arv    +
-058722.
+Tili cor  +               approx.
+Ro arv    +    +          058722.
+Hawth     +    +      +
+P spin    +           +
+Ash            +      +
+Elder          +
+Ros casn       +      +
+Oak                   T
+Maple                 +
 
-Ryknild [DIAG]
+
+Blueb          +
+Merc     +     +
+Ivy      +     +
+    [????Sian Simu]
+[TABLE]
+6201
+Ryknild            [DIAG]
 Street is a 
 narrow lane, 
 mostly sunken, 
 between high
 mixed hedges. 
 In one place
-(near the woo E. of Rowney
+(near the wood E. of Rowney
 Green, which appears ancient) 
 there is a slight broadening 
 where the holloway descends
@@ -326,10 +339,11 @@ bank grow two moderate-sized
 pollard  Tilie cordata. 
  This lane is typical of the 
 country in Wythall, Berley, and
-Alvechurch immediately S. if Birm-
+Alvechurch immediately S. of Birm-
 ingham, a land of dispersed settle-
 ment, lanes, and mixed hedges. 
 [16202-16203]
+6202
 Birmingham University. 
  The site seems to have been 
 a Victorian park. Many fine old
@@ -338,32 +352,34 @@ Birmingham Canal is functional
  The bark of old beeches is 
 a curious silvery-grey, doubtless
 because of air-pollution. 
- To the east, around th golf 
+ To the east, around the golf 
 course, are several ancient
 sweet-chestnuts and pollard rakes, 
 suggesting an earlier park.
-
+6203
+[TABLE]
 Cold Comfort Wood, Arrow. 
-B [????]    Desch cae
-Q [????]    Nettle
-Hazel       Copend
+B pubesc    Desch cae
+Q rob       Nettle
+Hazel       Cx pend
 Ash         Primrose
-Honeysuckle J[????]
+Honeysuckle Junc off
 Aspen       Bluebell 
-Vibium op   R[????]
-Elder       Me[????rcury????]
-Rose        [????]
-C[????]     Dry[????]
-Privet      Tene[????]
-Maple       A[????]
-Ro          Ox[????]
+Viburn op   Rub Conj
+Elder       Mercury
+Rosa arv    Sanicle
+Cornus      Dryop fru
+Privet      Teucrium
+Maple       Ajuga
+Ro can      Cx sylv
 Holly
 Crab
-
+[TABLE]
 See card. 
 
 Asplands Husk Coppice is a wood
 [16204-16205]
+6204
 mainly of timber oaks. It is
 divided from Three-Oak-Hill by 
 a steep field of grassland. 
@@ -377,59 +393,126 @@ The Ridgeway. For several miles
 to the S. of Redditch this road
 is an ancient ribbon-development
 with cottages, many of them 
-timber framed, in long [????]
+timber framed, in long narrow
 gardens which are evidently
-p[????]. The hedges in 
+purprestures. The hedges in 
 front of the cottages are some-
-times mixed; hat at the back
+times mixed; that at the back
 is either mixed or elm and is 
 often lynchetted 
-
+6205
 Three-Oak-Hill Wood. 
-Oak     Bluebell
-Ash     Primrose
-B bend  Ajuga
-B pub   Epil[????]
-L[????] Rulus fruit
-Holly   Dryup f[????]
-Maple   Mercury
-Cor     Desch c[????]
-Sx[???] Chamalner [????]
-Ivy     Oxplend
-Cherry  June eff
-        Nettle
-        R[????]
-        Ten[????]
-        Hyper[????]
-        Tames
+
+[TABLE]
+Oak        Bluebell
+Ash        Primrose
+B pend     Ajuga
+B pub      Epilob sp
+Lonicera   Rubus frut
+Holly      Dryop [????]
+Maple      Mercury
+Cornus     Desch caesp
+Sx cin     Chamaener ang
+Ivy        Cx pend
+Cherry     June eff
+           Nettle
+           Ranun rep
+           Teucrium
+           Hyper hirs
+           Tamus
+[TABLE]
 [16206-16207]
+6206
 Hedge to W. connecting 3-Oak-
-Elder       -Hill to road.
+            Hill to road.
+[TABLE]
+Elder
 Maple
 Ash
 Holly
-Cr[????]
-ROcan
+Cx mins
+Ro can
 Cornus
 Hazel 
+[TABLE]
 
 1 April. 
 SUTTON COLDFIELD PARK. 
-
+6207
 2 April. Botanic Garden [SYMBOL]
 Veltheimia. Remarkable Liliaceous
 plant with enormously branched
 main;y sterile inflorescence. 
 Utricularia reniiformis. A plant 
 with stalked reniform leaves grow- 
-ing in peat with S[????]
+ing in peat with Sarracenia
 
-Primula Jubilae- Trans[????]
+Primula Juliae- Transcanscaria
 
 [16208-16209]
+6208
 
+4 April.
+Lombardy poplara on Sheep's Green
+brought down by recent gale [!!!!] 
+6209
+Crusoe's Island
+[DIAG]
+             but slighty dscoloured
+(1) quite sound  at butt, 37 p. high
+Severe wet-wood & die-back
+in upper 2/3.
+Snapt off c. 5 ft high. Roots
+worked loose before it fell.
+27" dia.
+(2) much as )1). Struck by (1) in
+fall, but still stands, thouygh
+leaning & beginning to pull its
+roots. Movement in gusts can
 [16210-16211]
+6210
+be felt at base.
+(3) 40 p high. Ivy & thorn
+at base.
+Wetwood throughout small
+branches.
+2'10 dia. Wetwood to
+within c. 2" of cambium
+at base. Cavity with insect 
+holes c. 1 ft dia.
+Snapt off 4 ft high. Slight
+root pulling.
+(4) 3'4 dia at base.
+2-4 in of sound wood
+all round. Then about
+1" of wetwood. Then qute
+destroyed & reduced  to loamy 
+texture  by crumbly 
+brown rot & deathwatch-like
+insect. Broke c. 3 ft high,
+bo root pulling. At least
+35 p high, fell on boathouse.
+6211
+5 April.
+          HAYLEY WOOD.
+   Belstead House - see red 
+book.
+  N.E. of Belstead House is 
+an area od secondary woodland
+said to have  developed recently 
+on springs.
+              BELSTEAD HOUSE
+6 April.
+  HOLBROOK PARK.
+  GREAT BIRCH WOOD.
+  GREAT BIRCH WOOD EAST.
 
+ The lane past Bluegate Farm
+in Wherstead has fine mixed hedges
+(now being partly destroyed by
+road widening!). A few oLd pollarda
+in grassland around the house,
+on what may have been a former
 [16212-16213]
 
 [16214-16215]
