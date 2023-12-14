@@ -20,7 +20,7 @@ MAVROMMATI
   Platanaki 9859-68
 [19781]
                MAYPOMMATI     9781
-               (H)HB[?]N
+               (H)HB[SYMBOL]N
 5 August         1979
 Hedge on Thespies road from
 Mavrommati
@@ -30,16 +30,16 @@ set at fairly regular intervals.
 Around 
 870443    [DIAG]
 Trees c. 20 ft high, c. 7" dia.,
-spceds rather wvenly as if
+spaced rather evenly as if
 planted (c. 4 ft apart).  Rather 
-upright hbit. Some have 
+upright habit. Some have 
 been (x)ed.
 Pistacia lent. occ.
 [19782-19783]
 9782
       (Pyrus amygdal.)
 Lonicera implexa  occ.
-Asparasgus sp. occ.
+Asparagus sp. occ.
 Galium cf apanine
 Straight, on slight break
 with tumble of stones (?wall).
@@ -69,11 +69,11 @@ c. 15 ft wide, [????].grazed, on
 stone-tumble [Chondrilla ranos.]
 Asparagus occ. Pistacia occ.
 
-(D) low symmetricsl stoney
-bnk; occ. Q. coccif bushes.
+(D) low symmetrical stoney
+bank; occ. Q. coccif bushes.
 
 Scandix pecten-veneris ssp.
-macrorhynchla; fallow field.
+macrorhyncla; fallow field.
 Trifolium purpureum ab.
 Nearly leafless Picris ibid.
 lactuca prob. salign ibid.
@@ -83,16 +83,16 @@ lactuca prob. salign ibid.
 9784
 Ruined building with a great
 iron press.
-  [?????]
-  [????]
-   [????]  [maker's name
+  [SYMBOL]
+  [SYMBOL]
+   [SYMBOL]  [maker's name
               on press]
           [DIAG]
  R HORNBY & SONS LTD
    GRANTHAM ENGLAND
 9785
 This is evidently the remains of
-an oil-mill, in a small vslley 1 km
+an oil-mill, in a small valley 1 km
 SSW of Mavrommati church. It
 contains:
 (1) A vertical, evidently hand-
@@ -110,7 +110,7 @@ tical type.
 
 Hedges.  Frequent in area S
 and SW of Mavrommati, on
-steepish slopes within 1 km
+steepish slopes within 1 km of
 [19786-19787]
 9786
 Pines NE of village
@@ -139,10 +139,10 @@ Hard limestone, pale grey
 Occ. outcrops, many boulders
 Ab. terra rossa
 Maquis-garrigue 30:70
-Gasrrigue:
+Garrigue:
 Poterium   50 Bullota occ
 Coridothymus 50 no Cistus
-Maquis pure Q. coccifdera
+Maquis pure Q. coccifera
 with a little asparagus
 Bushes hvw been severely  grazed
 (mushroomed) now recovering
@@ -155,16 +155,16 @@ Pistaria ((+))
 Further down same valley
 W. facing slope 15°
 Soils same
-Maquia: garrigue elements
+Maquis: garrigue elements
           50:50
 G  70 Coridoth. 30 Poter
-occ Phlomis fructiosa
+occ Phlomis fructicosa
 occ Ballota
 fewer grasses
 M. almost pure oak 3% [????olive]
 condition much the same
 (some starting leading shoots)
-Osyris freq. (gasrrigue)
+Osyris freq. (garrigue)
 
 [Cornfields
 Delphinium pereg
@@ -213,7 +213,7 @@ Spartium. At Thespies,
 roadside prob. planted
 
 [DIAG]
-oof of outbuilding  at
+   Roof of outbuilding  at
 Thisbe - note kingpost does
 not meet tiebeam.
 [19792-19793]
@@ -223,7 +223,7 @@ Valley.         (8)
 Very thin maquis-garrigue
 limestone - almost pave-
 ment - with 50% bare rock.
-Maquias ratio 1:20
+Maquis ratio 1:20
 Olive = pear > Calistome
 > carob = oak
 terebinth
@@ -233,7 +233,9 @@ Hard grey water-worn limestone
 slope 10° WSW
 40% rock                    (9)
 Maquis ratio 5%
-Olive > pecor > oak, CslicotOak 5" high, not flowering
+Olive > pear > oak, Cslicot
+
+Oak 5" high, not flowering
 some oak seedlings
 Coridothymus 85%, Poterium
 155
@@ -247,10 +249,10 @@ Carob occ., to c. 8 ft high
 [terebinth]
 Other shrubs c. 3 ft
 
-Hill opposite (facing th
+Hill opposite (facing the
 other way!) has 50-80% maquis.
 
-Several large [????] in
+Several large[SYMBOL] in
 good repair.
 
 Corresponding NW-facng 
@@ -261,7 +263,7 @@ Grazing severe (10)
 [19794-19795]
 9794
 Verbascum  prob. undulatum is
-common on roadsides of Thisbe.
+common on roadsides at Thisbe.
 
 [DIAG]
 PLAIN OF THISBE
@@ -285,7 +287,7 @@ this varies from island to island.
 inhospitable inlet.  
 
 Plain of Thisbe.
-   A basin, aplarently land-
+   A basin, apparently land-
 locked, with nearly level
 floor sloping slightly towards
 [19796-19797]
@@ -302,10 +304,10 @@ high; at the S. end it forms
 the base of the modern N-S
 road across the basin, but
 at the N end it diverges a
-few ft to the W.  Tew bridge 
+few ft to the W.  The bridge 
 carrying the road across the
-dried-up ceneal channel arch 
-is a  asub-modern arch on
+dried-up central channel arch 
+is a  sub-modern arch on
 massive classical abutments.
    The plain has long been
 divided into narrow strips of
@@ -315,22 +317,22 @@ water or aquatic vegetation.
 The main crop is corn with
 olives on the marginal slppes.
    In looking for a auitsble
-place to tke a core, we
+place to take a core, we
 came upon a  very extensive set-
 tlement site: pottery and tiles
-of an extensive Classicasl period
+of an extensive Classical period
 thickly scattered over many
 acres, down to the bottom of
 the olive zone.
    No trace of peat or silt
 found: the soil is a sandy
-clay and is brick=-hard to
+clay and is brick-hard to
 many feet deep. Cracks are
 up to 3" across and at
 least 2 ft deep. We damaged
 the Hiller borer in trying to
 take a core.
-A commercial borehole in
+   A commercial borehole in
 [19798-19799]
 9798
 the basin revealed a series of
@@ -356,7 +358,7 @@ Mavrommati, three had bands
 9799
 consisting of a singer and three
 instuments (e.g. electric guitar, 
-fiddle (with micpohone
+fiddle (with microohone
 attached) and a small drum.
 The works were mainly By-
 zantine pop music of a very
@@ -387,12 +389,13 @@ a large clarinet-like keyed instru-
 ment and a drum.
    The various bands played
 without any coordination. They
-began at 8 p.m. and they
+began at 8 p.m. and went
+on until 2 a.m.,when they
 suddenly finished, in accor-
-dance with a new licensibng
+dance with a new licensing
 law, though talking snd revell-
 ing continued until dawn.
-The villagee slept the fol]owing
+The village slept the fol]owing
 day.
 [Tagopogon hyridicus]
 9801
@@ -462,7 +465,7 @@ on Zagora; also at the Hippocrene
 numbered by evergreen
 Philyrea occ.
 Middle: decid 40%
-Phillynea 15
+Phillyrea 15
 occ. Colutta.  freq hawthorn
 9805
 Acer mentala occ.
@@ -502,7 +505,7 @@ dolines seen on the N.E. flank
 of the mountain  E. of Krys
 Pigadhi
 9807
-Hippocrene  i.e. [????]
+Hippocrene  i.e. [SYMBOL]
 Ivy
 Arenaria cf [????slopyll]
 Geran cf robert - lucidum
@@ -521,7 +524,7 @@ woodland.   [Thymus ocheus]
 Cerastium candidissimum is
 dominant in part of a narrow
 zone at the CD limit, c. 1200m.
-Phlomis samia is abundant
+  Phlomis samia is abundant
 at all altitudes; chiefly sterile
 in the deciduous woods.
 [19808-19809]
@@ -531,7 +534,7 @@ A famous plant of Helicon from
 ancient times. Abundant from
 800 to 1450 m in woods and
 screes. Most flourishing in open
-habitats. No tace of flowers or
+habitats. No trace of flowers or
 fruit.
 
 Dianthus giganteus   ssp  cro
@@ -544,7 +547,7 @@ sent, with many hybrids which blur
 the distinctions. See Aug. 12.
    The oaks are coppiced (see
 Aug. 12); the stools are usually
-rather indeterminste in size, being
+rather indeterminate in size, being
 underground, but do not often ex-
 9809
 ceed 5 ft. (-8 ft) Poles up to 20 ft
@@ -553,15 +556,15 @@ c. 20 years' growth.
    There seems to be no attempt
 made to protect the oaks from 
 grazing, but this is largely
-confined to the grsassland r-
+confined to the grassland ra-
 ther  than the woods. It delays
 but does not prevent regrowth.
 Possibly in Zones A and B the
-grszing is limited to cattle,
+grazing is limited to cattle,
 whereas E and above, on more
 difficult terrain are severely
 grazed by goats.
-The oaks are totally sterile,
+   The oaks are totally sterile,
 diligent search failed to find
 a single acorn (whence, in parts,
 the difficulty of distinguishing 
@@ -569,12 +572,12 @@ the species).
    Deciduus oaks are almost
 [19810-19811]
 9810
-certsinly dclining at both
+certainly dclining at both
 altitudinal extremes, because
-wirh rhe present regime of 
+with the present regime of 
 cutting and grazing they do
 not fruit, Q. coccifera, in con-
-trast, fruits freely. Withiin their
+trast, fruits freely. Within their
 present range the oaks ap-
 pear to be invaded by Abies,
 which is rspidly spreading
@@ -591,14 +594,14 @@ tends into Zone E; it is
 grazed about as much as oak.
 9811
    Zones C and D are on
-very craggy terrsin, thickly
+very craggy terrain, thickly
 wooded, grazed by goats but
 not very severely.
-  Phillyrea papears to be
+  Phillyrea appears to be
 intermediate in grazing resist-
 ance between deciduous and
 evergreen oaks.
-Spartium rare in Zone C;
+   Spartium rare in Zone C;
 it is remarkably rare in the 
 whole region.
 Abies cephalonica.
@@ -612,8 +615,8 @@ bare limestone rock and scree
 [19812-19813]
 9812
 with scanty maquis and Labi-
-atae.  they may be the result
-o9f watime conflagrations (see
+atae.  They may be the result
+of watime conflagrations (see
 Aug. 12). The stumps. c. 12"
 thick, are now very rotten and
 ready to crumble.
@@ -628,19 +631,19 @@ pocrene. The burning was ap-
 parently of a young stand with
 few trees >50 years old. No
 sign of any stumps.
-Abies also occurs on cliffs
+   Abies also occurs on cliffs
 and rocks in lower zones and
-smallish trees, as already moted,
-98134
+smallish trees, as already noted,
+9814
 have spread down to the 
-bottom od the saddle. Some
+bottom of the saddle. Some
 of these trees were evidently
 present the last time the oaks
 were cut; many of them ap-
 pear to have been once pol-
 larded at c. 12 ft high,
 subsequently growing 2-3 lead-
-ers. A fewe Abies apoear to
+ers. A few Abies apoear to
 have been coppiced.
    Young Abies in Zone E is 
 much grazed prob. more affec-
@@ -649,16 +652,16 @@ reason the burnt areas are
 slow to recolonize; but the
 young firs are there, especially
 towards the edges, in pockets
-of soil, and will eventiu9814lly
+of soil, and will eventually
 struggle upwards and get
 away.
 [19814-19815]
 9814
-Many Abies trees are full
+   Many Abies trees are full
 of mistletoe which occasionally
-dominates the fopiage; indeed
+dominates the foliage; indeed
 occasional trees have only
-mistletoe foliage ion their top
+mistletoe foliage on their top
 or main limbs.
    About 10% of the bigger Abies
 on the cliffs have died in he last 
@@ -667,23 +670,22 @@ few years. Unknown cause.
 [DIAG]
 
 Valley of the Muses. A quiet
-uninhabited, mainly cultivsted
-valley. Several permanaent
+uninhabited, mainly cultivated
+valley. Several permanent
 streams, with poplars, (chiefly
 hybrids), Arundo beds, etc.
 9815
 Little remains of the numerous
 chapels, except Ayia Paraskevi.
-Many hedges in theS.E. part
-of the vsalley. Chief crops are
-cereals snd olives, with some
+Many hedges in the S.E. part
+of the valley. Chief crops are
+cereals and olives, with some
 vines. Some abandoned terra-
 cing on the S.E. flanks of 
 Koursana, but terraces in gen-
 eral are rare as they usu-
 ally are in the region.
-
-   Two ancient towers: a fan-
+ Two ancient towers: a fan-
 tastic medieval ruin 1 1/2km
 WNW of Panayia, and a
 classical tower crowning the
@@ -719,7 +721,7 @@ The missiong end has been
 roughly built up in rubble.
 Most of the bottom on the
 uncollapsed side, is taken
-up by a grest rock. The
+up by a great rock. The
 water apoears not to flow
 and is 2 ft deep.
    The well is in a glade
@@ -730,7 +732,7 @@ the E. by the little-used
 remains of a well-made track,
 some 3-4 ft wide and care-
 fully graded.  The surroundings
-of the well are much visitefd
+of the well are much visited
 by goats. A horse-trough is
 the only furniture.
   To drink of the well I
@@ -745,12 +747,12 @@ not easy to reach the water
 describes, provided with foot-
 holds, and the ivy which
 he describes as a ladder has
-shrunk to a single tewn uous
+shrunk to a single tewnuous
 plant. Margaret with assist-
 ance and great difficulty
 clambered down to collect
-a tuft of a Eurychium
-sp.  growing on the rock just
+a tuft of a Eurhyachium
+sp. growing on the rock just
 above the water: the first
 damp moss we had seen in
 Boeotia.
@@ -778,7 +780,7 @@ noted st c. 600m.)
   Wrens and other small birds
 are abundant in the decidu-
 ous-oak belt.
-   Mountsin csttle have bells
+   Mountsin cattle have bells
 [19820-19821]
 9820
 just like those in the Alps.
